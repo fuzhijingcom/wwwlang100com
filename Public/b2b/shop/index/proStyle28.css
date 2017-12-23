@@ -1,0 +1,150 @@
+﻿body{background: #8d2e0e;}
+
+.proNavBox{height: 30px;width:100%;position: relative;background: #7a2101;}
+
+.proNavBox .navBoxCon{margin:0 auto;height: 30px;text-align: center;}
+
+.navBoxCon li{float:left;font-size:16px;line-height: 34px;position: relative;width: 104px;height: 34px;}
+
+.navBoxCon li a{color: #fff;text-decoration:none;display:block;font-size: 14px;width: 104px;text-align: center;top: -3px;position: absolute;/* left: 0; */}
+
+.navBoxCon li a.navCur,.navBoxCon li a:hover{height: 34px;color: #fff;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) 0 -298px;}
+
+.hotTit{height: 40px;line-height: 40px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/title01.png);border-bottom: none;overflow: hidden;font-size: 14px;position: relative;}
+
+.hotTit h3{font-size: 16px;color: #fff;padding-left: 40px;margin: 0 auto;float: left;font-weight: normal;}
+
+.hotTit a{float:right;font-size:14px;text-decoration:none;margin-right: 10px;display: block;text-align: center;padding-right: 10px;color: #fff;}
+
+.hotTit a:hover{color:#fff; text-decoration:underline;}
+
+.hotBox1Con{border-top:none;padding:9px;/* background: #fff; */}
+
+.hotBox2Con,.hotBox3Con{border-top:none;padding:0px 0 11px 0;}
+
+.hotBox3Con ul li .Box1Img:hover{border:1px solid #d40b51;}
+
+.proBox25left .columnbox .Box25LeftTit{height: 30px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/title02.png) no-repeat;color:#fff;line-height: 30px;}
+
+.proBox25left .Box25LeftTit h4{color: #fff;margin:0;float:left;font-size:14px;padding-left: 30px;text-align: center;}
+
+.proBox25left .Box25LeftTit a{color: #fff;float:right;text-decoration:none;font-size:12px;padding-right: 10px;text-align: center;}
+
+.proBox25left .Box25LeftTit a:hover{color: #fff;text-decoration:underline;}
+
+.proBox75Rig .columnbox .Box25LeftTit{height: 30px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/title03.png);color:#fff;line-height: 30px;padding-left: 40px;overflow: hidden;}
+
+.proBox75Rig .Box25LeftTit h4{color: #fff;margin:0;float:left;font-size:14px;}
+
+.proBox75Rig .Box25LeftTit a{color: #fff;float:right;text-decoration:none;font-size:12px;display: block;padding-right: 5px;text-align: center;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) -0px -321px;width: 60px;}
+
+.proBox75Rig .Box25LeftTit a:hover{color: #fff;text-decoration:underline;}
+
+.proBox75Rig .messBox .messTopBtn a{display:block;height:26px;width:114px;margin:0 auto 0 40px;border:1px solid #272727;color:#272727;border-radius:4px;line-height:26px;font-size:14px;text-align:center;float:right;text-decoration:none;background: #fff;}
+
+.proBox75Rig .messBox .messList p a{display:block;height:26px;width:114px;float:right;border:1px solid #272727;color:#333;border-radius:4px;line-height:26px;font-size:14px;text-align:center;text-decoration:none;background: #fff;}
+
+.albumWindow .albumLeft a.imgDetailBtn{display: block;margin: 8px auto 0;width: 80px;height: 24px;font-size: 14px;color: #fff;text-decoration: none;background: #2399fe;text-align: center;line-height: 24px;border-radius: 4px;}
+
+.proBox25left .ContactBot dd a{display:block;height:26px;width:114px;margin:0 auto;border:1px solid #272727;color:#333;border-radius:4px;line-height:26px;font-size:14px;text-align:center;text-decoration:none;background: #fff;}
+
+.proBox25left .leftBoxCon{padding: 10px 14px;background: #fff;border-top: none;}
+
+.proBox75Rig .leftBoxCon{padding: 24px;border-top: none;}
+
+.proBox75Rig .ContactBox a.aLink{margin-right:30px; color:#333; text-decoration:none;}
+
+.fLink .Box25LeftTit{height: 40px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/title01.png) no-repeat;color:#fff;line-height: 40px;}
+
+.fLink .Box25LeftTit h4{font-size: 16px;font-weight:normal;color: #fff;padding-left: 40px;}
+
+.fLink .fLinkBox{padding:10px 0;overflow:hidden;border: 1px solid #ffd0d0;border-top: none;background: #fff;}
+
+.proSearch{width:950px;height:38px;border: 1px solid #fff;line-height:38px;background: #fff;margin-bottom: 10px;}
+
+.proSearchLeft{float:left;font-size:14px;padding-left:15px;color: #333;}
+
+.proSearchLeft a{color: #333;text-decoration:none;}
+
+.proSearchRig{float:right; padding-top:8px; padding-right:25px;}
+
+.proSearchRig input{height:20px;float:left;width:123px;border: 1px solid #942d1e;padding-left:5px;line-height:20px;background: none;color: #333;}
+
+.proSearchRig span{margin-left:25px;float:left;color: #333;line-height:22px;font-size:14px;}
+
+.proSearchRig span em{display: block;height: 16px;width: 16px;margin-right: 5px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) 0 -227px;float: left;vertical-align: middle;margin-top: 3px;cursor:pointer;}
+
+.proSearchRig span em.selectCur{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) 0 -175px;}
+
+.proSearchRig button{height:22px;width: 65px;border-radius:4px;color: #fff;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) 0 -294px;margin-left:25px;float:left;line-height:22px;cursor: pointer;}
+
+.BannerArrowBox{height:450px;width: 1000px;position: absolute;top: 0;left: 50%;margin-left: -500px;text-align: center;}
+
+.BannerArrowBox .bLeftArrow{display: block;height: 82px;width: 42px;top: 50%;margin-top: -41px;position: absolute;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png);left:0;background-position: 0px -40px;}
+
+.BannerArrowBox .bRightArrow{right:0;display: block;height: 82px;width: 42px;top: 50%;margin-top: -41px;position: absolute;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png);background-position: -81px -40px;}
+
+.BannerArrowBox p{height:16px; position:absolute; bottom:25px; width:100%; left:0; text-align:center;}
+
+.BannerArrowBox p em{display:inline-block;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) -24px 0;height:16px;margin:0 5px;width:16px;}
+
+.BannerArrowBox p em.bannerCur{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/bannerIco.png) 0 0;}
+
+.proBox75Rig .rigTabTit dd.TabTitCur,.proBox75Rig .rigTabTit dd:hover{border-bottom:2px solid #272727;}
+
+.comIntroTab{height:28px;border-bottom: 1px solid #7a2101;margin-bottom:20px;}
+
+.comIntroTab a{display:block;float:left;height:29px;padding:0 20px;line-height:28px;color: #fff;text-decoration:none;font-size: 14px;margin-right:1px;}
+
+.comIntroTab a.introCur,.comIntroTab a:hover{background: #7a2101;border-radius:3px;color: #fff;}
+
+.conListNew{width:100%;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/topBg.png) top center;height:110px;position: relative;}
+
+.comName h2{display:table-cell;vertical-align:middle;height:110px;font-weight:normal;font-size: 30px;}
+
+.comName a{color:#fff; text-decoration:none; vertical-align:middle;}
+
+.newWrapCon{width:952px;padding:0 15px;margin: 0 auto;}
+
+.proBox75Rig .ContactBox p a{display:block;height:26px;width:114px;margin:0 auto;border:1px solid #ee2e2c;color:#ee2e2c;border-radius:4px;line-height:26px;font-size:14px;text-align:center;text-decoration:none;background: #fff;}
+
+.qBoxConList .qBoxTit{height: 30px; border-bottom: 1px solid #333; line-height: 30px; padding-left: 28px; color: #333; font-size: 16px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -130px -1289px no-repeat;}
+
+.proBox75Rig .cDynamics .rigTabTit{height:36px; border-bottom:1px solid #e6e6e6;}
+
+.proBox75Rig .rigTabTit dd{float:left;padding:0 6px;line-height:36px;height:34px;color:#666;margin-right:20px;font-size:16px;cursor: pointer;}
+
+.proBox75Rig .rigTabTit dd.TabTitCur,.proBox75Rig .rigTabTit dd:hover{border-bottom:2px solid #272727;}
+
+.conListNew a{display:block;border:none;}
+
+.borWhite{border:1px solid #fff;}
+
+.conListNew a h2{color: #fff;}
+
+.hotBox2Con, .hotBox3Con,.hotBox1Con{border-top: none;background: #fff;}
+
+.hotBox1Con ul li dd.hBotIco span,.hotBox2Con ul li dd.hBotIco span,.hotBox3Con ul li dd.hBotIco span{float:right;color: #999;font-size: 14px;}
+
+.hotBox3Con ul li dd.hotName a{color: #333;text-decoration:none;padding:0 15px;display: block;}
+
+.hotBox2Con ul li dd.hotName a{color:#333; text-decoration:none; padding:0 15px;display: block;}
+
+.hotBox1Con ul li dd.hotName a{color: #333;text-decoration:none;padding:0 15px;display: block;}
+
+.navBoxCon table{height: 30px;margin: 0 auto;}
+
+.navBoxCon{text-align:center;}
+
+.navBoxCon td{float:left;position: relative;margin: 0 1px;display: block;height: 30px;}
+
+.navBoxCon td a{color: #fff;text-decoration:none;display: block;font-size: 14px;height: 30px;line-height: 30px;text-align: center;padding: 0 25px;}
+
+.navBoxCon td a.navCur,.navBoxCon td a:hover{color: #fff;background:#571801;}
+
+.fLink .fLinkBox ul li a:hover,.proBox25left .cPicBox a:hover,.proBox25left .classBox ul li dd a:hover,.proBox25left .classBox ul li h4 a:hover,.proBox25left .newPicList dd a:hover,.proBox25left .newProList .leftProName a:hover,.proBox25left .qyInfoList ul li a:hover,.hotBox1Con ul li dd.hotName a:hover,.hotBox2Con ul li dd.hotName a:hover,.hotBox3Con ul li dd.hotName a:hover,.proBox75Rig .classBox ul li h4 a:hover,.proBox75Rig .qyInfoList ul li a:hover,.proBox75Rig .newProList .leftProName a:hover:hover,.proBox75Rig .ContactBox a.aLink:hover{color:#d40c50;}
+
+.introBox,.ProDirectory{border:1px solid #e6e6e6; border-top:none;}
+
+.bannerBoxCon ul li{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item28/banner.jpg) center center;}
+

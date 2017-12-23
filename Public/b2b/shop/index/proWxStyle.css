@@ -1,0 +1,53 @@
+.wxConsultation{overflow:hidden;width: 730px;background:#fff;border-radius:4px;height: 505px;position:fixed;top:50%;left:50%;margin-left:-365px;margin-top:-252px;z-index:5000004; font-family:Microsoft YaHei;}
+.wxConLeft{border-right:1px solid #dedede;width:138px;height: 505px;padding:0 9px;float:left;background:#eaeaea;}
+.wxConLeft span{ display:block; height:138px; width:138px; padding-top:92px;}
+.wxConLeft p{ line-height:18px; color:#333; font-size:12px; padding-top:5px; text-align:center;}
+.wxConsulLeft{float:left;width: 490px;border-right:1px solid #e6e6e6;height:420px;}
+.wxConsulLeftTop{height:260px; width:100%; background:#f5f5f5;}
+.wxclTop{height: 260px;padding: 0px 0 5px 20px;background: #f5f5f5;overflow: auto;}
+.wxclBoxLeft,.wxclBoxRig{overflow: hidden;padding: 6px 0;width: 520px;}
+.wxclBoxLeft em.wxclImg{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/wxImg/ConsultaIco2.png) 0 -58px;height: 42px;width: 45px;float:left;margin-right: 5px;display:block;}
+.wxclBoxLeft .wxclImgRig{float: left;}
+.wxclBoxLeft .wxclImgRig p.wxclTime{color: #999; font-size: 12px; line-height: 28px;}
+.wxclBoxLeft .wxclImgRig .wxConsulList{width: 350px;padding: 10px 12px;line-height: 18px;background: #fff;position: relative;*position:inherit;border-radius: 6px;font-size: 12px;color: #333;border: 1px solid #f2f2f2;}
+.wxclBoxLeft .wxclImgRig .wxConsulList em{position: absolute;height: 15px;width: 12px;display: block;left: -7px;top: 10px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/wxImg/ConsultaIco2.png) 0 -124px;}
+.wxclBoxRig em.wxclImg{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/wxImg/ConsultaIco2.png) -65px -59px no-repeat;height: 45px;width: 45px;float: right;margin-left: 8px;display:block;}
+.wxclBoxRig .wxclImgRig{float: right;}
+.wxclBoxRig .wxclImgRig p.wxclTime{color: #999;font-size: 12px;line-height: 28px;text-align: right;}
+.wxclBoxRig .wxclImgRig .wxConsulList{width: 350px;padding: 10px 12px;line-height: 18px;background: #c6ebff;position: relative;*position:inherit;border-radius: 6px;font-size: 12px;color: #333;word-break: break-all;border: 1px solid #aedbf2;}
+.wxclBoxRig .wxclImgRig .wxConsulList em{position: absolute;height: 15px;width: 12px;display: block;right: -12px;top: 10px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/wxImg/ConsultaIco2.png) 0 -175px;}
+.wxclBot{padding: 10px 10px 0; overflow: hidden;}
+.wxclBot .wxclBotText textarea{width: 535px;height: 70px;line-height: 22px;padding: 0 10px;font-family: "Microsoft YaHei";border:none;font-size: 14px;}
+.wxclBot .wxclBotText{height: 90px; border-bottom: 1px solid #e6e6e6; position:relative;}
+.wxclBotText p{text-align:right;font-size:12px;color:#999;padding-right:10px;}
+.wxclBotInput{padding: 10px 20px;overflow: hidden;}
+.wxclBotInput span{font-size: 14px;color: #666;float: left;width: 90px;line-height: 30px;text-align: right;}
+.wxclBotInput span em{vertical-align: middle; color: #e43232; font-weight: bold; padding-right: 5px;}
+.wxbInputBox{position:relative;float:left;margin-top: 13px;}
+.wxbInputBox input{border:1px solid #19a4ed;height:30px;padding:0 10px;width:200px;border-radius:3px;line-height: 30px;color: #333;}
+.wxbInputBox em.warning{position: absolute;left: 8px;top: 1px;*top:1px;height: 28px;background: #fff;font-size: 12px;display: none;line-height: 30px;}
+.wxbInputBox em.warning{width: 200px;}
+.wxbInputBox em strong{width:14px;height:14px;vertical-align: middle;display: inline-block;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/xunjia-new/l-more.png) no-repeat -60px 0;margin-right:4px;margin-bottom: 3px;}
+.wxclBotInput button{background:#19a4ed;float: right;height: 30px;width: 140px;margin-top: 40px;border-radius: 4px;color: #fff;font-size: 14px;line-height: 28px;border:none;}
+.wxclBotInput button.cGrayBtn{background:#d5d5d5;}
+.wxConsulRig{width:185px;padding: 30px 0 0 26px;float:left;}
+.wxConsulRig dt{height: 187px; margin-bottom: 15px;}
+.wxConsulRig dd{font-size: 12px; padding: 0 16px; color: #333;}
+.wxConRig{ float:left; width:572px;}
+.wxmTitTop{float:left;width:100%;background: #c6ebff; height:40px;}
+.wxmTitTopCon{width: 360px;margin: 0 auto 0 145px;overflow: hidden;}
+.wxmTitTop em{float:left;display:block;height:30px;margin:5px 0;width:24px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/wxImg/ConsultaIco2.png) -3px 0px;}
+.wxmTitTop span{padding: 0 5px;line-height: 16px;height:16px;margin:12px 0;display: block;float: left;font-size: 14px;}
+.wxmTitTop span.wxborLeft{border-left: 1px solid #333;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;width: 270px;padding-left: 10px;margin-left: 5px;}
+a.wxCloseBtn{width: 40px;height: 40px;position:absolute;right: 0px;top: 0px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/xunjia-new/l-moreNew.png) no-repeat -10px -196px;cursor:pointer;}
+.wxTime{text-align:center;color:#999;line-height: 26px;padding: 6px 0 0;margin: 0;font-size: 12px;}
+.wxclBotText p.ProhibitedTxt{position:absolute;color: #e93b39;left: 0.7407rem;bottom: 1px;font-size: 12px; display:none;}
+.wxclBotInput dl{float:left;width: 391px;}
+.wxclBotInput dd{height: 30px;position: relative;overflow: hidden;margin: 5px 0;}
+.wxclBotInput dd span{}
+.wxclBotInput dd input{float: left;width: 275px;height: 28px;border: 1px solid #19a4ed;border-radius: 4px;padding-left: 10px;line-height: 26px;}
+.wxclBotInput button{ float:left;}
+.wxclBotInput dd .wxwarning{position: absolute;left: 98px;top: 1px;width:277px;*top:1px;height: 28px;background: #fff;font-size: 12px;line-height: 28px;}
+.wxclBotInput em strong{width:14px;height:14px;vertical-align: middle;display: inline-block;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/xunjia-new/l-more.png) no-repeat -60px 0;margin-right:4px;margin-bottom: 3px;}
+.wxclBotInput dd em.wxc-red{color:#e93b39;}
+.wxclBotText p em.pRed{color:#e93b39; padding:0 2px;}

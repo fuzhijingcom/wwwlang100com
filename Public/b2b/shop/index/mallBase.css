@@ -1,0 +1,2860 @@
+body{margin:0; padding:0; font-family:"Microsoft YaHei","MicrosoftJhengHei";}
+
+html,body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ul,ol,li,form,fieldset,legend,button,submit,input,textarea,pre,sup,address,cite,dfn,em,var,blockquote{margin:0; padding:0;border:none; list-style:none;font-family:"Microsoft YaHei","MicrosoftJhengHei";}
+
+.columnbox:after,.qyInfoList:after,.clearfix:after,.proMainBox:after,.fLink:after,.listConWrap:after,.screenWr:after,.hotBox:after,.hotBox2Con ul:after,.hotBox3Con ul:after,.albumWindow:after,.ContactPage .ContacCon2 dt:after,.newWrapCon:after,.proBox75Rig .newProList:after,.proBox75Rig .newProList ul:after,.newWrap:after,.hotBox1Con ul:after,.proBox25left .classBox ul li:after,.qyArchives .ArchivesList ul li:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+
+.columnbox,.qyInfoList,.clearfix,.proMainBox,.fLink,.listConWrap,.screenWr,.hotBox,.hotBox2Con ul,.hotBox3Con ul,.albumWindow,.ContactPage .ContacCon2 dt,.newWrapCon,.proBox75Rig .newProList,.proBox75Rig .newProList ul,.newWrap,.hotBox1Con ul,.proBox25left .classBox ul li,.qyArchives .ArchivesList ul li{*+height:1%;}
+
+em{font-style:normal;}
+
+/*===================================================logo£¬µ¼º½===================================================*/
+
+.centerListBox{width:952px; margin:0 auto; height:120px;}
+
+.comLogo{float:left;width:160px;overflow:hidden;padding-top: 15px;}
+
+.comName{float:left;width: 760px;font-size:36px;padding-left:20px;}
+
+.comLogo span{display:table-cell;vertical-align:middle;width:160px;height: 80px;*display:block;*font-family:Arial;*font-size:137.5px;text-align: center;}
+
+.comLogo span img{vertical-align:middle;max-height: 80px;max-width:160px;}
+
+.bannerBoxNew{width:100%;overflow:hidden;margin-bottom:0px;position: relative;}
+
+.bannerBoxCon{height: 450px;width:100%;position: relative;}
+
+.bannerBoxCon ul li{height:450px;}
+
+.bannerBoxCon ul li.banner1Img{position: relative;}
+
+.proImgBox{width:952px;position: relative;text-align:center;}
+
+.proImgBox ul li{overflow:hidden;float:left;width:100%;}
+
+.proImgBox ul li img{vertical-align:bottom;}
+
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+
+.clearfix{*+height:1%;}
+
+.BoxContent{width:952px; margin:0 auto;}
+
+/*===================================================Í·²¿===================================================*/
+
+.proTopBoxCon{height:48px; padding:21px 0; margin:0 auto; width:1190px;}
+
+.proTopBoxCon .logoBox{height:48px;width:160px;float: left;}
+
+.proTopBoxCon .logoBox a.logo{display:block;height:48px;width: 150px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -148px no-repeat;}
+
+.proTopBox{height:80px;background: #fff;}
+
+.proTopBoxCon{height:48px; padding:16px 0; margin:0 auto; width:952px;}
+
+.button-box{float:right;}
+
+.btn:hover{background:#018BF6;color:#fff}
+
+.btn{width:134px;height:32px;border:1px solid #018BF6;text-align: center;line-height:32px;color:#018BF6;font-size:14px;margin-left:8px;cursor:pointer;}
+
+.search{float:right;width: 506px;padding-left: 0px;padding-top: 6px;height:40px;}
+
+.search-box{width: 700px;height:40px;}
+
+.search input{width:480px;height: 30px;border: 2px solid #e5e5e5;border-right:none;line-height:32px;color:#A8A8A8;padding-left:10px;float:left;display: inline-block;}
+
+.search label{float:left}+
+
+.search label button{width:86px;height:36px;text-align: center;line-height:34px;color:#fff;font-size:14px;display: inline-block;border:none;cursor:pointer;}
+
+button.thisShop{background: #fff;color: #ee2e2c;border: 1px solid #ee2e2c;height: 34px;}
+
+/*===================================================Ò³ÃæÖÐ²¿ËÑË÷===================================================*/
+
+/*===================================================Í¨À¸²úÆ·1===================================================*/
+
+.hotProBox{width:952px;margin: 10px auto 0;position: relative;}
+
+.hotBox1Con ul{width:102%;height: auto;}
+
+.hotBox1Con ul li{width:300px;float:left;margin-right:16px;padding-bottom: 10px;height: 410px;}
+
+.hotBox1Con ul li .Box1Img{width:300px;height:300px;}
+
+.hotBox1Con ul li dd{text-align:center;}
+
+.hotBox1Con ul li dd.hotPrice{font-size: 16px;color:#ee2e2c;padding: 10px 0 5px 0;}
+
+.hotBox1Con ul li dd.hotPrice span{font-size:12px; padding-right:7px;}
+
+.hotBox1Con ul li dd.hotName{margin: 3px 0 5px;font-size:14px;line-height:20px;height:40px;overflow:hidden;}
+
+/*===================================================Í¨À¸²úÆ·2===================================================*/
+
+.hotBox2Con ul{width:102%;}
+
+.hotBox2Con ul li{width:210px;float:left;margin:12px 13px 4px 13px;border:1px solid #e6e6e6;background: #fff;height: 320px;}
+
+.hotBox2Con ul li .Box1Img{width:210px;height:210px;}
+
+.hotBox2Con ul li dd{text-align:center;}
+
+.hotBox2Con ul li dd.hotPrice{font-size:16px;color:#ee2e2c;padding: 10px 0 5px 0;}
+
+.hotBox2Con ul li dd.hotPrice span{font-size:12px;padding-right: 5px;}
+
+.hotBox2Con ul li dd.hotName{margin: 3px 0 5px;font-size:14px;line-height:20px;height:40px;overflow:hidden;}
+
+/*===================================================Í¨À¸²úÆ·3===================================================*/
+
+.hotBox3Con ul{width:102%;}
+
+.hotBox3Con ul li{width: 172px;float:left;margin: 12px 3px 0px 13px;height: 280px;}
+
+.hotBox3Con ul li .Box1Img{width:170px;height:170px;border: 1px solid #e6e6e6;background: #fff;}
+
+.hotBox3Con ul li dd{text-align:center;}
+
+.hotBox3Con ul li dd.hotPrice{font-size:16px;color:#ee2e2c;padding: 10px 0 5px 0;}
+
+.hotBox3Con ul li dd.hotPrice span{font-size: 12px;padding-right: 5px;}
+
+.hotBox3Con ul li dd.hotName{margin: 5px 0 5px 0;font-size:14px;line-height:20px;height:40px;overflow:hidden;}
+
+.hotBox1Con ul li dd.hotName a:hover,.hotBox2Con ul li dd.hotName a:hover,.hotBox3Con ul li dd.hotName a:hover{color:#ee2e2c; text-decoration:underline;}
+
+.proMainBox{width:952px;margin:0 auto;}
+
+.proBox25left{float:left;width:210px;position: relative;}
+
+.proBox75Rig{float:right;width:732px;}
+
+.proBox25left .columnbox{/* overflow:hidden; */margin-bottom:10px;}
+
+.proBox25left .qyArchives h2{font-size:14px; line-height:20px;}
+
+/*===================================================¹«Ë¾½éÉÜ===================================================*/
+
+.proBox25left .conpanyBox{overflow:hidden;}
+
+.proBox25left .conpanyBox p{line-height:18px; color:#666; font-size:14px; padding:0 4px;}
+
+.proBox25left .conpanyImg{height:135px;width:135px;margin: 15px auto 10px;border:1px solid #ccc;overflow: hidden;position: relative;}
+
+.proBox25left .conpanyImg ul li img{max-width:135px;max-height:135px;/* float: left; */}
+
+.proBox25left .conpanyImg ul.slick-dots{bottom:0;}
+
+/*===================================================¹«Ë¾¶¯Ì¬===================================================*/
+
+.proBox25left .qyInfoList ul li{max-height:50px;line-height: 24px;margin: 4px 0;border-bottom:1px dashed #e6e6e6;font-size:14px;overflow: hidden;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox25left .qyInfoList ul li a{text-decoration:none; color:#666;}
+
+.proBox25left .qyInfoList ul li a:hover{color:#ee2e2c;}
+
+/*===================================================×îÐÂ¹©Ó¦===================================================*/
+
+.proBox25left .newProList ul li{width:182px;/* overflow:hidden; */}
+
+.proBox25left .newProList .newProImg{height: 180px;width: 180px;/* overflow:hidden; */}
+
+.proBox25left .newProList .leftProName{max-height:40px;line-height:20px;font-size:14px;overflow:hidden;margin: 6px 0 10px 0;}
+
+.proBox25left .newProList .leftProName a{color:#666; text-decoration:none;}
+
+.proBox25left .newProList .leftProPrice{max-height:40px;padding: 10px 0px 0 0px;line-height:20px;color:#ee2e2c;font-size: 16px;font-family:Microsoft YaHei;}
+
+.proBox25left .newProList .leftProPrice span{font-size: 14px;}
+
+.proBox25left .newProList .leftProName a:hover{color:#ee2e2c;}
+
+/*===================================================Ïà²á³÷´°===================================================*/
+
+.proBox25left .newPicList{padding: 0 15px;overflow: hidden;}
+
+.proBox25left .newPicList ul li{border-top: 1px dashed #e6e6e6;height:100px;margin-top: -1px;padding: 12px 0;}
+
+.proBox25left .newPicList ul li .newPicImg{float:left; height:100px; width:106px; background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0 -224px;}
+
+.proBox25left .newPicList .PicImgCon{height:84px; width:84px; background:#f8f8f8; border:1px solid #ccc; margin:4px 0 0 8px; position:relative; overflow:hidden;}
+
+.proBox25left .newPicList dd{float:left;padding-left:8px;width: 60px;font-size:14px;height: 96px;overflow:hidden;}
+
+.proBox25left .newPicList dd a{word-break: break-all; word-wrap:break-word;color:#666;line-height: 24px;text-decoration:none;}
+
+.proBox25left .newPicList dd p{color:#999;}
+
+.proBox25left .newPicList dd a:hover{color:#ee2e2c;}
+
+.proBox25left .newPicList .PicImgCon em{position:absolute;height: 29px;width: 30px;right: -2px;top: -1px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -120px -224px no-repeat;}
+
+/*===================================================ÁôÑÔ===================================================*/
+
+.proBox25left .messBox{overflow:hidden; padding:10px 15px 5px 15px;}
+
+.proBox25left .messBox ul{overflow:hidden;}
+
+.proBox25left .messBox ul li{border-top:1px dashed #ccc; margin-top:-1px; padding:7px 0; white-space:nowrap;}
+
+.proBox25left .messBox ul li dt{overflow:hidden; max-height:36px; line-height:18px; text-align:left; font-size:14px; color:#666;}
+
+.proBox25left .messBox ul li dd{text-align:right; line-height:24px; color:#999; font-size:12px;}
+
+/*===================================================ÁªÏµÎÒÃÇ===================================================*/
+
+.proBox25left .ContactBox{font-size:12px; color:#333;}
+
+.proBox25left .ContactBox ul li{padding:4px 0;line-height:18px;overflow: hidden;}
+
+.proBox25left .ContactBox .ContactLeft{display:block;white-space:nowrap;width: 50px;float:left;color: #666;}
+
+.proBox25left .ContactBox span{display:block;width: 127px;float:left;color: #333;}
+
+.proBox25left .ContactBox span.letterLeft{letter-spacing: 2em;}
+
+.proBox25left .ContactBox span em{font-style:normal;color: #333;font-weight: bold;}
+
+.proBox25left .ContactBox .ContactBot{border-top:1px dashed #ccc; padding-top:20px; margin-top:5px; overflow:hidden;}
+
+.proBox25left span.ContactBotLeft{display:block;white-space:nowrap;width: 60px;float:left;color: #666;}
+
+.proBox25left .ContactBotRig{float:left;width: 113px; padding-left:5px;}
+
+.proBox25left .ContactBotRig .leftqqIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -338px no-repeat;display:block;width: 82px;height:20px;float: left;}
+
+.proBox25left .ContactBotRig p{overflow:hidden;padding-bottom: 14px;}
+
+.proBox25left .ContactBotRig .leftffIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0 -375px no-repeat;display:block;height: 18px;width:16px;float:left;margin-right:5px;}
+
+.proBox25left .ContactBot dt{overflow:hidden;}
+
+.proBox25left .ContactBot dd{height:28px;padding-bottom: 5px;}
+
+/*===================================================²úÆ··ÖÀà===================================================*/
+
+.proBox25left .classBox{overflow:hidden;}
+
+.proBox25left .classBox ul li h4{padding: 3px 0 3px 20px;min-height: 24px;font-size: 14px;color:#666;line-height:24px;font-weight:normal;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 170px;}
+
+.proBox25left .classBox ul li h4 a{color:#666; text-decoration:none;}
+
+.proBox25left .classBox ul li h4 a:hover,.proBox25left .classBox ul li dd a:hover{color:#ee2e2c;}
+
+.proBox25left .classBox ul li h4.classShow{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/classIcoNew.png) -273px 10px no-repeat;}
+
+.proBox25left .classBox ul li h4.classHide{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/classIcoNew.png) 1px 10px no-repeat;}
+
+.proBox25left .classBox ul li dd{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/classIcoNew.png) -523px -11px no-repeat;padding-left:20px;font-size:12px;line-height:24px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox25left .classBox ul li dd.ddLast{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -135px -308px no-repeat;}
+
+.proBox25left .classBox ul li dd a{color:#999; text-decoration:none;}
+
+.proBox25left .cPicBox{line-height:30px;}
+
+.proBox25left .cPicBox a{padding-left:20px;color:#666;font-size:14px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -137px -504px no-repeat;text-decoration: none;display:block;height:30px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+/*===================================================ÈÙÓþÖ¤Êé===================================================*/
+
+.proBox25left .zsBox{margin:0 auto;padding: 10px 13px 5px 14px;}
+
+.proBox25left .zsBox .zdImgBox{height:180px; width:180px;}
+
+.proBox25left .zsBox p{line-height:20px; margin:10px 0; font-size:14px; color:#666; overflow:hidden;text-align:center;}
+
+/*===================================================ÂòÂôÍ¨µµ°¸===================================================*/
+
+.proBox25left .mmtBox{margin:0 auto;padding: 2px 13px 13px 14px;}
+
+.proBox25left .mmtBox p{line-height:40px; font-size:14px;}
+
+.proBox25left .mmtBox p b{color:#ee2e2c;}
+
+.proBox25left .mmtTable{font-size:12px;}
+
+.proBox25left .mmtTable table{border-top:1px solid #e6e6e6; border-left:1px solid #e6e6e6;}
+
+.proBox25left .mmtTable table td,.proBox25left .mmtTable table th{border-bottom:1px solid #e6e6e6; border-right:1px solid #e6e6e6; text-align:center; line-height:26px;}
+
+.proBox25left .mmtTable table th{width:50%;color:#666;font-weight: normal;}
+
+.proBox25left .mmtTable table td{font-size:14px;color:#ee2e2c;}
+
+.proBox25left .mmtImgBox{border:1px solid #e4e4e4; width:178px; height:112px; overflow:hidden;}
+
+/*===================================================ÓÒ²à¹«Ë¾½éÉÜ===================================================*/
+
+.proBox75Rig .columnbox{margin-bottom:10px;background: #fff;}
+
+.proBox75Rig .qyArchives h2{font-size:14px; line-height:20px;}
+
+.proBox75Rig .conpanyBox{overflow:hidden;}
+
+.proBox75Rig .conpanyBox p{line-height: 20px;color:#666;font-size:14px;}
+
+.proBox75Rig .conpanyImg{margin:0 auto;padding: 18px 0 0;}
+
+.proBox75Rig .conpanyImg ul li{width: 135px;height: 135px;overflow: hidden;float: left;padding-left: 14px;}
+
+/*===================================================ÓÒ²à¹«Ë¾¶¯Ì¬===================================================*/
+
+.proBox75Rig .qyInfoList ul li{max-height:50px;line-height: 28px;overflow:hidden;font-size:14px;width: 310px;float: left;margin-right: 35px;}
+
+.proBox75Rig .qyInfoList ul li a{text-decoration:none;color:#666;float: left;max-width: 228px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox75Rig .qyInfoList ul li a:hover{color:#ee2e2c;}
+
+.proBox75Rig .qyInfoList ul li span{float:right; color:#666; font-size:14px;}
+
+/*===================================================ÁªÏµÎÒÃÇ===================================================*/
+
+.proBox75Rig .ContactBox{font-size:12px; color:#333;}
+
+.proBox75Rig .ContactBox ul li{padding:4px 0;line-height: 20px;overflow: hidden;}
+
+.proBox75Rig .ContactBox .ContactLeft{display:block;white-space:nowrap;width: 50px;float:left;color: #666;}
+
+.proBox75Rig .ContactBox span{display:block;width: 620px;float:left;color: #333;}
+
+.proBox75Rig .ContactBox h2{font-size:16px; font-weight:bold; padding:2px 0 10px 0; color:#333;}
+
+.proBox75Rig .ContactBox span.letterLeft{letter-spacing: 2em;}
+
+.proBox75Rig .ContactBox span em{font-style:normal;color: #333;}
+
+.proBox75Rig .ContactBox .ContactBot{border-top:1px dashed #ccc; padding-top:20px; margin-top:5px; overflow:hidden;}
+
+.proBox75Rig span.ContactBotLeft{display:block;white-space:nowrap;width: 60px;float:left;color: #666;}
+
+.proBox75Rig .ContactBox .leftqqIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -338px no-repeat;display: inline-block;width:100px;height:20px;vertical-align: middle;margin-top: -2px;margin-left: 5px;}
+
+.proBox75Rig .ContactBox .leftffIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0 -375px no-repeat;display: inline-block;height: 18px;width:16px;margin-right:5px;vertical-align: middle;}
+
+.letter04{letter-spacing: 0.4rem;}
+
+.proBox75Rig .ContactBox p{height:28px;padding-bottom: 5px;padding-top: 12px;}
+
+/*===================================================×îÐÂ¹©Ó¦===================================================*/
+
+.proBox75Rig .newProList ul li{width: 162px;float: left;padding: 15px 0px 0 0;margin-right: 12px;}
+
+.proBox75Rig .newProList .newProImg{height: 160px;width: 160px;border: 1px solid #e9e8e6;}
+
+.proBox75Rig .newProList .leftProName{height:40px;margin: 0px 0 0;line-height:20px;font-size:14px;overflow:hidden;padding: 5px 0 0 0;}
+
+.proBox75Rig .newProList .leftProName a{color:#666; text-decoration:none;}
+
+.proBox75Rig .newProList .leftProPrice{height: 20px;padding: 10px 0px 0;line-height:20px;color: #ee2e2c;font-size: 16px;font-family: Microsoft YaHei;overflow: hidden;}
+
+.proBox75Rig .newProList .leftProPrice span{margin-right: 3px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 160px;display: block;}
+
+.proBox75Rig .newProList .leftProName a:hover{color:#ee2e2c;}
+
+.proBox75Rig .newProList ul{width: 104%;margin-top: -15px;}
+
+/*===================================================²úÆ··ÖÀà===================================================*/
+
+.proBox75Rig .classBox{overflow:hidden;}
+
+.proBox75Rig .classBox ul{width:104%;}
+
+.proBox75Rig .classBox ul li{overflow:hidden;width: 150px;float: left;margin-right: 25px;}
+
+.proBox75Rig .classBox ul li h4{padding: 3px 0;height:24px;font-size:14px;color:#666;line-height:24px;font-weight:normal;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox75Rig .classBox ul li h4 a{color:#666; text-decoration:none;}
+
+.proBox75Rig .classBox ul li h4 a:hover{color:#ee2e2c;}
+
+.proBox75Rig .classBox ul li h4.classShow{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -136px -328px no-repeat;}
+
+.proBox75Rig .classBox ul li dd{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -135px -441px no-repeat;padding-left:20px;font-size:12px;line-height:24px;}
+
+.proBox75Rig .classBox ul li dd.ddLast{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -135px -308px no-repeat;}
+
+.proBox75Rig .classBox ul li dd a{color:#999; text-decoration:none;}
+
+.proBox75Rig .cPicBox{line-height:30px;}
+
+.proBox75Rig .cPicBox a{padding-left:20px;color:#666;font-size:14px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -137px -504px no-repeat;text-decoration: none;display:block;height:30px;}
+
+.proBox75Rig th span{height:32px; line-height:32px;}
+
+/*===================================================ÈÙÓþÖ¤Êé===================================================*/
+
+.proBox75Rig .zsBox{margin:0 auto;overflow: hidden;}
+
+.proBox75Rig .zsBox ul li{float:left;margin-right: 67px;width:120px;}
+
+.proBox75Rig .zsBox .zdImgBox{height:120px; width:120px;}
+
+.proBox75Rig .zsBox .zdImgBox img{max-height:120px; max-width:120px;}
+
+.proBox75Rig .zsBox p{font-size:14px;color: #333;text-align:center;padding-top: 10px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox75Rig .zsBox ul{width: 111%;}
+
+/*===================================================ÂòÂôÍ¨µµ°¸===================================================*/
+
+.proBox75Rig .mmtBox{margin:0 auto;}
+
+.proBox75Rig .mmtBox p{padding-bottom: 22px;font-size: 16px;font-weight: bold;color: #333;}
+
+.proBox75Rig .mmtBox p b{color:#ee2e2c;}
+
+.proBox75Rig .mmtTable{font-size: 14px;margin-right: 20px;float: left;width: 415px;}
+
+.proBox75Rig .mmtTable table{border-top:1px solid #e6e6e6; border-left:1px solid #e6e6e6;}
+
+.proBox75Rig .mmtTable table td,.proBox75Rig .mmtTable table th{border-bottom:1px solid #e6e6e6;border-right:1px solid #e6e6e6;text-align:center;line-height: 30px;}
+
+.proBox75Rig .mmtTable table th{width: 40%;color:#666;font-weight: normal;}
+
+.proBox75Rig .mmtTable table td{font-size:14px;color:#ee2e2c;}
+
+.proBox75Rig .mmtImgBox{border:1px solid #e4e4e4;width: 240px;height: 152px;overflow:hidden;}
+
+/*===================================================×¨Òµ³÷´°===================================================*/
+
+.proBox75Rig .zyccBox4{font-size:14px; text-align:center; line-height:32px;}
+
+.proBox75Rig .zyccBox4 th.w215{width: 195px;}
+
+.proBox75Rig .zyccBox4 th.w110{width: 95px;}
+
+.proBox75Rig .zyccBox4 span.cRed{color:#ee2e2c;width: 140px;white-space:nowrap !important;word-wrap:normal;}
+
+.proBox75Rig .zyccBox4 a{display:block;width: 165px;overflow:hidden;text-overflow:ellipsis;-o-text-overflow:ellipsis;margin: 0 auto;color:#666;text-decoration:none;white-space: nowrap !important;word-wrap:normal;}
+
+.proBox75Rig .zyccBox4 td{color:#666;}
+
+.proBox75Rig .zyccBox4 a:hover{color:#ee2e2c;}
+
+.proBox75Rig .zyccBox4 td span{display:block;margin:0 auto;width: 80px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox75Rig .messBox4 .messTop{overflow:hidden;font-size:14px;}
+
+/*===================================================ÁôÑÔ¹ÜÀí===================================================*/
+
+.proBox75Rig .messBox .messImg{height: 200px;width: 200px;float:left;}
+
+.proBox75Rig .messBox .messTopRig{padding-left:30px;float:left;width: 452px;line-height: 24px;color:#333;}
+
+.proBox75Rig .messBox .messTopRig span{color:#666;}
+
+.proBox75Rig .messBox .messTopRig dt{border-bottom:1px solid #e5e5e5; padding-bottom:6px; margin-bottom:6px;}
+
+.proBox75Rig .messBox .messTopTime{overflow:hidden;padding: 7px 0px 0 0;}
+
+.proBox75Rig .messBox .messTopTime .tLeft{float:left;color:#333;}
+
+.proBox75Rig .messBox .messTopTime .tRig{float:right;color:#333;}
+
+.proBox75Rig .messBox .messTopBtn{overflow:hidden;height:28px;padding: 15px 0;clear: both;border-bottom: 1px solid #e5e5e5;margin-bottom: 20px;}
+
+.proBox75Rig .messBox ul li{margin-top:-1px;padding: 8px 0 5px;overflow: hidden;}
+
+.proBox75Rig .messBox ul li dt{overflow:hidden;line-height:18px;text-align:left;font-size:14px;padding-top: 5px;color: #666;}
+
+.proBox75Rig .messBox ul li dd{text-align:right;line-height:24px;color:#333;font-size: 14px;overflow: hidden;padding-top: 12px;}
+
+.proBox75Rig .messBox ul li dd .tLeft{float:left;color:#333;padding-left: 40px;}
+
+.proBox75Rig .messBox ul li dd .tRig{float:right;color:#333;}
+
+.proBox75Rig .messBox .messList p{overflow:hidden; padding-top:10px;}
+
+.footerbox{width:100%;border-top: 1px solid #ccc;overflow: hidden; background:#fff;}
+
+.footerbox p{text-align:center;font-size: 12px;line-height: 20px;color: #333;}
+
+.footerbox .footer{width:840px;height:auto;line-height:18px;padding:14px 60px;margin:0 auto;text-align:center;color:#333;}
+
+.footerbox .editb{width:90px;height:auto;}
+
+.footerbox .editb span{cursor:pointer;}
+
+.footerbox .footer a:link,.footerbox .footer a:visited{text-decoration:none;color:#333; padding:0 5px;}
+
+.footerbox .footer a{padding:0 5px;}
+
+.footerbox .footer span{padding-left:5px;}
+
+.footerbox .footer a:hover{text-decoration:underline;color:#1e50a2;}
+
+.footerbox .footer img{margin-right:5px;}
+
+/*===================================================ÆóÒµµµ°¸===================================================*/
+
+.qyArchives .memyear{padding:8px 0 10px 0;border-bottom:1px dashed #e6e6e6;margin-bottom:5px;font-size:14px;overflow:hidden;line-height:24px;}
+
+.qyArchives .memyear em{display:block;height:23px;width:23px;float:left;margin-right:3px;}
+
+.qyArchives .memyear em.vipIco{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -100px 3px no-repeat;}
+
+.qyArchives .memyear em.mmtIco{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -129px -1px no-repeat;}
+
+.qyArchives .memyear em.jpIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1699px no-repeat;}
+
+.qyArchives .memyear em.ypIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1664px no-repeat;}
+
+.qyArchives .memyear em.bjIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1736px no-repeat;}
+
+.qyArchives .memyear span{float:left;}
+
+.qyArchives .memyear span.mRed,.memyear span b{color:#ee2e2c;}
+
+.qyArchives .ArchivesList{font-size:14px;}
+
+.qyArchives .ArchivesList ul li{padding:5px 0;line-height:22px;}
+
+.qyArchives .ArchivesList ul li span.aLeft{float:left; display:block; color:#666;}
+
+.proBox25left .aRight{float:left;}
+
+.proBox25left .aRight span.rnzz{}
+
+.proBox25left .aRight span.rnzz a{text-decoration:none;color:#ee2e2c;}
+
+.proBox25left .aRight a.aqqIco{display:block;float:left;background:url(http://pub.idqqimg.com/qconn/wpa/button/button_121.gif);height: 23px;width: 25px; margin-right:5px;}
+
+.proBox25left .aRight a.affIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 5px -372px no-repeat;display:block;height: 25px;width:25px;float:left;margin-right:5px;}
+
+.proBox25left .aRight.w105{width:105px;}
+
+.proBox25left .aRight.w135{width:135px;}
+
+.proBox25left .aRight a.cydIco{vertical-align:middle;}
+
+.proBox25left .aRight a.cydIco img{margin-bottom:-3px;}
+
+.proBox25left .aRight.redbold14 a{color:#333; text-decoration:none;}
+
+.proBox25left .aRight.redbold14 a:hover{color:#ee2e2c;}
+
+.proBox25left .ArchivesBot{border-top:1px dashed #e6e6e6; padding-top:5px; font-size:14px; margin-top:5px;}
+
+.proBox25left .bGrade{overflow:hidden; padding:5px 0;}
+
+.proBox25left .code2z{width:80px;height:80px;border-bottom:5px solid #fff;padding:5px 5px 0 5px;overflow:hidden;clear:both;margin:7px 0 0 45px;*margin:7px 0 0 45px;_margin:7px 0 0 45px;background:#fff; position:relative;}
+
+.proBox25left .con2us{width:80px;position:relative;z-index:2;float:left;margin:0 0 0 22px;font-size:12px;color:#333;padding:0 0 0 32px;background-position:0 -86px;overflow:visible;cursor:pointer;}
+
+.proBox25left .con2us .cxcode2{width:250px;position:absolute;left:0;bottom:22px;z-index:4;padding:5px;background:#fff;display:none;border:1px solid #ccc;}
+
+.proBox25left .con2us .cxcode2 .code2zc{width:250px;height:250px;clear:both;margin:0;}
+
+.proBox25left .con2us .cxcode2 p{text-align:center;font-size:13px;font-weight:bold;background:#fff;}
+
+.proBox25left .con2uspy{background-color:#fff;background-position:0 -86px;}
+
+.proBox25left .con2uspy .cxcode2{display:block;}
+
+.proBox25left .canusvis{overflow:visible;}
+
+.proBox25left .qr-code p{text-align:center; color:#333;}
+
+.proBox25left .GradeImg{float:left;display:block;width:106px;margin-top:2px;}
+
+.proBox25left .txtmid{float:left;color:#333;font-weight:bold;}
+
+.proBox25left .btnList{overflow:hidden; height:30px; padding:12px 0 5px; font-size:14px; width:188px;}
+
+.proBox25left .btnList a{display:block; float:left; width:60px; height:28px; border:1px solid #dfdfdf;margin-right:10px;line-height:28px; text-decoration:none; color:#666; padding-left:20px;}
+
+.proBox25left .btnList a.colBtn{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 4px -419px no-repeat #f9f9f9;;}
+
+.proBox25left .btnList a.messBtn{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 4px -463px no-repeat #f9f9f9;;}
+
+.proBox25left .btnList a:hover{color:#ee2e2c; border:1px solid #ee2e2c;}
+
+.hotBox{width:952px;margin:0 auto;/* padding-top: 10px; */}
+
+.proBox75Rig .messBox ul li dt span{display:block;float:left;height: 20px;width: 40px;text-align: center;font-size: 18px;}
+
+.proBox75Rig .messBox ul li dt .messCon{float:left;width: 640px;color: #666;max-height: 54px;}
+
+.proBox75Rig .messBox ul li dt span.cRed{color:#ee2e2c;}
+
+.proBox75Rig .messBox ul li dt span.cBlue{color:#018bf6;}
+
+.mTop20{margin: 20px auto 0;}
+
+/*¹«Ë¾¶¯Ì¬*/
+
+.proBox75Rig .cDynamics{padding:6px 24px; overflow:hidden; background:#fff;}
+
+.proBox75Rig .cDynamicsList ul li{height:52px;line-height: 52px;overflow:hidden;font-size:14px;border-bottom:1px dashed #ccc;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -142px -661px no-repeat;padding-left: 18px;}
+
+.proBox75Rig .cDynamicsList ul li a{text-decoration:none;color:#666;float: left;max-width: 550px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox75Rig .cDynamicsList ul li a:hover{color:#ee2e2c;}
+
+.proBox75Rig .cDynamicsList ul li span{float:right;font-size:14px;}
+
+/*��ҳ*/
+
+.pageNew{height:30px; padding:20px 0; overflow:hidden; line-height:30px; font-size:14px; color:#666; padding-bottom:1px;}
+
+.pageNew .pageNewBox{float:right; overflow:hidden; height:30px; padding-bottom:1px;}
+
+.pageNew .pageNewCon input,.pageNew .pageNewCon button,.pageNew .pageNewCon span{float:left; height:28px;}
+
+.pageNew .pageNewBox input{border:1px solid #ccc;width:48px;height: 26px;line-height: 28px;text-align: center;color: #666;padding: 0;margin: 0 4px;}
+
+.pageNew .pageNewBox button{border:1px solid #ccc;width:48px;text-align:center;height: 30px;background: #fff;margin-left: 15px;color:#666;cursor:pointer; outline:none; line-height:28px;}
+
+.pageNew .pageNewCon span{float:left; height:28px; border:1px solid #ccc;}
+
+.pageNew .pageNewCon a{float:left;}
+
+.pageNew .pageNum a{height:28px; border:1px solid #ccc; display:block; width:28px; text-align:center; float:left;}
+
+.pageNew .pageNum span{display:block;float:left;line-height: 40px;}
+
+.pageNew .pageNumCon{float:left;margin-right: 2px;}
+
+.pageNew .pageLeft{margin-right:15px; float:left;}
+
+.pageNew a.page-prev,.pageNew a.page-next{float:left;display:block;width:58px;height:28px;text-align:center;border:1px solid #ccc;line-height: 28px;}
+
+.pageNew a{text-decoration:none;color:#666;margin: 0 5px;}
+
+.pageNew .pageNum{overflow:hidden; float:left;}
+
+.pageNew a.pCur,.pageNew .pageNumCon a:hover{border:1px solid #575757; color:#fff; background:#575757;}
+
+/*¹«Ë¾Ïà²á*/
+
+.cPicBoxList{padding:15px 25px; overflow:hidden; background:#fff;}
+
+.cPicBoxList ul{width:105%; overflow:hidden;}
+
+.cPicBoxList ul li{width:146px;overflow:hidden;padding: 10px 32px 10px 0;float: left;}
+
+.cPicBoxList ul li .picListImg{height: 136px;width: 136px;position:relative;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -914px;padding: 5px;}
+
+.cPicBoxList ul li .picListImg a{display:table-cell;height:130px;width:130px;vertical-align:middle;text-align:center;*display:block;*font-family:Arial;*font-size:113.5px;}
+
+.cPicBoxList ul li .picListImg a img{vertical-align:middle;}
+
+.cPicBoxList ul li em{display:block;height:34px;width:34px;position:absolute;top: 1px;left: 1px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -115px -875px;}
+
+.cPicBoxList ul li .picListName{text-align:center;height:32px;line-height: 16px;font-size: 14px;padding-top: 8px;}
+
+.cPicBoxList ul li .picListName a{color:#666; text-decoration:none;}
+
+.cPicBoxList ul li .picListName a span,.cPicBoxList ul li .picListName a:hover{color:#ee2e2c;}
+
+/*¿Í»§ÁôÑÔ*/
+
+.proBox75Rig .messBox .messList{/* border-top: 1px solid #e5e5e5; */padding-bottom: 0;overflow: hidden;padding-top: 5px;}
+
+.proBox75Rig .messTopList{padding: 10px 0 5px;overflow: hidden;clear: both;}
+
+.proBox75Rig .messTopList ul li{margin-top:-1px;padding: 8px 0 5px;overflow: hidden;}
+
+.proBox75Rig .messTopList ul li dt{overflow:hidden;max-height:36px;line-height: 20px;text-align:left;font-size:14px;padding-top: 5px;color: #666;}
+
+.proBox75Rig .messTopList ul li dd{text-align:right;line-height:24px;color:#333;font-size: 14px;overflow: hidden;padding-top: 12px;}
+
+.proBox75Rig .messTopList ul li dd .tLeft{float:left;color:#333;padding-left: 0;}
+
+.proBox75Rig .messTopList ul li dd .tRig{float:right;color:#333;}
+
+/*ÁªÏµÎÒÃÇ*/
+
+.ContactPage{/* overflow:hidden; */padding: 5px 25px 20px !important;}
+
+.ContactPage .memyear{padding: 8px 0 6px 0;margin-bottom:5px;font-size:14px;overflow: hidden;}
+
+.ContactPage .memyear em{display:block;height: 24px;width: 24px;float:left;}
+
+.ContactPage .memyear em.vipIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -100px 2px no-repeat;}
+
+.ContactPage .memyear em.mmtIco{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -129px -1px no-repeat;}
+
+.ContactPage .memyear em.jpIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1699px no-repeat;}
+
+.ContactPage .memyear em.ypIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1664px no-repeat;}
+
+.ContactPage .memyear span{padding-left: 5px;float:left;}
+
+.ContactPage .memyear span.mRed,.memyear span b{color:#ee2e2c;}
+
+.ContactPage .ContacCon1{border-bottom: 1px dashed #ccc;padding: 15px 0 0;}
+
+.ContactPage .ContacCon1 h3{font-size: 18px; color: #333; line-height: 30px; font-weight: normal;}
+
+.ContactPage .relcode{position:relative;float: left;margin-left: 10px;}
+
+.ContactPage .codedown2{position:absolute;top:18px;left:0;width:182px;height:102px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/168tel/168-tel-5.png) no-repeat;cursor:auto;}
+
+.ContactPage .ContacCon2{padding: 10px 0 15px;border-bottom: 1px dashed #ccc;}
+
+.ContactPage .ContacCon2 dd span{float:left;}
+
+.ContactPage .ContacCon2 .ContactsName{float:left;min-width: 230px;font-size: 14px;color: #333;}
+
+.ContactPage .ContactsName span{float:left;}
+
+.ContactPage .LeftTit{float: left;padding-right: 5px;}
+
+.ContactPage .ContacCon2 dt{padding: 10px 0 12px;width: 100%;}
+
+.ContactPage .cQQIco{float: left;display: block;width: 70px;height: 20px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1068px;margin-right: 10px;}
+
+.ContactPage .telIcoNew{padding-left: 20px; text-decoration: none; font-size: 12px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -135px -1071px no-repeat; margin-right: 15px;}
+
+.ContactPage .codeImgNew{padding-left: 30px;text-decoration: none;font-size: 12px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -125px -1111px no-repeat;color: #999; z-index:12;}
+
+.ContactPage .ContacCon2 dd{height: 30px; line-height: 30px; padding: 5px 0;}
+
+.ContactPage .ContacCon2 dd a{text-decoration:none; color:#999;}
+
+.ContactPage .ContacCon2 dd .cBtnBox a{border: 1px solid #666; height: 28px; display: block; width: 160px; color: #666; text-align: center; font-size: 14px; border-radius: 3px; line-height: 28px;float:left;margin-right:35px; cursor:pointer;}
+
+.ContactPage .ContacCon2 dd .cBtnBox a.w115{width:115px;}
+
+.ContactPage .cBtnBox{padding-left: 40px;}
+
+.ContactPage .LeftTit span{letter-spacing: 0.5em; letter-spacing:0.3em\9; display: block; width: 56px; white-space: nowrap;\9;}
+
+.ContactPage .ContactsName span a{color:#333; text-decoration:none;}
+
+.ContactPage .ContactsName span a:hover{color:#ee2e2c; text-decoration:none;}
+
+.ContactPage .con3Left{float:left;width: 72px;}
+
+.ContactPage .con3Rig{float:left;max-width: 580px;}
+
+.ContactPage .con3Rig a{color:#333;text-decoration:none;}
+
+.ContactPage .con3Rig a:hover{color:#ee2e2c;}
+
+.ContactPage .letSpac05{letter-spacing:0.5em; letter-spacing:0.3\9;display: block;float: left;width: 56px;white-space: nowrap;}
+
+.ContactPage .letSpac1{letter-spacing: 2em;letter-spacing: 1\9;display: block;width: 56px;white-space: nowrap;float: left;}
+
+.ContactPage .hxImgBox{height:22px;}
+
+/*È«²¿·ÖÀà*/
+
+.ProDirectory{padding:25px 24px 25px 25px;overflow:hidden;}
+
+.ProDirectory .listConWrap{border:1px solid #ccc;border-radius:4px;padding: 5px 10px;position:relative;margin-bottom: 24px;}
+
+.ProDirectory .listConWrap li{padding:0 0 2px 7px;width: 156px;height: 28px;float:left;_display:inline;font-size: 14px;line-height: 28px;}
+
+.ProDirectory .listConWrap li b{color:#333;padding-left:20px;}
+
+.ProDirectory .listConWrap li a{text-decoration:none;}
+
+.ProDirectory .listConWrap li a:hover span{color:#ee2e2c;}
+
+.ProDirectory .listConWrap li a span,.ProDirectory .listConWrap li b{color:#666;padding-left: 20px;overflow: hidden;max-width: 115px;display: block;height: 28px;}
+
+.ProDirectory .listConWrap li a.spreadIco span{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -133px -1153px no-repeat #fff;}
+
+.reClassShow{position: absolute; left: 50%; margin-left: -70px; width: 125px; border: 1px solid #ccc; color: #999; bottom: -25px; border-top: none; text-align: center; line-height: 24px; font-size: 14px; padding-right: 15px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -41px -1196px no-repeat #fff; cursor: pointer; display:none;}
+
+.reClassHide{position: absolute; left: 50%; margin-left: -70px; width: 125px; border: 1px solid #ccc; color: #999; bottom: -25px; border-top: none; text-align: center; line-height: 24px; font-size: 14px; padding-right: 15px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -41px -1238px no-repeat #fff; cursor: pointer;display:none;}
+
+.screenWr{margin: 12px 0 5px;width: 680px;height:22px;background:#f5f5f5;line-height:22px;padding: 8px 0;border:1px solid #ddd;border-radius: 2px;float: left;}
+
+.screenWr-m{padding: 0 14px;overflow:hidden;}
+
+.screenWr-m li{float:left;display: inline-block;height:22px;}
+
+.screenWr-m li.ToplastList{float:right;}
+
+.proSeleBox{width:225px; line-height:20px; height:20px; border:1px solid #ccc; font-size:14px;}
+
+.proSeleBox a{text-decoration:none; color:#333;display:block; height:22px; position:absolute; top:-1px; left:-1px; width:76px;}
+
+.proSeleBox span{float:left;width:75px;text-align:center;border-left:1px solid #ccc;margin-left:-1px;position:relative;display: block;height: 22px;line-height: 22px;}
+
+.proSeleBox span a s{display:inline-block;height:20px;width:12px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -49px -1109px;vertical-align: middle;margin-left: 6px;}
+
+.proSeleBox a.ArrowUpCur{background: #ee2e2c;color:#fff;}
+
+.proSeleBox a.ArrowUpCur s{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -70px -1109px;}
+
+.section{margin: 0 20px 0 18px;padding-left: 18px;border-left: 1px dashed #ccc;}
+
+.section i{float:left;padding: 0 4px 0 0;height:10px;color: #ccc;line-height: 20px;font-size: 20px;text-align: center;}
+
+.minPrice,.maxPrice{float:left;width:47px;height:20px;background:#fff;border: 1px solid #ccc;position:relative;display:inline-block;vertical-align:top;overflow: hidden;}
+
+.minPrice s,.maxPrice s{position:absolute;left: 3px;top:0;font-size:12px;font-family:Arial;color:#999;display:inline-block;height:20px;text-decoration: none;}
+
+.minPrice input,.maxPrice input{margin: 0px 0 0 16px;width: 32px;height: 20px;line-height: 20px;color:#666;font-size:12px;}
+
+.sectionBtn{display:inline-block;margin-left: 10px;border:none;width: 52px;height: 22px;background: #d8d8d8;text-align:center;line-height: 20px;color:#333;border-radius:3px;-webkit-border-radius:3px;cursor:pointer;padding: 0;float: left;}
+
+.sectionBtn:hover{background:#ee2e2c;color:#fff;}
+
+.Select-f{margin-top:1px;font-size: 12px;}
+
+.Select-f label{display:inline-block;height:22px;cursor: pointer;}
+
+.Select-f label input{vertical-align:middle;margin:-3px 5px 0 0;}
+
+.proBox75Rig .dProList{overflow:hidden;clear:both;padding: 0px 0 0;}
+
+.proBox75Rig .dProList ul li{width: 162px;overflow:hidden;float: left;padding: 5px 11px 10px 0; height:265px;}
+
+.proBox75Rig .dProList .newProImg{height: 160px;width: 160px;overflow:hidden;border: 1px solid #e9e8e6;position: relative;}
+
+.proBox75Rig .dProList .leftProName{max-height:40px;margin: 0px 0 0;line-height:20px;font-size:14px;overflow:hidden;padding: 5px 0 0 0;height: 40px;}
+
+.proBox75Rig .dProList .leftProName a{color:#666; text-decoration:none;}
+
+.proBox75Rig .dProList .leftProPrice{height: 20px;padding: 10px 0px 0;line-height:20px;color:#ee2e2c;font-size: 16px;font-family:Microsoft YaHei;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.proBox75Rig .dProList .leftProPrice span{padding-right: 2px;}
+
+.proBox75Rig .dProList .leftProName a:hover{color:#ee2e2c;}
+
+.proBox75Rig .dProList ul{width:102%;}
+
+.proBox75Rig .introBox .rigTabTit,.proBox75Rig .evaluateBox .rigTabTit,.qualificationBox .rigTabTit{height:36px; border-bottom:1px solid #e6e6e6;}
+
+.introBox,.evaluateBox,.qualificationBox{padding: 6px 24px 20px;overflow: hidden;}
+
+.introBox .conpanyBox{padding-top:15px;}
+
+.introBox table{border-top:1px solid #e5e5e5; border-left:1px solid #e5e5e5; font-size:14px;}
+
+.introBox table th{padding:6px 0; text-align:center; color:#231815; width:142px;border-bottom:1px solid #e5e5e5; border-right:1px solid #e5e5e5; font-weight:normal; background:#f3f4f3;}
+
+.introBox table th span{}
+
+.introBox table td{padding: 10px 18px; color:#666; width:162px;border-bottom:1px solid #e5e5e5; border-right:1px solid #e5e5e5;word-break: break-all;}
+
+.introBox table td a{text-decoration:none; color:#666; margin-right:30px;}
+
+.introBox table th.orTh{color:#E94729;}
+
+.tabBotPrompt{color:#e94719; text-align:right; padding-top:15px; line-height:20px;font-size:14px;}
+
+/*ÐÅÓÃÆÀ¼Û*/
+
+.evaluateCon{overflow: hidden; padding-top: 20px; clear: both;}
+
+.evaluateBox .combtable{clear: both;margin: 0px 0 20px;border: 1px solid #e1e1e1;border-bottom: none;}
+
+.evaluateBox .combtable th.w150{width: 150px;}
+
+.evaluateBox .combtable th.w106{width: 106px;}
+
+.evaluateBox .combtable tr td{background:#fff; font-size: 14px;}
+
+.evaluateBox .combtable tr td span{padding-left:20px;display:inline-block;width: 100px;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/buy/buyico.png) no-repeat;text-align: left;color: #666;}
+
+.evaluateBox .combtable tr td span.high{background-position: -279px -29px;}
+
+.evaluateBox .combtable tr td span.normal{background-position: -279px -59px;}
+
+.evaluateBox .combtable tr td span.low{background-position: -279px -90px;}
+
+.evaluateBox .toptil{border:1px solid #e0e0e0;border-bottom:2px solid #f13e41;background:#f5f5f5;line-height:35px;margin-bottom:10px;padding:0 10px;font-size:14px;font-weight:bold;}
+
+.evaluateBox .chkmid{display: block;float: left;padding-left: 20px;padding-top: 4px;}
+
+.evaluateBox .chkmid input{vertical-align:middle;margin:-4px 3px 0 0px;}
+
+.evaluateBox .chkmid label{cursor:pointer;line-height:18px;}
+
+.evaluateBox .knowlink{text-align:right;}
+
+.evaluateBox .vBox{padding-right:36px;position:relative;color:#333;border-top:1px dashed #d6d6d6;clear:both;width:90%;margin:10px auto 0;padding-top:10px;word-wrap: break-word; word-break: break-all;}
+
+.evaluateBox .vBox i{width:14px;height:18px;display: inline-block;background:url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/buy/buyico.png) no-repeat -279px -42px;margin-right: 10px; position:absolute;left: -11px;top: 15px;}
+
+.evaluateBox .vBox p{padding-left:15px;}
+
+.evaluateBox .ExplainBox{color:#ff6d0c;}
+
+.evaluateBox .colnums-2-ab-b p.ico{line-height:16px;}
+
+.evaluateBox .vBoxLeft{width: 572px;float:left;}
+
+.evaluateBox .vBoxBtn{float:right; position: absolute;right:-5px}
+
+.evaluateBox .combtable tr th{line-height: 40px;height: 40px;border-bottom: 1px solid #e1e1e1;background: #f5f5f5;text-align:center;font-size: 14px;color: #666;font-weight: normal;}
+
+.evaluateBox .combtable tr td{line-height:40px;height:40px;border-bottom: 1px solid #e1e1e1;background: #fff;text-align:center; color: #ec4949;}
+
+.evaluateBox .combtable tr td a{color: #666; text-decoration: none;}
+
+.buytablelist{border:1px solid #e0e0e0;border-bottom:none;}
+
+.buytablelist table tr th{background: #f5f5f5;line-height: 40px;border-bottom:1px solid #e0e0e0;height: 40px;text-align: center; font-size: 14px; font-weight: normal;color: #666;}
+
+.buytablelist table tr th select{margin-left:10px;}
+
+.buytablelist table tr td{border-bottom:1px solid #e0e0e0;padding: 15px 5px 15px;vertical-align:top;}
+
+.buytablelist table tr td.txtcen{font-size:14px;color:#999;text-align:center;padding:50px 0;}
+
+.buytablelist table tr td ul{width:100%;zoom:1;font-size: 14px;}
+
+.buytablelist table tr td ul li{float:left;}
+
+.buytablelist table tr td ul li.w1{width: 265px;}
+
+.buytablelist table tr td ul li.w2{width:175px;}
+
+.buytablelist table tr td ul li.w275{width: 245px;}
+
+.buytablelist table tr td ul li.w4{width:159px;}
+
+.buytablelist table tr td ul li.tilpd{padding-left: 15px;position:relative;}
+
+.buytablelist table tr td ul li.tilpd .maskmsg{left:0;}
+
+.buytablelist table tr td ul li.tcenter{text-align:center;}
+
+.buytablelist table tr td p{margin-bottom: 4px;overflow:hidden;}
+
+.buytablelist table tr td p.buynum,.buytablelist table tr td p.buynum a{color:#999;}
+
+.buytablelist table tr td p.buynum a{text-decoration:underline;}
+
+.buytablelist table tr td p.buynum a:hover{color:#1e50a2;text-decoration:none;}
+
+.buytablelist table tr td .txtleft{float:left;display:block;width: 240px;word-wrap: break-word; word-break: break-all;line-height:140%;color: #666;padding-bottom: 2px;}
+
+.buytablelist table tr td p .bgwarn,.evauser ul li .txtc p.txtcol{background:url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/buy/refused.png) no-repeat right bottom;color:#999;_height:38px;min-height:38px;}
+
+.buytablelist table tr td p.bgwarn{background:url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/buy/refused.png) no-repeat center center;_height:38px;min-height:38px;}
+
+.buytablelist table tr td i.tilico,.buytablelist table tr td i.tilico-mid,.buytablelist table tr td i.tilico-low{width:14px;height:18px;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/buy/buyico.png) no-repeat;display:inline-block;margin-right: 12px;float:left;margin-top: 15px;}
+
+.buytablelist table tr td i.tilico-mid{background-position:-279px -73px;}
+
+.buytablelist table tr td i.tilico{background-position:-279px -42px;}
+
+.buytablelist table tr td i.tilico-low{background-position:-279px -104px;}
+
+.buytablelist table tr td p.buytime{color:#999;clear:both;}
+
+.buytablelist table tr td p.price em{color:#f00;}
+
+.buytablelist table tr td p.buyinfo{-o-text-overflow: ellipsis; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;font-size: 12px;line-height: 22px;}
+
+.buytablelist table tr td p.buyueser i{cursor:pointer;display:inline-block;padding:0 8px;}
+
+.buytablelist table tr td p.buyueser i.ffonline{background:url(http://style.org.hc360.com/search/images/b_online_12.gif) no-repeat;}
+
+.buytablelist table tr td a.btngo,.item-mod .msglist .msgin a,.evauser ul li .btns a,.maskmsg .cont span.btntxt a{display:inline-block;text-decoration:none;width:87px;height:31px;line-height:31px;color:#fff;text-align:center;background-position:0 -51px;margin-left:48px;}
+
+.buytablelist table tr td .replytxt{color:#ff6d0c;padding-left:36px;border-top:1px dashed #d6d6d6;clear:both;width:90%;margin:10px auto 0;padding-top:10px;word-wrap: break-word; word-break: break-all;}
+
+.buytablelist table tr td .tilpdCon{float: left;width: 236px;}
+
+.buytablelist table tr td .buyueser{text-align: center;padding-top: 12px;color: #666;}
+
+.buytablelist table tr td li.w120{width: 120px;padding: 0 10px;}
+
+.buytablelist table tr th.w260{width: 290px;}
+
+.buytablelist table tr th.w120{width: 120px; padding: 0 10px;}
+
+.buytablelist table tr td .buyinfo a{color: #666; text-decoration: none;}
+
+.buytablelist table .testSelect{float: left; width: 123px; height: 24px; border: 1px solid #e6e6e6; position:relative;background: #fff;margin: 1px 0 0 15px;font-size: 14px;z-index: 4;}
+
+.buytablelist table .tsCon p{color: #666; height: 24px; line-height: 22px; width: 90px; float:left; display:block; padding-left:5px;text-align: left;}
+
+.buytablelist table .tsCon s{width:24px; float:right; display:block;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 2px -1145px no-repeat; height: 24px;cursor: pointer;}
+
+.buytablelist table .testSelect ul{border: 1px solid #e6e6e6; position:absolute; top: 24px; background:#fff; left:-1px;text-align: left;cursor: pointer;}
+
+.buytablelist table .testSelect ul li{width: 118px; padding-left:5px; line-height:30px; margin-bottom:0;}
+
+.buytablelist table .testSelect ul li:hover{background:#f1f1f1;}
+
+.evaluateBox .chkmid em{display: block; height: 16px; width: 16px; margin-right: 5px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0 -1254px; float: left; vertical-align: middle; margin-top: 2px; cursor: pointer;}
+
+.evaluateBox .chkmid em.selectCur{display: block; height: 16px; width: 16px; margin-right: 5px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0 -1202px; float: left; vertical-align: middle; margin-top: 2px; cursor: pointer;}
+
+.buytablelist table tr td a:hover{color: #ee2e2c;}
+
+.buytablelist table tr td p.buynum{font-size: 12px;line-height: 22px;}
+
+.qBoxCon{padding: 20px 0 0 0; overflow: hidden;}
+
+.qBoxConList{overflow: hidden; font-size: 12px;}
+
+.qBoxConList .qBoxTit{height: 30px; border-bottom: 1px solid #333; line-height: 30px; padding-left: 28px; color: #333; font-size: 16px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -130px -1289px no-repeat;}
+
+.qBoxImgBox ul li{width:140px; float: left; margin: 10px 40px 5px 0;}
+
+.qBoxImgBox .qImgBox{height: 140px; width: 140px;}
+
+.qBoxImgBox p{text-align: center; padding:10px 0 5px; line-height: 20px; font-size: 14px;}
+
+.qBoxImgBox p a{color: #333;text-decoration: none;}
+
+.qBoxImgBox p a:hover{color: #ee2e2c;}
+
+.qBoxImgBox{padding: 10px 0; overflow: hidden;}
+
+.qBoxImgBox ul{width:108%;}
+
+.qBoxImgBox2 ul li{width: 200px; float: left; margin: 10px 42px 5px 0;}
+
+.qBoxImgBox2 .qImgBox{height: 200px; width: 200px;}
+
+.qBoxImgBox2 p{text-align: center; padding:10px 0 5px; line-height: 20px; font-size: 14px;}
+
+.qBoxImgBox2 p a{color: #333;text-decoration: none;}
+
+.qBoxImgBox2 p a:hover{color: #ee2e2c;}
+
+.qBoxImgBox2{padding: 10px 0; overflow: hidden;}
+
+.qBoxImgBox2 ul{width:108%;}
+
+.dImgBox{border: 1px solid #ccc; padding: 20px;margin: 20px 0;}
+
+.dImgCon{text-align: center;/* height: 640px; */margin: 0 auto;}
+
+.dImgCon img{max-width: 640px;}
+
+.qBoxConList table{border-top: 1px solid #ccc;border-left: 1px solid #ccc;font-size: 14px;}
+
+.qBoxConList table th{border-right: 1px solid #ccc;border-bottom: 1px solid #ccc; width: 148px; text-align: center; font-weight: normal;; padding: 5px 0; line-height: 22px;}
+
+.qBoxConList table td{border-right: 1px solid #ccc;border-bottom: 1px solid #ccc; padding:5px 5px 5px 35px; text-align: left;}
+
+.aBoxIntro{overflow: hidden; padding: 25px 0 0 0;}
+
+.aBoxIntro h4{font-size: 14px; color: #333;line-height: 30px;}
+
+.aBoxIntro p{font-size: 14px; color: #666; line-height: 20px;}
+
+.mmtBoxCon{padding: 20px 0 0 0; overflow: hidden;}
+
+.mmtTit1{height:20px; font-size: 16px; color: #333; margin:25px 0 15px;}
+
+.ApplicantInfo{overflow: hidden; padding-bottom: 22px;}
+
+.ApplicantInfo table{float: left; width: 335px;}
+
+.ApplicantInfo table th{padding-right: 40px; width: 95px; text-align: right; height: 30px; font-size: 14px; color: #333;}
+
+.ApplicantInfo .ApplicanImg{float: left; padding-left: 55px;}
+
+.ApplicantInfo table td{color: #666;}
+
+.ApplicantInfo table td span{color: #ee2e2c;}
+
+.mmtBoxCon table th{color: #333;}
+
+.mmtBoxCon table td{color: #666;}
+
+.dImgTab th{color: #666;}
+
+.dImgTab td{color: #333;}
+
+.mmtCertificate{overflow: hidden; height: 138px; padding:20px 0;}
+
+.mmtCertificate .mmtImg2{float: left; width: 218px; height: 138px;}
+
+.mmtImgList{padding-left: 80px; float: left;}
+
+.mmtImgList ul li{overflow: hidden; line-height: 26px; height: 26px; font-size: 14px;padding-bottom: 6px;}
+
+.mmtImgList ul li span{float: left; display:block;}
+
+.mmtImgList ul li span.mmtImgLeft{color: #666; padding-right: 25px; width: 80px; text-align: right;}
+
+.mmtImgList ul li span.mmtImgRig{color: #333; width: 260px;}
+
+.mServiceTime{overflow: hidden; padding-top: 24px;}
+
+.mServiceTime .mmtImg3{float: left; width: 230px; height: 150px;}
+
+.mmtServiceRig{width:382px; height: 106px; padding:5px 23px; border: 1px dashed #ccc; float: left; margin-top: 30px;}
+
+.mmtServiceRig dt{font-size: 14px; color: #333; line-height: 36px; padding-bottom: 10px;}
+
+.mmtServiceRig dd{font-size: 14px; color: #333; padding-top: 3px;}
+
+.mmtServiceRig dd p{padding-bottom: 10px;}
+
+.mmtServiceRig dd p span{float: right; color: #ee2e2c;}
+
+.mmtServiceRig dd .mmtLineBox{height: 16px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -130px -1354px;}
+
+.mmtServiceBot{overflow: hidden; clear: both;padding-top: 20px; font-size: 16px;}
+
+.mmtServiceBot ul li{overflow: hidden; padding: 5px 0 0 27px; line-height: 26px; background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -129px -1384px no-repeat;}
+
+.mmtServiceBot ul li .bTimeTit{float: left; display:block; color: #666;}
+
+.mmtServiceBot ul li .bTimeBox{float:left; width: 550px;}
+
+.mmtServiceBot ul li .bTimeBox span{float: left; display:block; margin-right: 70px; color: #333;}
+
+.introBox table{margin-top:15px;}
+
+.qyInfoList ul{width:102%;}
+
+.letter05{letter-spacing: 0.05rem;}
+
+.proBox75Rig .newProList .leftProPrice b,.proBox25left .newProList .leftProPrice b{font-size:14px;font-family:Microsoft YaHei;font-weight:normal;}
+
+.proBox25left .aRight .acName{float: left;margin-right: 3px;}
+
+.dDyListBox{overflow:hidden;padding: 20px 0;}
+
+.dDyTit{overflow:hidden;border-bottom: 1px dashed #ccc;padding: 0 35px 25px 35px;}
+
+.dDyTit h3{text-align:center;font-size:16px;color:#333;padding-top: 5px;}
+
+.dDyTit span{display:block;text-align:right;font-size:12px;color:#999;padding-top: 20px;}
+
+.dDyCon{overflow:hidden; padding:20px 35px; font-size:14px; color:#666; line-height:24px;}
+
+.dDyCon p{text-indent:2em; padding-bottom:10px;}
+
+.proCarousel{height:300px;width:100%;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/bannerBg.png) center center;position: relative;}
+
+.proCarouselCon{width: 918px;margin:0 auto;padding: 9px 17px;height: 282px;}
+
+.proCarousel ul{width:100%; overflow:hidden; height:282px;}
+
+.proCarousel ul li{float:left;width:280px;height:280px;border:1px solid #c9c8cb;margin: 0 12px;}
+
+.w952{width:950px; margin:0 auto;}
+
+.hotBox1Con ul li dd.hBotIco em.jyIco,.hotBox2Con ul li dd.hBotIco em.jyIco,.hotBox3Con ul li dd.hBotIco em.jyIco{display: block;float: left;width: 18px;height: 18px;overflow:hidden;background: url("http://style.org.hc360.com/images/detail/mysite/siteconfig/payicos.png") no-repeat center;}
+
+.hotBox1Con ul li dd.hBotIco,.hotBox2Con ul li dd.hBotIco,.hotBox3Con ul li dd.hBotIco{padding: 0 15px 5px 15px;overflow:hidden;}
+
+.pageNewBox button:hover{background:#575757;color:#fff;border:1px solid #575757;}
+
+.dTopBot{border-top:1px dashed #ccc; overflow:hidden; margin-top:5px;}
+
+.dTopBot a{display:block;padding:15px 45px 10px 0;float:right;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0 -1453px no-repeat;width:32px;height:15px;}
+
+/*������*/
+
+.comDetailBox{overflow:visible;font-size: 12px;position: relative;}
+
+.comDetailBox a.comDetail{background-position: 0 -32px;padding:7px 0 2px 20px;display:block;width: 158px;color: #333;text-decoration: none;background-image: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/duo/duobg0.png);background-repeat: no-repeat;}
+
+.comDetailBox a:hover{color:#ee2e2c;text-decoration:underline;}
+
+.comDetailBox span{display:block;width:110px;position:relative;z-index:26;overflow:visible;}
+
+.showduo{position:absolute;left: -16px;top: 26px;z-index:28;width: 210px;background: #fff;display: none;max-height: 240px;height: auto;}
+
+.showduo .arowduo{position:absolute;left: 58px;top: -5px;z-index:8;display:block;width:11px;height:6px;overflow:hidden;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/duo/duobg0.png) 0 0 no-repeat;}
+
+.showduo .sduobx{border:1px solid #FF824C;background-color:#FCF8F5;width: 198px;padding:2px 5px;overflow: auto;max-height: 200px;}
+
+.showduo dl{width: 183px;overflow: hidden;}
+
+.showduo dl a:link{color:#666 !important;text-decoration:none;}
+
+.showduo dl a:visited{color:#666 !important;text-decoration:none;}
+
+.showduo dl a:hover{color:#ee2e2c !important;text-decoration:underline;}
+
+.showduo dl.last{border-bottom:none;}
+
+.showduo dl dt{width:190px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;word-break:keep-all;}
+
+.showduo dl dt a{background-image:none;padding:0;width:190px;}
+
+.showduo dl dd{float:left;width: 198px;padding-left:5px;color:#666;height: 24px;line-height: 24px;border-top: 1px dotted #DFBA9F;margin-top: -1px;}
+
+/*ͼƬ�Ŵ�*/
+
+.hotBox1Con .imgAlertBox{position:absolute;width: 350px;height: 350px;overflow:hidden;border: 1px solid #e1dcd2;border-radius: 2px;-webkit-box-shadow: 0 0 10px #ccc;-moz-box-shadow: 0 0 10px #ccc;box-shadow: 0 0 10px #ccc;background: #fff;left: 50%;top: 50%;margin-top: -160px;margin-left: -175px;z-index: 50;}
+
+.hotBox1Con ul li .Box1Img{position:relative;}
+
+.hotBox1Con .imgAlertBox ol{position:absolute; height:350px; width:350px;}
+
+.hotBox1Con .imgAlertBox ol li{height: 350px;width: 350px;overflow:hidden;float: left;margin: 0;}
+
+.hotBox1Con .imgAlertBox ol li span{height: 350px;width: 350px;}
+
+.hotBox1Con .imgAlertBox ol li img{max-width:350px; max-height:350px;}
+
+.imgAlertBox{display:none;}
+
+.hotBox2Con .imgAlertBox{position:absolute;width: 250px;height: 250px;overflow:hidden;border: 1px solid #e1dcd2;border-radius: 2px;-webkit-box-shadow: 0 0 10px #ccc;-moz-box-shadow: 0 0 10px #ccc;box-shadow: 0 0 10px #ccc;background: #fff;left: 50%;top: 50%;margin-top: -120px;margin-left: -125px;z-index: 50;}
+
+.hotBox2Con ul li .Box1Img{position:relative;}
+
+.hotBox2Con .imgAlertBox ol li{height: 250px;width: 250px;overflow:hidden;float:left;margin: 0;padding: 0;}
+
+.hotBox2Con .imgAlertBox ol li span{height: 250px;width: 250px;}
+
+.hotBox2Con .imgAlertBox ol li img{max-width: 250px;max-height: 250px;}
+
+.hotBox3Con .imgAlertBox{position:absolute;width: 200px;height: 200px;overflow:hidden;border: 1px solid #e1dcd2;border-radius: 2px;-webkit-box-shadow: 0 0 10px #ccc;-moz-box-shadow: 0 0 10px #ccc;box-shadow: 0 0 10px #ccc;background: #fff;left: 50%;top: 50%;margin-top: -98px;margin-left: -100px;z-index: 50;padding: initial;}
+
+.hotBox3Con ul li .Box1Img{position:relative;}
+
+.hotBox3Con .imgAlertBox ol li{height: 200px;width: 200px;overflow:hidden;float:left;margin: 0;}
+
+.hotBox3Con .imgAlertBox ol li span{height: 200px;width: 200px;}
+
+.hotBox3Con .imgAlertBox ol li img{max-width: 200px;max-height: 200px;}
+
+.hotBox2Con .imgAlertBox ol{height: 250px;overflow:hidden; width:250px;}
+
+.proBox75Rig .newProList .newProImg{position:relative;}
+
+.proBox75Rig .newProList .newProImg .imgAlertBox{position:absolute;width: 200px;height: 200px;border: 1px solid #e1dcd2;border-radius: 2px;-webkit-box-shadow: 0 0 10px #ccc;-moz-box-shadow: 0 0 10px #ccc;box-shadow: 0 0 10px #ccc;background: #fff;left: 50%;top: 50%;margin-top: -100px;margin-left: -100px;z-index: 50;overflow: hidden;}
+
+.proBox75Rig .newProList .newProImg ul li .Box1Img{position:relative;}
+
+.proBox75Rig .newProList .newProImg .imgAlertBox ol li{height:200px;width:200px;overflow:hidden;float:left;margin: 0;padding: 0;}
+
+.proBox75Rig .newProList .newProImg .imgAlertBox ol li img{max-width:200px; max-height:200px;}
+
+.proBox75Rig .newProList .newProImg ol{height:200px;overflow:hidden; position:absolute; width:200px;}
+
+.proBox75Rig .newProList .newProImg a{display: table-cell;overflow: hidden;height: 160px;width: 160px;*display:block;*font-family:Arial;*font-size:140px;}
+
+.proBox75Rig .newProList .newProImg a img{max-width:160px;max-height:160px;}
+
+.hotBox3Con .imgAlertBox ol{height: 200px;overflow:hidden; width:200px;}
+
+.editTemplate button{width:120px;height:24px;line-height:24px;text-align:center;margin: 5px auto 10px auto;font-size:12px;color:#fff;margin-left: 70px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/proIco2.png) 0 -499px;cursor: pointer;}
+
+/*������*/
+
+.albumWindow .albumLeft p{text-align: center; font-size: 14px; color: #333; line-height: 20px;}
+
+.leftBoxCon.albumWindow{padding: 14px 24px 12px;}
+
+.albumWindow .albumLeft{width: 370px;float:left;position: relative;height: 425px;}
+
+.albumWindow .albumRig{min-height: 370px;width: 300px;float: right;margin-right: 0px;}
+
+.albumWindow .albumRig ol li{padding: 4px;height: 60px;width: 60px;float:left;margin: 0 7px 7px 0;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/aRigBg.png) right bottom no-repeat;}
+
+.albumWindow .albumRig ol li span{display:block;height: 60px;width: 60px;overflow:hidden;cursor: pointer;}
+
+.albumWindow .albumRig ol li span img{max-width: 60px;max-height: 60px;}
+
+.albumWindow .albumLeft .albumImgBox{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/aBg.png) 15px bottom no-repeat;height: 350px;width: 350px;padding:0 20px 20px 0;}
+
+.albumWindow .albumLeft .albumImgCon{background:#fff;height: 350px;width: 350px;border:1px solid #666;position: relative;}
+
+.conpanyImgNum{height:16px;position:absolute;bottom: 10px;left:0;text-align:center;font-size: 12px;color: #fff;line-height: 12px;right: 10px;}
+
+.conpanyImgNum em{display: block;background: #aaa;height: 14px;margin: 0 1px;width: 14px;border: 1px solid #ddd;float: right;cursor: pointer;}
+
+.conpanyImgNum em.curIco{background: #666;}
+
+.tranIco{padding: 6px 0 0px 0;overflow:hidden;}
+
+.tranIco .jyIco{display: block;float: left;width: 18px;height: 18px;overflow: hidden;background: url("http://style.org.hc360.com/images/detail/mysite/siteconfig/payicos.png") no-repeat center;}
+
+.OnConsulting{height:30px;position:absolute;left:0;bottom:0;width:100%;}
+
+.OnConsulting p{background:#ee2e2c;position:absolute;z-index:10;filter: alpha(opacity=70);-moz-opacity: 0.7;opacity: 0.7;width: 100%;height: 30px;}
+
+.OnConsulting button{height:30px;border:none;position:absolute;left:0;width: 100%;top:0;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 40px -1576px no-repeat;color: #fff;z-index: 12;text-align: left;padding-left: 65px;}
+
+/*���ܳ���*/
+
+.proBox75Rig .columnbox .SmartWinTit{height:30px;background: #fff;color:#fff;line-height:30px;padding-left: 25px;border: 1px solid #e6e6e6;border-bottom: none;}
+
+.proBox75Rig .SmartWinTit h4{margin:0;float:left;font-size:14px;color: #333;font-weight: normal;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1495px no-repeat;padding-left: 20px;}
+
+.proBox75Rig .SmartWinTit a{color: #2399fe;float:right;padding-right:15px;text-decoration:none;font-size: 14px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1533px no-repeat;padding-left: 22px;}
+
+.proBox75Rig .SmartWinTit a:hover{color:#2399fe;text-decoration:underline;}
+
+.proBox75Rig .SmartWinBox ul li{width: 162px;float: left;padding: 15px 10px 0 0;}
+
+.proBox75Rig .SmartWinBox .newProImg{height: 160px;width: 160px;border: 1px solid #e9e8e6;overflow: hidden;}
+
+.proBox75Rig .SmartWinBox .leftProName{max-height:40px;margin: 0px 0 0;line-height:20px;font-size:14px;overflow:hidden;padding: 5px 0 0 0;}
+
+.proBox75Rig .SmartWinBox .leftProName a{color:#666;text-decoration:none;}
+
+.proBox75Rig .SmartWinBox .leftProPrice{max-height:40px;padding: 10px 0px 0;line-height:20px;color: #ee2e2c;font-size: 16px;font-family:Microsoft YaHei;}
+
+.proBox75Rig .SmartWinBox .leftProPrice span{font-size: 12px;margin-right: 3px;}
+
+.proBox75Rig .SmartWinBox .leftProName a:hover{color:#ee2e2c;}
+
+.proBox75Rig .SmartWinBox{overflow:hidden;}
+
+.proBox75Rig .SmartWinBox ul{width:102%;margin-top: -15px;}
+
+.proBox75Rig .SmartWinBox .leftProPrice b{font-size:14px;font-family:Microsoft YaHei;font-weight:normal;}
+
+/*����ϲ��*/
+
+.proBox75Rig .columnbox .GuessTit{height:30px;background: #fff;color:#fff;line-height:30px;padding-left: 25px;border: 1px solid #e6e6e6;border-bottom: none;}
+
+.proBox75Rig .GuessTit h4{margin:0;float:left;font-size:14px;color: #333;font-weight: normal;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/newProIco.png) 0px -1495px no-repeat;padding-left: 20px;}
+
+.dDyCon p.dDyConImg{padding:10px 0;text-align:center;overflow:hidden;text-indent: 0;}
+
+.dDyConImg img{max-width:600px;}
+
+.proBox75Rig .conpanyBoxSingle{overflow:hidden;}
+
+.conpanyBoxSingle .conpanyImg{float:left; height:135px; width:135px; padding:0;}
+
+.conpanyBoxSingle p{float:left;width: 520px;line-height: 20px;color: #666;font-size: 14px;}
+
+.introBox .conpanyBoxSingle{padding-top:15px;}
+
+.pTitBox{float:left;}
+
+.nInfoPro,.nInfoPro2{font-size:14px;text-align:center;color:#bbb;line-height: 50px;background: #fff;}
+
+.nInfoPro2 a{display: inline-block;width: 54px;margin:0 auto;color:#0d7fe1;line-height: 24px;text-align:center;padding-left: 20px;text-decoration:none;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/newProIco.png) no-repeat 9px 6px;}
+
+.security{height:26px;line-height:28px;display:inline-block;background: url(http://style.org.hc360.com/images/detail/mysite/public/xuanp3/pxk/pro_bg0.png) no-repeat 2px -345px;padding-left:30px;font-size: 12px;padding-bottom: 6px;border-bottom: 1px dashed #e6e6e6;}
+
+.security a{color: #666;text-decoration: none;}
+
+/*��������*/
+
+.fLink .fLinkBox{padding:10px 0; overflow:hidden;border: 1px solid #e6e6e6;}
+
+.fLink .fLinkBox ul li{padding: 10px 11px 10px 12px;float:left;line-height:34px;height:34px;overflow:hidden;font-size:12px;width: 112px;text-align: center;}
+
+.fLink .fLinkBox ul li a{color:#333; text-decoration:none;}
+
+.fLink .fLinkBox ul li a.fImgBox{display:block;border:1px solid #e6e6e6;width:110px;overflow: hidden;}
+
+.fLink .fLinkBox ul li a:hover{color:#ee2e2c;}
+
+/*�Ҳม��*/
+
+a{outline:none;blr:expression(this.onFocus=this.blur());}
+
+*{margin:0;padding:0;list-style: none}
+
+.fix-right-box{position:fixed;right:20px;top:280px;_position:absolute;z-index:99999;overflow: visible !important;}
+
+.fix-right{font-family:"Microsoft YaHei";width:57px;height:auto;border:1px solid #ccc;margin-bottom:30px;overflow: visible !important;}
+
+.fix-right .every{width:49px;cursor:pointer;padding:4px 4px 0;position: relative;background:#ededed;overflow: visible !important;}
+
+.fix-right .every:hover{background:#dadada}
+
+.fix-right .every img.icon{width:43px;height:37px;margin:0 auto;display:block;}
+
+.fix-right .every span{width:49px;height:20px;display:block;border-bottom:1px solid #ddd;padding:2px 0 6px;text-align: center;}
+
+.fix-right .every span.border-none{border:none;}
+
+.fix-right .every a.every-a{color:#4f4f4f;font-size:12px;text-decoration:none;}
+
+.fix-right .every .qq-tk{display:none;width:79px;height:auto;padding:5px;border:1px solid #f0f0f0;position:absolute;right:58px;top:0;z-index:-1;background:#ededed}
+
+.fix-right .every .qq-tk li{width:75px;height:21px;margin-bottom:5px;}
+
+.borWhite{border:1px solid #fff;}
+
+.proBox25left .aRight a.awxIco{display:block;height: 25px;width:25px;float:left;margin-right:5px;}
+
+.proBox25left .aRight a.awxIco img{margin:3px;}
+
+.newProImgCon{position:absolute; height:240px; width:240px;top:40px; left:40px;}
+
+.holder{position:absolute;top:0;left:0;margin:-100px 0 0 -100px;}
+
+.albumBoxCon{width: 360px;height:400px;overflow:hidden;position:absolute;top:0;left:0;}
+
+.albumImgCon img{position:absolute;bottom:0;max-height: 350px;max-width: 350px;}
+
+.proBox75Rig .conpanyImg{max-width: 596px;overflow: hidden;float: right;}
+
+.proBox75Rig .conpanyImg ul{height: 135px;overflow-y: hidden;float: none; overflow:hidden;}
+
+.albumWindow .albumLeft a.imgDetailBtn{bottom: 0;position: absolute;left: 50%;margin-left: -40px !important;background: #018bf6;}
+
+.albumWindow .albumLeft a.imgDetailBtn:hover{background:#0a7cde;}
+
+.conpanyImg2{float:left; width:135px; height:135px;}
+
+.proBox25left .newProList .newProImg{position:relative;}
+
+.proBox25left .newProList .newProImg .imgAlertBox{position:absolute;width: 240px;height: 240px;border-radius: 2px;background: #fff;left: 50%;top: 50%;margin-top: -100px;margin-left: -120px;z-index: 50;-webkit-box-shadow: 0 0 10px #ccc;-moz-box-shadow: 0 0 10px #ccc;box-shadow: 0 0 10px #ccc;border: 1px solid #e1dcd2;overflow: hidden;}
+
+.proBox25left .newProList .newProImg .imgAlertBox ol li{height:240px;width:240px;overflow:hidden;float:left;margin: 0;padding: 0; background:#fff;}
+
+.proBox25left .newProList .newProImg .imgAlertBox ol li span{height:240px;width:240px;}
+
+.proBox25left .newProList .newProImg .imgAlertBox ol li a{display:table-cell; height:240px; width:240px; text-align:center;}
+
+.proBox25left .newProList .newProImg .imgAlertBox ol li img{max-width:240px; max-height:240px; vertical-align:middle;}
+
+.proBox25left .newProList .newProImg ol{height:240px;overflow:hidden;position:absolute; width:240px;}
+
+.newProImgNew{position:relative;height: 160px;width: 160px;border: 1px solid #e9e8e6; overflow:hidden;*display:block;*font-family:Arial;*font-size:140px;}
+
+.newProImgNew .ImgNewBox{display: table-cell; height: 160px; width: 160px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:140px;}
+
+.newProImgNew .ImgNewBox img{max-height:160px;max-width:160px;vertical-align: middle;}
+
+.newProImgNew .proImgAlert{display:block; position:absolute; top:0; left:0; height:100%; width:100%; z-index:5;}
+
+.newProImgNew .proImgBg1{filter:alpha(opacity=0);-moz-opacity:0;opacity:0; display:block; background:#000; position:absolute;top:0; left:0; width:100%; height:100%; z-index:6;}
+
+.newProImgNew .proImgBg2{height: 70px;width:100%;position:absolute;top:55px;background:#000;filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6;z-index: 0;left: 0;top: 0;}
+
+.proImgAlertCon{font-size:14px;color:#fff;position:absolute;width:140px;padding:5px 10px;line-height:20px;height:40px;text-align:center;z-index:8;top:45px;left:-160px;}
+
+.proImgAlertCon h4{font-weight:normal;overflow: hidden;position: absolute;width: 140px;height: 40px; left:10px;}
+
+.proImgAlertCon span{color:#ee2e2c;position: absolute;top: 45px;text-align: center;left: 0;width:145px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;padding:0 6px;font-size: 16px;}
+
+.proImgAlertCon em{margin-right: -3px;font-style: normal;}
+
+.proImgAlertCon h4 a{color:#fff;width: 140px;overflow: hidden;}
+
+.bannerBoxNew .owl-theme .owl-controls{position: relative;margin-top: -25px;z-index: 999;}
+
+.proCarouselCon{position:relative;}
+
+.albumWindow .albumLeft .albumImgCon a{display:table-cell;height:350px;width:350px;/* text-align:center; */vertical-align:middle;*display:block;*font-family:Arial;*font-size:305.5px;}
+
+.albumWindow .albumLeft .albumImgCon aimg{vertical-align:middle;}
+
+.proSearch,.bannerBoxNew,.fLink{position:relative;}
+
+.BtnimgList{/*display: inline-block;*/display:none;margin-left: auto;margin-right: auto;bottom: -460px;height: 60px;position: relative;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/bannerImgBg.png);padding: 5px 15px;zoom: 1;margin: 0 auto; z-index:500000;left:50%;}
+
+.BtnimgList a *{position:relative}
+
+.BtnimgList span{width:100px;height:50px;display:block;float:left;margin: 4px 5px;}
+
+.BtnimgList span a{display:table-cell; height:50px; overflow:hidden; width:100px; text-align:center; vertical-align:middle;*display:block;*font-family:Arial;*font-size:43.65px;}
+
+.BtnimgList span a:hover{border:1px solid #fff;}
+
+.BtnimgList span a img{max-width:100px; max-height:50px; vertical-align:middle;}
+
+.proCarousel ul li{overflow:hidden;}
+
+.proCarousel ul li img{max-height:280px; max-width:280px;}
+
+.hotBox1Con ul li .Box1Img img{max-height:300px; max-width:300px;}
+
+.hotBox1Con ul li .Box1Img a{display:table-cell; overflow:hidden; text-align:center; height:300px; width:300px;*display:block;*font-family:Arial;*font-size:262px;}
+
+.hotBox2Con ul li .Box1Img img{max-height:210px; max-width:210px;}
+
+.hotBox2Con ul li .Box1Img a{display:table-cell; overflow:hidden; text-align:center; height:210px; width:210px;*display:block;*font-family:Arial;*font-size:183px;}
+
+.hotBox3Con ul li .Box1Img img{max-height:170px; max-width:170px;}
+
+.hotBox3Con ul li .Box1Img a{display:table-cell; overflow:hidden; text-align:center; height:170px; width:170px;*display:block;*font-family:Arial;*font-size:148.5px;}
+
+.proBox75Rig .newProList .newProImg img{max-width:160px; max-height:160px;}
+
+/*===================================================×¨Òµ³÷´°===================================================*/
+
+.proBox75Rig .zyccBox3{font-size:14px; text-align:center; line-height:32px;}
+
+.proBox75Rig .zyccBox3 th.w215{width: 255px;}
+
+.proBox75Rig .zyccBox3 th.w110{width:110px;}
+
+.proBox75Rig .zyccBox3 span.cRed{color:#ee2e2c;width: 140px;}
+
+.proBox75Rig .zyccBox3 a{display:block;width: 215px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin: 0 auto;color:#666;text-decoration:none;}
+
+.proBox75Rig .zyccBox3 td{color:#666;}
+
+.proBox75Rig .zyccBox3 a:hover{color:#ee2e2c;}
+
+.proBox75Rig .zyccBox3 td span{display:block;margin:0 auto;width: 90px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+/*===================================================×¨Òµ³÷´°===================================================*/
+
+.proBox75Rig .zyccBox2{font-size:14px; text-align:center; line-height:32px;}
+
+.proBox75Rig .zyccBox2 th.w215{width: 285px;}
+
+.proBox75Rig .zyccBox2 th.w110{width: 130px;}
+
+.proBox75Rig .zyccBox2 span.cRed{color:#ee2e2c;width: 140px;}
+
+.proBox75Rig .zyccBox2 a{display:block;width: 283px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin: 0 auto;color:#666;text-decoration:none;}
+
+.proBox75Rig .zyccBox2 td{color:#666;}
+
+.proBox75Rig .zyccBox2 a:hover{color:#ee2e2c;}
+
+.proBox75Rig .zyccBox2 td span{display:block;margin:0 auto;width: 108px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+/*===================================================×¨Òµ³÷´°===================================================*/
+
+.proBox75Rig .zyccBox1{font-size:14px; text-align:center; line-height:32px;}
+
+.proBox75Rig .zyccBox1 th.w215{width: 370px;}
+
+.proBox75Rig .zyccBox1 th.w110{width: 140px;}
+
+.proBox75Rig .zyccBox1 span.cRed{color:#ee2e2c;width: 180px;}
+
+.proBox75Rig .zyccBox1 a{display:block;width: 366px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin: 0 auto;color:#666;text-decoration:none;}
+
+.proBox75Rig .zyccBox1 td{color:#666;}
+
+.proBox75Rig .zyccBox1 a:hover{color:#ee2e2c;}
+
+.proBox75Rig .zyccBox1 td span{display:block;margin:0 auto;width: 128px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+/*===================================================×¨Òµ³÷´°===================================================*/
+
+.proBox75Rig .zyccBox{font-size:14px; text-align:center; line-height:32px;}
+
+.proBox75Rig .zyccBox th.w215{width: 480px;}
+
+.proBox75Rig .zyccBox th.w110{width:110px;}
+
+.proBox75Rig .zyccBox span.cRed{color:#ee2e2c;width: 180px;}
+
+.proBox75Rig .zyccBox a{display:block;width: 480px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin: 0 auto;color:#666;text-decoration:none;}
+
+.proBox75Rig .zyccBox td{color:#666;}
+
+.proBox75Rig .zyccBox a:hover{color:#ee2e2c;}
+
+.proBox75Rig .zyccBox span{display:block;margin:0 auto;width: 108px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.navBoxCon td{float:left;}
+
+.banner1Img a{display:block; height:100%;}
+
+.messTop{overflow:hidden;}
+
+.proBox75Rig .leftBoxCon,.proBox25left .leftBoxCon{background:#fff;}
+
+.proBox75Rig .messBox .messTop{font-size:14px;}
+
+.newWrap{padding: 0;}
+
+.fix-right-box .R-top{width:73px; height:64px;margin:0 0 20px -8px}
+
+.BannerArrowBox .bLeftArrow,.BannerArrowBox .bRightArrow{display:none;}
+
+.hotBox3Con .Box1Img a{display: table-cell; height: 170px; width: 170px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:148.5px;}
+
+.hotBox3Con ul li .Box1Img img{max-height:170px;max-width:170px;vertical-align: middle;}
+
+.hotBox2Con .Box1Img a{display: table-cell; height: 210px; width: 210px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:183px;}
+
+.hotBox2Con ul li .Box1Img img{max-height:210px;max-width:210px;vertical-align: middle;}
+
+.hotBox1Con .Box1Img a{display: table-cell; height: 300px; width: 300px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:262px;}
+
+.hotBox1Con ul li .Box1Img img{max-height:300px;max-width:300px;vertical-align: middle;}
+
+.proBox75Rig .newProList .newProImg a{display: table-cell; height: 160px; width: 160px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:139.7px;}
+
+.proBox75Rig .newProList .newProImg a img{max-height:160px;max-width:160px;vertical-align: middle;}
+
+.albumWindow .albumRig ol li span{display:table-cell;vertical-align: middle;text-align: center; width:60px; height:60px;*display:block;*font-family:Arial;*font-size:52px;}
+
+.albumWindow .albumRig ol li span img{vertical-align:middle; max-height:60px; max-width:60px;}
+
+.proBox25left .newProList .newProImg a{display: table-cell; height: 180px; width: 180px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:157px; text-decoration:none;}
+
+.proBox25left .newProList .newProImg a img{max-height:180px;max-width:180px;vertical-align: middle;}
+
+.proBox25left .newPicList .PicImgCon a{display: table-cell; height:84px; width: 84px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:73px;}
+
+.proBox25left .newPicList .PicImgCon a img{max-height:84px;max-width:84px;vertical-align: middle;}
+
+.proCarousel ul li a{display:table-cell;height:280px;width:280px;vertical-align:middle;text-align:center;*display:block;*font-family:Arial;*font-size:244.5px;}
+
+.proCarousel ul li a img{max-height:280px;max-width:280px;vertical-align:middle;}
+
+.proBox75Rig .dProList .newProImg a{display: table-cell; height: 160px; width: 160px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:139.7px;}
+
+.proBox75Rig .dProList .newProImg a img{max-height:160px;max-width:160px;vertical-align: middle;}
+
+.qBoxImgBox .qImgBox a{display: table-cell; height: 140px; width: 140px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:122.2px;}
+
+.qBoxImgBox .qImgBox a img{max-height:140px;max-width:140px;vertical-align: middle;}
+
+.cPicBoxList ul li .picListImg a img{max-height:130px;max-width:130px;}
+
+.xinfaxin{height: 40px;width: 154px;text-align: center;font-size: 12px;line-height: 40px;padding-left: 84px; margin-right:300px;}
+
+.proBox25left .qyArchives h2 a,.proBox25left .aRight .acName a{text-decoration:none; color:#333;}
+
+.proBox25left .zsBox .zdImgBox a{display: table-cell; height: 180px; width: 180px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:157px;}
+
+.proBox25left .zsBox .zdImgBox a img{max-height:180px;max-width:180px;vertical-align: middle;}
+
+.proBox75Rig .zsBox .zdImgBox a{display: table-cell; height: 120px; width: 120px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:104.8px;}
+
+.proBox75Rig .zsBox .zdImgBox a img{max-height:120px;max-width:120px;vertical-align: middle;}
+
+.proBox75Rig .conpanyImg ul li a,.proBox25left .conpanyImg ul li a{display: table-cell !important; height: 135px; width: 135px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:113.5px;}
+
+.proBox75Rig .conpanyImg ul li a img,.proBox25left .conpanyImg ul li a img{max-height:135px;max-width:135px;vertical-align: middle; display:initial;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor01{width: 97px;height: 98px;padding: 10px 6px 12px 17px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/border/border1.gif);overflow:hidden;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor02{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/border/border2.gif); padding:4px; width:112px; height:112px; overflow:hidden;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor03{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/border/border3.gif); padding:4px;width:112px; height:112px; overflow:hidden;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor01 a{width:97px; height:98px; overflow:hidden;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor01 a img{max-height:98px; max-width:97px;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor02 a img{max-height:112px; max-width:112px;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor03 a img{max-height:112px; max-width:112px;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor02 a{width:112px; height:112px; overflow:hidden;}
+
+.proBox75Rig .zsBox .zdImgBox.zsBor03 a{width:112px; height:112px; overflow:hidden;}
+
+.proBox25left .zsBox p a{color:#333; text-decoration:none;}
+
+.proBox75Rig .Box25LeftTit a:hover,.proBox25left .Box25LeftTit a:hover,.hotTit a:hover{text-decoration:none;}
+
+.proBox75Rig .ContactBox span{color:#333;}
+
+.searchNo{width: 245px;margin: 50px auto;font-size: 14px;}
+
+.searchNo em{display: block;width: 100px;height: 100px;margin: 0 auto;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/proIco2.png) -10px -551px;margin-bottom: 10px;}
+
+.searchNo p{line-height: 24px;white-space:nowrap;}
+
+.searchNo p a{color: #0aa0dd;}
+
+.OnConsulting{display:none;}
+
+.handCursor{cursor:pointer;padding-left: 10px;float: left;display: block;line-height: 20px;}
+
+.conpanyBoxSingle .conpanyImg{float:left;}
+
+.conpanyBoxSingle .conpanyImg ul li{padding:0;}
+
+.conpanyBoxSingle .conpanyImg ul li a{display: table-cell; height: 135px; width: 135px; vertical-align: middle;text-align: center;*display:block;*font-family:Arial;*font-size:113.5px;}
+
+.conpanyBoxSingle .conpanyImg ul li a img{max-height:135px;max-width:135px;vertical-align: middle;}
+
+.proBox25left .ContactBotRig .awxIco{display:block;float:left; margin-left:8px; padding-top:1px;}
+
+.proBox75Rig .zsBox ul li a{color:#333; text-decoration:none;}
+
+.proBox75Rig .zsBox ul li a:hover{color:#ee2e2cl}
+
+.introBox .conpanyBoxSingle span, .conpanyBox span{padding-left:20px;line-height: 20px;color: #666;font-size: 14px;display: initial;}
+
+.proBox25left .zsBox .zdImgBox.zsBor01{width: 153px;height: 158px;padding: 11px 6px 10px 21px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/border/border-1.gif);overflow:hidden;}
+
+.proBox25left .zsBox .zdImgBox.zsBor02{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/border/border-2.gif); padding:4px; width:172px; height:172px; overflow:hidden;}
+
+.proBox25left .zsBox .zdImgBox.zsBor03{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/border/border-3.gif); padding:4px;width:172px; height:172px; overflow:hidden;}
+
+.proBox25left .zsBox .zdImgBox.zsBor01 a{width: 157px;height: 158px;overflow:hidden;}
+
+.proBox25left .zsBox .zdImgBox.zsBor01 a img{max-height: 152px;max-width: 157px;}
+
+.proBox25left .zsBox .zdImgBox.zsBor02 a img{max-height:172px; max-width:172px;}
+
+.proBox25left .zsBox .zdImgBox.zsBor03 a img{max-height:172px; max-width:172px;}
+
+.proBox25left .zsBox .zdImgBox.zsBor02 a{width:172px; height:172px; overflow:hidden;}
+
+.proBox25left .zsBox .zdImgBox.zsBor03 a{width:172px; height:172px; overflow:hidden;}
+
+.proBox25left .ContactBot dt{overflow:hidden; padding-bottom:15px;}
+
+.proBox75Rig .ContactBotRig{float:left;width: 500px;padding-left:5px;padding-top: 3px;}
+
+.proBox75Rig .ContactBotRig .leftqqIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -338px no-repeat;display:block;width: 82px;height:20px;float: left;}
+
+.proBox75Rig .ContactBotRig a.awxIco{display:block;height: 25px;width:25px;float:left;margin-right:5px;}
+
+.proBox75Rig .ContactBotRig a.awxIco img{margin: 0 8px;}
+
+li.slick-slide a img,.slick-slide img{float:none; display:initial !important;}
+
+a:hover{text-decoration:none !important;}
+
+.proBox75Rig .rigTabTit dd a{color:#333; text-decoration:none;}
+
+.proBox25left .cPicBox li{overflow:hidden; height:30px;}
+
+/*΢�ŵ���*/
+
+.leave-m{background-color:#fff;border:5px solid #e0e0e0;font-size:12px;height:420px;width:340px}
+
+.leave-m .close_window{width:30px;height:30px;position:absolute;right:17px;top:6px;background:none}
+
+.leave-m .close_window a{width:30px;height:30px;display:inline-block;color:#d52b29;font-size:26px;font-weight:700;text-align:center;line-height:30px}
+
+.leave-m .close_window a:hover{background:#d52b29;color:#fff;text-decoration:none}
+
+.leave-m .content{position:relative}
+
+.leave-m .content .title{background:#F1F1F1;font-size:14px;line-height:47px;height:47px;font-weight:700;padding-left:30px}
+
+.leave-m .content .form{padding:23px}
+
+.leave-m .content .form .mine{margin-bottom:6px;min-height:54px}
+
+.leave-m .content .form .mine span i{color:red;font-style:normal}
+
+.leave-m .content .form .mine span{width:68px;height:30px;line-height:30px;display:inline-block;text-align:right;vertical-align:top}
+
+.leave-m .content .form .mine em{font-style:normal;display:block;margin:6px 0 0 73px;font-size:11px;color:#e64242}
+
+.leave-m .content .form .caig{margin-top:20px}
+
+.leave-m .content .form .mine input{border:1px solid #ccc;width:207px;height:30px;line-height:30px;color:gray;padding-left:3px}
+
+.leave-m .content .form .mine textarea{border:1px solid #ccc;width:210px;height:50px;margin-bottom:30px;margin-left:6px}
+
+.leave-m .content .button{width:106px;height:27px;background:#e64242;border-radius:5px;position:absolute;left:120px;bottom:15px;color:#fff;text-align:center;line-height:27px}
+
+.leave-m .content .button a{color:#fff}
+
+.leave-m .content .button a:hover{text-decoration:none;color:#fff}
+
+/*�鿴��ϵ��ʽ*/
+
+.word-box{overflow:hidden;background-color:#fff;border:5px solid #e0e0e0;font-size:12px;width:300px;height:160px;padding:20px 45px;position:relative;font-family:"Microsoft YaHei";color:#333;position: absolute;top: 56px;left: 0;}
+
+.word-box .close_window{width:28px;height:28px;position:absolute;right:0px;top:0px}
+
+.word-box .close_window a{width:28px;height:28px;display:inline-block;color:#d52b29;font-size:22px;font-weight:bold;text-align:center;line-height:28px;font-family:Arial;}
+
+.word-box .close_window a:hover{background:#cd2e21;color:#fff;text-decoration:none}
+
+.word-box .button a:hover{text-decoration:none;color:#fff}
+
+.word-box .word3 .num .text-num{width:188px;height:26px;border-style:none;border:1px solid #aeaeae;line-height:28px}
+
+.word-box .word3{position:relative;vertical-align:middle;width:350px;height:160px;}
+
+.word-box .word3 .num p{padding-left:55px}
+
+.word-box .word3 .num p.hide{color:#cd2e21}
+
+.word-box .word3 .num p.hide strong{margin-left:0 !important;width:0px !important;height:0px !important;}
+
+.word-box .word3 i{width:34px;height:18px;display:block;line-height:18px;text-align:center;color:#999;border:1px solid #999;font-style:normal;position:absolute;right:17px;top:21px;z-index:2}
+
+.word-box .word3 i a{width:35px;height:18px;display:block;line-height:18px}
+
+.word-box .word3 .num{margin-bottom:20px;}
+
+.word-box .word3 .num strong{font-weight:normal;color:#cd2e21;margin-left:0px;width:140px;height:30px;text-align:center;line-height:29px;display:inline-block;font-size:12px}
+
+.word-box .word3 .yanzm strong{margin-left:90px;}
+
+.word-box .word3 .yanzm{position:relative;}
+
+.word-box .word3 .yanzm .text-num{width:98px;}
+
+.word-box .word3 .yanzm em{width:80px;height:30px;display:block;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/ma.gif) no-repeat left top;position:absolute;left:185px;top:0px;}
+
+.word-box .word3 .btn{position:absolute;bottom:0px;left:55px;width:190px;height:30px;background:#cd2e21;color:#fff;text-align:center;line-height:30px;font-size:14px;border: none;}
+
+.word-box .word3 .btn a{width:190px;height:30px;display:block;color:#fff;text-decoration:none;}
+
+.wxIcoNew{padding-left:10px;position: relative;display: block;float: left;line-height: 22px; z-index:5;}
+
+.wxImgNew{position: absolute;bottom: 25px;left:0;background: #fff;border: 1px solid #ddd;border-radius:2px; padding:2px;}
+
+.wxImgNew img{max-width:220px; max-height:220px; border-radius:2px;}
+
+.ContactPage .con3Rig a{margin-right:5px;}
+
+/*�����Ƽ�*/
+
+.znColumn .showcase75 ul li{width:162px !important;float: left;}
+
+.znColumn .showcase75 ul li .wRepro{background:none repeat scroll 0 0 #fff;border:1px solid #e0e0e0;}
+
+.znColumn .showcase75 .wRepro table{height:160px;width:160px;}
+
+.znColumn .showcase75 ul li p.pro_price{width:162px !important;}
+
+.znColumn .showcase75 ul li p.pro_ico{margin-top:2px;overflow:hidden;width:162px;}
+
+.box75sub #recomdList .contentbox .txtb{padding:0 !important;margin:0;width:100%;border:none;background:#fff;}
+
+.znColumn .showcase75 ul li .wReproinfo{height:58px;font-size: 14px;}
+
+.znColumn .showcase75 ul li .wReproinfo a{display:block;width:158px;height:36px;line-height:18px;overflow:hidden;color: #666;word-wrap: break-word;word-break:break-all;}
+
+.znColumn .showcase75 p{position:static;overflow:hidden;margin-bottom:2px;}
+
+.znColumn .showcase75 ul li .wReproinfo .pro_ico s{position:static;float:left;text-decoration: none;}
+
+.znColumn .showcase75 ul{/* height:255px; */overflow:hidden;}
+
+.znColumn .showcase75 ul li .wRepro{display:table-cell;vertical-align:middle;text-align:center;width:160px;height:160px;margin:0 auto;*display:block;*font-family:Arial;*font-size:140px;}
+
+.znColumn .showcase75{width: 732px;height:255px;padding-top:15px;padding-bottom: 10px;}
+
+.znColumn .showcase75 ul{width:auto !important;}
+
+.znColumn .showcase75 ul li{padding: 0 2px 16px 15px;}
+
+.znColumn .contentbox{border: 1px solid #e6e6e6;background: #fff;}
+
+.znColumn .showcase_75_2014{overflow:hidden;height:260px;}
+
+.znColumn{margin-top:10px !important;}
+
+.znColumn .titlebox{height:34px !important;border: 1px solid #e6e6e6;border-bottom:none;background:none !important;width:auto !important;}
+
+.znColumn .columnTit{overflow:hidden;background:#fff;height:34px;}
+
+.znColumn .columnTit h2{font-weight:normal;font-weight:bold;text-indent:10px;font-size:16px;width:120px;float:left;line-height:32px;color:#333;}
+
+.znColumn .columnTit a{display:inline-block;width:60px;line-height:32px;float:right;text-align:center;padding-left:10px;background:url("http://style.org.hc360.com//images/detail/mysite/siteconfig/update.png") no-repeat 0 8px; font-size:12px; text-decoration:none; color:#1e50a2;}
+
+.znColumn .columnTit a:hover{color:#ee2e2c;}
+
+.proBox75Rig .newProList .leftProName a:hover{color:#ee2e2c;}
+
+.showcase75 ul li p.pro_price{margin-top:4px;padding-bottom:2px;font-size: 16px;padding: 10px 0px 5px;line-height: 20px;color: #ee2e2c;height: 20px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.znColumn .columnTit h2{font-weight:bold;text-indent:10px;font-size: 14px;width:120px;float:left;line-height:32px;color:#333;}
+
+.znColumn .columnTit a{display:inline-block;width:60px;line-height:32px;float:right;text-align:center;padding-left:10px;background:url("http://style.org.hc360.com//images/detail/mysite/siteconfig/update.png") no-repeat 0 8px;}
+
+.znColumn .showcase75 ul li .wReproinfo a:hover{color:#ee2e2c;}
+
+.content-Suc{width:468px;background-color: #fff;border: 5px solid #e0e0e0;position: relative; font-family:"MicroSoft YaHei" !important;}
+
+.c_window{width:15px;height: 15px;position: absolute;right:10px;top:10px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/fix-r/M-icon.png) no-repeat -3px -535px;cursor: pointer;}
+
+.content-Suc .title{background: #f5f5f5;height: 40px;font-size: 18px;color: #333;padding-left:15px;line-height: 40px;}
+
+.CS_top{padding:84px 165px 20px;width:100px;height:auto;border-bottom:1px dashed #ddd;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/fix-r/M-icon.png) no-repeat; background-position: 184px 30px;font-size:22px;color:#999;margin: 0 auto;}
+
+.CS_mid{padding:20px 0;}
+
+.CS_mid .s-title{font-size: 16px;color: #999;text-align: center;}
+
+.CS_mid ul{overflow: hidden;}
+
+.CS_mid ul li{float: left;width:105px;margin: 17px 2px 0 37px;}
+
+.CS_mid ul li .li-img1{width:48px;height:48px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/fix-r/M-icon.png) no-repeat 0 -193px;margin: 0 auto;padding-bottom: 10px;}
+
+.CS_mid ul li .li-img2{width:48px;height:48px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/fix-r/M-icon.png) no-repeat 0 -296px;margin: 0 auto;padding-bottom: 10px;}
+
+.CS_mid ul li .li-img3{width:48px;height:48px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/fix-r/M-icon.png) no-repeat 0 -417px;margin: 0 auto;padding-bottom: 10px;}
+
+.CS_mid ul li .f14{font-size: 14px;color:#434343;line-height: 20px}
+
+.CS_mid ul li .f12{font-size: 12px;color:#b6b6b6;}
+
+.CS_btm{width:138px;height: 36px;line-height: 36px;background: #ee2e2c;text-align: center;font-size: 14px;margin:15px auto 25px;}
+
+.CS_btm a{width:138px;height: 36px;display:block;color:#fff !important;text-decoration: none;}
+
+.CS_btm:hover{background: #f01324;}
+
+.CS_btm:hover{background: #f01324;}
+
+.send-alert-wrap{top:50%;/* left:50%; */font-size:12px !important;/* position:absolute; *//* width:492px; *//* z-index:9999; *//* height:207px; */}
+
+.update-alertBox{background:#dcdcdc;height:auto;left:50%;margin-left:-241px;padding:5px;position:fixed;top:50%;margin-top:-103px;width:482px;z-index:1000;height:207px;}
+
+.alert-con{background:#fff;height:auto;position:relative;width:482px;}
+
+#sendSmsDialog .attest-wrap{padding:36px 0 10px;width:483px;height:auto;}
+
+.attest-wrap{padding:36px 0 10px;width:483px;height:160px;}
+
+.about-info{height:auto;margin-left:4px;padding-bottom:14px;width:470px;}
+
+.alert-con .close{background:url("http://style.org.hc360.com/images/my/images/corcenter/mmt4/item-control/contor_icon.png") no-repeat -21px 0;display:block;float:right;position:absolute;right:10px;top:10px;height:18px;overflow:hidden;text-indent:-9999em;width:19px;}
+
+.alert-con .close:hover{background-position:0 0;}
+
+.close{cursor:pointer;font-size:16px;font-weight:bold;line-height:16px;text-align:center;}
+
+.now-send button{background:#e64242;border:none;color:#fff;font-size:12px;font-weight:bold;height:30px;line-height:30px;text-align:center;width:100px;}
+
+.now-send{height:30px;margin:5px 0 15px;text-align:center;width:100%;}
+
+.about-info .send-succeed{height:66px;padding:20px 0 11px 95px;}
+
+.about-info .send-errow{padding:0 0 0 71px;}
+
+.send-succeed dl{height:65px;}
+
+.send-succeed dl dt,.send-succeed dl dd{float:left;}
+
+.send-succeed dl dt{width:65px;height:65px;overflow:hidden;text-indent:-9999em;background:url("http://style.org.hc360.com/images/my/images/sitemanage/icon-hint.png") no-repeat ;margin-right:18px;}
+
+.send-succeed dl dd{padding-top:14px;}
+
+.send-succeed dl .win{background-position:0 0;}
+
+.send-succeed dl .defeat{background-position:0 -66px;}
+
+.send-succeed dl dd p{line-height:34px;font-size:24px;font-weight:bold;color:#666;padding-top:2px;float:left;}
+
+.send-succeed dl dd a{color:#1e50a2;display:block;float:left;margin-left:20px;padding-top:9px;}
+
+.sel-public{border:1px solid #bfbfbf;cursor:pointer;float:left;height:28px;line-height:28px;padding-left:3px;position:relative;}
+
+.sel-public s{background:url("http://style.org.hc360.com/images/my/images/corcenter/mmt4/members/certifico.png") no-repeat -2px -60px;display:inline-block;float:right;height:28px;text-decoration:none;width:21px;}
+
+.about-info li .f-item .sel-public span{padding-left:2px;}
+
+.sel-public ul{background:0 0 #fff;border:1px solid #bfbfbf;left:-1px;max-height:120px;overflow:auto;position:absolute;top:28px;z-index:101;}
+
+.sel-public ul li{padding:0 5px;line-height:28px;height:28px;width:208px;}
+
+.sel-public ul li.item-hover{background:#f7f7f7;}
+
+.input-mobile-num,.success{color:#e64242;height:20px;line-height:20px;padding-top:2px;margin:0;width:220px;padding-left:20px;background:url("http://style.org.hc360.com/images/my/images/corcenter/mmt4/members/certifico.png") no-repeat ;}
+
+.input-mobile-num{background-position:-183px -2px;overflow:hidden;}
+
+.success{width:50px !important;background-position:-183px -71px;float:left;margin-left:10px;color:#3EA244;}
+
+.proBox75Rig .messBox .messImg a{display:table-cell;height: 200px;width: 200px;vertical-align:middle;text-align:center;*display:block;*font-family:Arial;*font-size:175px;}
+
+.proBox75Rig .messBox .messImg img{vertical-align:middle;max-height: 200px;max-width: 200px;}
+
+.cxcode2{position:absolute; background:#fff; z-index:5;}
+
+.ContactPage .codeImgNew{position:relative;}
+
+.newWrapCon{padding: 10px 15px 15px !important;margin-top:0 !important;}
+
+.albumWindow .albumLeft p a{color:#333; text-decoration:none;}
+
+.newWrap{margin-top:0 !important;}
+
+.bannerBoxCon ul li a{display: block;vertical-align:middle;text-align:center; *display:block;*font-family:Arial;*font-size:392px;}
+
+.bannerBoxCon ul li a img{vertical-align:middle;}
+
+.proBox75Rig .newProList .newProImg .imgAlertBox ol li span a{text-align:center; display:table-cell; vertical-align:middle; text-align:center; height:200px; width:200px;*display:block;*font-family:Arial;*font-size:175px;}
+
+.proBox75Rig .newProList .newProImg .imgAlertBox ol li span img{max-height:200px; max-width:200px; vertical-align:middle;}
+
+.hotBox1Con .imgAlertBox ol li span a{text-align:center; display:table-cell; vertical-align:middle; text-align:center; height:350px; width:350px;*display:block;*font-family:Arial;*font-size:305.5px;}
+
+.hotBox1Con .imgAlertBox ol li span img{max-height:350px; max-width:350px; vertical-align:middle;}
+
+.hotBox2Con .imgAlertBox ol li span a{text-align:center; display:table-cell; vertical-align:middle; text-align:center; height:250px; width:250px;*display:block;*font-family:Arial;*font-size:218px;}
+
+.hotBox2Con .imgAlertBox ol li span img{max-height:250px; max-width:250px; vertical-align:middle;}
+
+.hotBox3Con .imgAlertBox ol li span a{text-align:center; display:table-cell; vertical-align:middle; text-align:center; height:200px; width:200px;*display:block;*font-family:Arial;*font-size:175px;}
+
+.hotBox3Con .imgAlertBox ol li span img{max-height:200px; max-width:200px; vertical-align:middle;}
+
+.customBox p,.customBox h1,.customBox h2,.customBox h3,.customBox h4,.customBox h5,.customBox h6{margin:inherit; padding:inherit;}
+
+.customBox em{font-style:inherit;}
+
+.customBox s{text-decoration:inherit;}
+
+.customBox span{display: initial;}
+
+.customBox ol li{list-style-type: decimal;}
+
+.customBox ul li{list-style-type: disc;}
+
+.customBox ol,.customBox ul{padding-left: 30px;margin: 16px 0;}
+
+.handCursor img{vertical-align:middle;margin-right:2px;float: left;margin-top: 2px;}
+
+.customBox p{margin: 0;padding: 5px 0;}
+
+.wxIcoNew img{vertical-align:middle;margin-right: 4px;float: left;}
+
+.cQQIco{float:left;}
+
+.ContactPage .codeImgNew{cursor:pointer;}
+
+.proBox25left .qyArchives h2:hover,.proBox25left .qyArchives h2 a:hover, .proBox25left .aRight .acName a:hover{color:#ee2e2c;}
+
+.cxcode2{width:250px;position:absolute;left:0;bottom:22px;z-index:4;padding:5px;background:#fff;display:none;border:1px solid #ccc;}
+
+.cxcode2 .code2zc{width:250px;height:250px;clear:both;margin:0;}
+
+.cxcode2 p{text-align:center;font-size: 12px;background:#fff;color: #666;}
+
+.coupon{width:90px;height:69px;position:fixed;right:51%;margin-right:480px;position:fixed;bottom:30px;_position:absolute;_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,30)||30)));}
+
+.coupon button{display:block;width:90px;height:69px;background:url("http://style.org.hc360.com/images/detail/mysite/public/xuanp3/pxk/coupon.png") no-repeat;text-indent:-999999px;cursor:pointer;}
+
+.couponsWrap{width:197px;height:227px;overflow:hidden;font-family:Arial;}
+
+.positionWrap{height:227px;position:relative;width:197px;}
+
+.BoxWrap{height:228px;overflow:hidden;position:absolute;top:1px;width:197px;}
+
+.couponsCon{width:197px;height:227px;background:url("http://style.org.hc360.com/images/my/images/corcenter/mmt4/tran/coupons.png") no-repeat;position:relative;float:left;overflow:visible;}
+
+.Coup1{position:absolute;left:17px;top:26px;width:175px;text-align:center;height:60px;line-height:60px;color:#fff;font-size:16px;}
+
+.Coup1 span{font-size:60px;overflow:hidden;color:#fff;font-weight:400;font-family:"Microsoft YaHei";line-height:60px;}
+
+.couponsCon2 .Coup1 span{left:10px;}
+
+.Coup1 em{font-weight:bold;font-family:"Microsoft YaHei";line-height:22px;font-size:20px;}
+
+.Coup2{color:#fff;font-family:"Microsoft YaHei";font-size:18px;left:17px;line-height:38px;position:absolute;top:86px;width:175px;text-align:center;}
+
+.Coup2 em{font-size:12px;font-style:normal;}
+
+.Contime{color:#fff;font-family:"Microsoft YaHei";font-size:12px;font-weight:600;left:16px;position:absolute;top:122px;width:175px;}
+
+.Contime p{text-align:center;height:22px;overflow:hidden;margin:0 !important;}
+
+.nowL{width:135px;height:35px;display:block;position:absolute;left:40px;bottom:11px;text-indent:-999999px;}
+
+#coupons .close{float:right;margin:10px 8px 0 0;display:inline-block;width:19px;height:18px;text-indent:-9999em;overflow:hidden;background:url("http://style.org.hc360.com/images/my/images/corcenter/mmt4/item-control/contor_icon.png") no-repeat -21px 0px;}
+
+#coupons .close:hover{background-position:0 0;}
+
+#coupons{width:197px;height:270x;right:50%;margin-right:500px !important;position:fixed;bottom: 30px;display: none;_position:absolute;z-index:999;_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,100)||100)));}
+
+.pro_ico{float:right; color:#999; font-size:14px;}
+
+.proSearchRig button{outline:none;}
+
+.linkfbox{margin: 10px auto 0;width: 952px;}
+
+.titlelinktxt{height: 38px; line-height: 38px;}
+
+.friendMid{border-left: 1px solid #e6e6e6; height:39px;}
+
+.friendMid span{display: block; border: 1px solid #e6e6e6; border-left: none; border-bottom: none; float: left; width: 120px; height: 38px; text-align: center; background: #fff; font-size: 16px; color: #999; cursor: pointer;}
+
+.friendMid span.newIntoTab{color: #333; background: #f0f0f0;}
+
+.linkcontent{padding: 10px; overflow: hidden; clear: both; border: 1px solid #e6e6e6; background: #fff; margin-bottom: 20px;}
+
+.comyanyList{overflow:hidden;}
+
+.comyanyList ul li{float: left; line-height: 30px; width: 155px; padding: 0 15px; -o-text-overflow: ellipsis; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;}
+
+.comyanyList ul li a:hover{color:#ee2e2c;}
+
+.aRight span img{cursor:pointer;}
+
+.conListNew{background-position:top center;background-repeat: no-repeat !important;}
+
+.proBox75Rig .cDynamicsList ul li span.txtc02{-o-text-overflow: ellipsis; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; float: none;}
+
+.proBox75Rig .Box25LeftTit a.fMore{width:auto; background:none;}
+
+.slick-dots li, .slick-dots li button,.slick-dots li button:before{height:18px !important;; width:12px !important;}
+
+.opacity0{filter:alpha(opacity=0);-moz-opacity:0;opacity:0;}
+
+.cPicBoxList ul li .picListName a span{white-space:nowrap;}
+
+.proBox75Rig .Box25LeftTit h4,.proBox25left .Box25LeftTit h4{font-weight:normal;}
+
+.proBox25left .newProList .leftProPrice span{display:block;overflow: hidden;text-overflow: ellipsis;white-space:nowrap;}
+
+.ContactPage .ContacCon3 ul li a{text-decoration:none;}
+
+.ContactPage .ContacCon3 ul li a div{color:#333;}
+
+.qyArchives .memyear span.mRed{padding-right:5px;}
+
+.introBox, .ProDirectory,.introBox, .evaluateBox, .qualificationBox,.cPicBoxList{background:#fff;border: 1px solid #e6e6e6;border-top: none;}
+
+.sLeftPrompt a{color:#0d7fe1; text-decoration:none;}
+
+.proSeleBox span a.redCur{background: #ee2e2c;color:#fff;}
+
+.proSeleBox span a.ArrowUp{}
+
+.proSeleBox span a.ArrowUp s{display:inline-block;height:20px;width:12px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -90px -1109px;vertical-align: middle;margin-left: 6px;}
+
+.proSeleBox a.ArrowDownCur{background:#ee2e2c; color:#fff;}
+
+.proSeleBox a.ArrowDownCur s{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -29px -1109px;}
+
+.introBox table td a:hover{color:#ee2e2c;}
+
+.ContactPage .ContacCon2 dt span.handCursor{font-size:12px;}
+
+.proMapsWrap .mapsCon{height: 500px;width: 682px;}
+
+.bannerBoxCon ul li a{display:block; height:100%; width:100%;}
+
+.comName h2{line-height:36px;}
+
+.qyArchives .ArchivesList ul li.f-store{text-align:center; padding:8px 0;}
+
+.BannerArrowBox{height:0px !important;top: 50%;margin-top:0;}
+
+.BannerArrowBox .bRightArrow,.BannerArrowBox .bLeftArrow{/*margin-top:185px !important;*/}
+
+.rbwIco,.rjbIco,.cpIco,.cydIco,.rsnIco,.rsnIco2{display:block;float:left;background-image:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/NewProIco.png);margin-right: 3px;margin-bottom: 3px;}
+
+.rbwIco{width: 50px;height: 16px;background-position: 0px -135px;margin-top: 3px;position: relative;}
+
+.cpIco{width: 50px;height: 16px;background-position: -122px -135px;margin-top: 3px;}
+
+.cydIco{width: 50px;height: 20px;background-position: -60px -134px;margin-top: 1px;}
+
+.rjbIco{width: 74px;height: 15px;background-position: -1px -180px;margin-top: 4px;}
+
+.rsnIco{width: 130px; height: 41px; background-position: -1px -235px; margin-top: 0px;}
+
+.rsnIco2{width: 130px;height: 41px;background-position: -150px -235px;margin-top: 0px;}
+
+.f-logo{display:block;float:left;margin: 2px 2px 2px 0;}
+
+.bwserico{position:absolute;top: 25px;left: -32px;border:1px solid #ffcc7f;background:#fff;padding:5px;width: 182px;}
+
+.bwserico span{margin-right:5px;display:inline-block;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/nw_ico.png) no-repeat;width:51px;height:18px;}
+
+.bwserico span.b1{background-position:-2px 0;}
+
+.bwserico span.b2{background-position:-1px -25px;}
+
+.bwserico span.b3{background-position:-1px -47px;}
+
+.bwserico span.b4{background-position:-1px -70px;}
+
+.bwserico span.b4{background-position:-1px -70px;}
+
+.bwserico s{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/nw_ico.png) no-repeat -65px -53px;width:14px;height:17px;position:absolute;display:inline-block;top:-7px;left:51px;text-decoration:none;}
+
+.serv a.BW_ico{float: left;margin-right:8px;vertical-align:middle;background:url("http://style.org.hc360.com/images/detail/mysite/public/xinTop/brand_ico.png") no-repeat 0 0;background-position:-219px -98px;height:22px;width:50px;display: block;}
+
+.item-mmt-r{float:left;max-width: 137px;display: block;position: relative;}
+
+a.ZS_ico{display:inline-block;height:22px;margin-right:8px;vertical-align:middle;background:url("http://style.org.hc360.com/images/detail/mysite/public/xinTop/brand_ico.png") no-repeat 0 0;background-position:-164px -98px;height:22px;width:50px;}
+
+.proBox25left .aRight.w135 a{margin-right:5px;}
+
+.proBox25left .aRight a:hover,.proBox25left .messBox a:hover{color:#ee2e2c;}
+
+.proBox25left .messBox a{color:#666; text-decoration:none;}
+
+.proSearchRig button{line-height:20px !important;}
+
+a.vphotos,a.sdpIco,.topSdps,.topSdps dl.sdps_leader dt,.topSdps dl.sdps_office dt,.topSdps dl.sdps_place dt,.topSdps dl.sdps_cerPhoto dt,.topSdps dl.sdps_otherCon dt,.topSdps dl dd{background-image:url(http://style.org.hc360.com/images/detail/mysite/public/sdpsbg.png);background-repeat:no-repeat;background-color:transparent;}
+
+a.vphotos{background-position:-185px -75px;text-decoration:none !important;display: block;float: left;height: 20px;width: 24px;margin-top: 2px;}
+
+.down{position:fixed;width:100%;height:100%;background:#000;filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6;left:0;top:0;z-index:1000000;}
+
+.proBox75Rig .messBox .messTopRig span.txtk03{line-height:20px; max-height:60px; overflow:hidden; display:block;}
+
+a img{border:none;}
+
+.proBox75Rig .messBox ul li dt .messCon a,.proBox75Rig .messBox .messTopRig span a{color:#666;}
+
+.dDyCon img{max-width:615px;}
+
+#highQualityMod{overflow:hidden;margin-top:10px;background:#fff;border: 1px solid #ccc;}
+
+#highQualityMod .tabbox .tabb3{font-weight:bold;text-indent:10px;font-size: 14px;width:120px;float:left;line-height:32px;color:#333;}
+
+#highQualityMod .tabbox{overflow:hidden;height:34px !important;background:none !important;width:auto !important;border-bottom: 1px solid #ccc;}
+
+#highQualityMod .showcase75 ul{width:auto !important;}
+
+#highQualityMod .showcase75 ul li{padding: 0 2px 16px 15px;}
+
+#highQualityMod .showcase75 ul li{width:162px !important;float: left;}
+
+#highQualityMod .showcase75 ul li .wRepro{background:none repeat scroll 0 0 #fff;border:1px solid #e0e0e0;}
+
+#highQualityMod .showcase75 .wRepro table{height:160px;width:160px;}
+
+#highQualityMod .showcase75 ul li p.pro_price{width:162px !important;}
+
+#highQualityMod .showcase75 ul li p.pro_ico{margin-top:2px;overflow:hidden;width:162px;}
+
+#highQualityMod .showcase75 ul li .wReproinfo{height:58px;font-size: 14px;}
+
+#highQualityMod .showcase75 ul li .wReproinfo a{display:block;width:158px;height:36px;line-height:18px;overflow:hidden;color: #666;}
+
+#highQualityMod .showcase75 p{position:static;overflow:hidden;margin-bottom:2px;}
+
+#highQualityMod .showcase75 ul li .wReproinfo .pro_ico s{position:static;float:left;text-decoration: none;}
+
+#highQualityMod .showcase75 ul{/* height:255px; */overflow:hidden;}
+
+#highQualityMod .showcase75 ul li .wRepro{display:table-cell;vertical-align:middle;text-align:center;width:160px;height:160px;margin:0 auto;*display:block;*font-family:Arial;*font-size:140px;}
+
+#highQualityMod .showcase75{width: 732px;height:255px;padding-top:15px;padding-bottom: 10px;}
+
+#highQualityMod .showcase75 ul{width:auto !important;}
+
+#highQualityMod .showcase75 ul li{padding: 0 2px 16px 15px;}
+
+.searchNo p a{text-decoration:none;}
+
+.searchNo p a:hover{color:#ee2e2c;}
+
+button{outline:none;}
+
+.proImgBox{min-height:50px;}
+
+textarea{resize:none;}
+
+.customBox .leftBoxCon{border:inherit !important; padding:inherit !important;}
+
+.customBox .nInfoPro2,.customBox .nInfoPro2 a{font-size: 14px; text-decoration:none;}
+
+.customBox .nInfoPro2{color:#bbb;}
+
+.customBox .leftBoxCon a{width:inherit; color:inherit; background:inherit; padding:inherit; text-align:inherit; line-height:inherit;}
+
+.conpanyBoxSingle .conpanyImg{margin: 0 20px 20px 0;}
+
+.probussnumb{background:url("http://style.org.hc360.com/images/detail/mysite/siteconfig/mapsfloor.png") -2px -215px;bottom:30px;display:none;height:81px;position:absolute;right:-100px;width:218px;}
+
+.itemfloor h2,.probussnumb h2{font:bold 16px/22px "Microsoft YaHei";color:#333;margin-bottom:13px;}
+
+.itemfloor h2{width:268px;}
+
+.probussnumb h2{height:22px;width:216px;margin:16px auto 0;text-align:center;}
+
+.itemfloor h2 span,.probussnumb h2 span{color:#ee2e2c;font-size:16px;}
+
+.callbkmaps{background:url("http://style.org.hc360.com/images/detail/mysite/siteconfig/mapsfloor.png") no-repeat;}
+
+.callbkmaps{position:absolute;right:10px;top:10px;display:block;width:104px;height:32px;text-indent:-9999em;background-position:-98px -321px;cursor:pointer;z-index:9999;}
+
+.customBox *,.customBox{font-size:initial;color: initial;}
+
+.customBox{font-size:16px;}
+
+.customBox a{text-decoration:underline;}
+
+.yearTen1{width: 130px;height: 42px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/10year1.png) no-repeat center center;margin-left: 13px;}
+
+.yearTen2{width: 130px;height: 42px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/10year2.png) no-repeat center center;margin-left: 13px;}
+
+.proBox25left .messBox .messCon{overflow: hidden;text-overflow: ellipsis;width: 176px;line-height: 24px; height:24px;white-space:nowrap !important;word-wrap:normal;}
+
+.proBox75Rig .classBox ul li h4.classHide{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -133px -1153px no-repeat #fff; padding-left:20px;}
+
+.proBox75Rig .ContactBox span a{color:#333; text-decoration:none;}
+
+.rnzz a{color:#333; text-decoration:none;}
+
+.conListNew{overflow:hidden;}
+
+.ContactPage .con3Left,.ContactPage .LeftTit span{white-space:nowrap;}
+
+.wxIcoNew{font-size:12px;}
+
+.qBoxImgBox2 p{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.qBoxImgBox2 .qImgBox a{text-align:center; display:table-cell; vertical-align:middle; text-align:center; height:200px; width:200px;*display:block;*font-family:Arial;*font-size:175px;}
+
+.qBoxImgBox2 .qImgBox a img{max-width:200px; max-height:200px;}
+
+.ApplicantInfo .ApplicanImg img{max-width:220px; max-height:125px;}
+
+.proBox75Rig .leftBoxCon.messBox{padding:24px 24px 10px 24px;}
+
+.introBox span{padding-top: 15px;display:block;font-size:14px;color: #666;text-indent: 2em; width:645px;}
+
+.contentbox{border:1px solid #e6e6e6;padding:10px;background: #fff;}
+
+.hdengbaishi{height: 40px;padding-left: 210px;font-size: 12px;width: 150px;line-height: 40px;}
+
+.dengbaishi{height: 40px;padding-left: 210px;font-size: 12px;width: 150px;line-height: 40px;}
+
+.rnzz a{color:#ee2e2c;}
+
+.TopAdBox{width:952px;overflow:hidden;margin: 10px auto 0;}
+
+.LeftAdBox{width:210px;overflow:hidden;}
+
+.RigAdBox{width:732px; overflow:hidden; margin-bottom:10px;}
+
+.pageNew .pageNewBox span,.pageNew .pageNewBox input,.pageNew .pageNewBox button{float:left;}
+
+.qBoxConList .qBoxTit a{float:right; color:#666; text-decoration:none; font-size:12px; padding-right:10px;}
+
+.qBoxConList .qBoxTit a:hover{color:#ee2e2c;}
+
+.introBox table td p{width:500px;}
+
+.introBox span{display:block; width:645px; text-align:right;}
+
+.proBox75Rig .dProList .leftProPrice,.proImgAlertCon span,.zyccBox5 span,.zyccBox4 span,.zyccBox3 span,.zyccBox2 span,.zyccBox1 span,.zyccBox span,.proBox25left .newProList .leftProPrice span{white-space:nowrap !important;word-wrap:normal;}
+
+.proBox75Rig .messBox .messList a{text-decoration:none;}
+
+.proBox75Rig .messBox ul li dt .messCon a:hover{color:#ee2e2c;}
+
+.customBox{word-break: break-all;word-wrap:break-word;overflow: hidden;}
+
+.topback{padding: 10px 0 0;float:right;display:block;}
+
+.proBox25left .messBox .messCon span.cRed{color:#ee2e2c;padding-right: 5px;}
+
+.proBox25left .messBox .messCon span.cBlue{color:#018bf6;padding-right: 5px;}
+
+.wxclBot .wxclBotText textarea:of
+
+.p75Left{float:left !important;}
+
+.p25Rig{float:right !important;}
+
+.proBox75Rig .messBox.lineHauto ul li dt .messCon{height:auto;max-height: 100000px;}
+
+.proNavBox .navBoxCon{position:relative; z-index:5;}
+
+.bannerBoxCon{overflow:hidden;}
+
+.ArchivesList img,.ArchivesBot img,.ContactBox img,.ContactPage img,.customBox img,.footerbox img,.proBox25left .proImgBox img{width:auto;}
+
+.proImgBox img{max-width:952px; width:auto;}
+
+.proBox75Rig .messBox .messTopRig dt a,.proBox75Rig .messBox .messTopRig dt a span{text-decoration:none;}
+
+.proBox25left .newProList .newProImg .imgAlertBox ol li img{display:inline !important;}
+
+.slick-slide img{display:inline !important;}
+
+.comLogo span img{width:auto;}
+
+.zyccBox5 a,.zyccBox4 a,.zyccBox3 a,.zyccBox2 a,.zyccBox1 span,.zyccBox a{text-align:left;}
+
+.leftBoxCon.zyccBox4{padding:24px 8px;}
+
+.word1 .tcbx1 p.tcbx1-2{width:auto !important;}
+
+.word-box .tcbx1 p.tcbx1-1{font-size:16px;padding:22px 25px 20px 100px;font-weight:bold;background: url("http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/tips.png") no-repeat 40px -81px;}
+
+.word-box .title{background:#f5f5f5;line-height:28px;padding-left:10px;font-weight:bold;font-size:14px;}
+
+.word-box .conte_reset{padding:0;width:338px;}
+
+.word-box .conte_reset strong{color:#333 !important;}
+
+.word-box .conte_reset .tcbx1{width:328px;overflow:hidden;zoom:1;}
+
+.word-boxword-boxword-boxword-boxword-box .conte_reset p.tcbx1-1{background-position:95px -1019px;padding-left:150px;}
+
+.word-boxword-boxword-boxword-box .conte_reset p.tcbx1-2{padding:0 25px;margin:10px 0;}
+
+.word-boxword-boxword-box .conte_reset p.error_num{background-position:57px -2385px;padding-left:115px;}
+
+.word-boxword-box .conte_reset p.num_tip_no{padding-top:30px;padding-bottom:35px;}
+
+.word-box .conte_reset p.error_num em{font-style:normal;color:#f60;font-size:12px;display:block;font-weight:normal;}
+
+.word-box .word1{border-top:none !important;padding: 0;}
+
+.fLink{margin-top:10px;}
+
+.proSearch{margin: 10px auto 10px;}
+
+.defaultSearch2 .seaInputBox{background:#fff;}
+
+img{width:auto\9 !important;}
+
+.proCarousel ul li,.hotBox1Con ul li .Box1Img,.hotBox2Con ul li .Box1Img,.hotBox3Con ul li .Box1Img,.imgAlertBox ol li,.proBox25left .newProList ul li,.proBox25left .newProList .newProImg,.proBox25left .zsBox .zdImgBox,.proBox25left .newPicList .PicImgCon,.proBox75Rig .messBox .messImg,.proBox75Rig .newProList .newProImg,.albumWindow .albumRig ol li,.proBox75Rig .zsBox .zdImgBox,.cPicBoxList ul li .picListImg,.proBox75Rig .dProList .newProImg,.qBoxImgBox .qImgBox,.Img-box dt,.ImgListBox li .picbox,.seleBox .seleList dd .picbox,.seleRightCon ul li .picbox,signBg.mT4,.slick-slide span,.BtnimgList span,.proCarouselCon ul li,.newProImgNew,.proBox25left .conpanyImg ul li,.proBox75left .conpanyImg ul li,.seleBox2 .seleList dd .picbox,.seleBox .seleList dd .picbox{display:table\9 !important;table-layout:fixed;}
+
+input.placeholder{color:#333;}
+
+.proBox75Rig .newProList .newProImg .imgAlertBox ol li span{width:200px;height:200px;}
+
+.proBox75Rig .proWinCon ul li dl{overflow:hidden;}
+
+.proBox25left .conpanyImg li{height:135px;width:135px;}
+
+.proBox25left .classBox ul li h4 a img{max-width:170px;}
+
+img{min-height:1px;}
+
+ul li dd.hotPrice{height:22px;}
+
+ul li dd.hotPrice strong,.proBox25left .newProList .leftProPrice em{font-weight:normal;}
+
+.proBox75Rig .newProList .leftProPrice span em{margin-right:-2px; font-family: arial;}
+
+ul li dd.hotPrice strong{padding-right:2px;}
+
+.proBox25left .newProList .leftProPrice em{margin-right:-2px;}
+
+.znColumn .showcase75 ul li p.pro_price strong{font-weight:normal;}
+
+#companyIntroduce span{text-align:left !important; width:auto !important;}
+
+#BAIDU_SSP__wrapper_u2844639_0{margin-bottom:10px;}
+
+.proBox75Rig .messBox .messTopRig dt a:hover span,.proBox75Rig .messBox .messTopRig span a:hover,.proBox75Rig .ContactBox span a:hover,.proBox75Rig .zsBox ul li a:hover,.proBox25left .cPicBox a:hover{color:#ee2e2c;}
+
+.footerbox .footer a:hover{color:#ee2e2c;}
+
+.fLink .fLinkBox ul li a:hover,.proBox25left .cPicBox a:hover,.proBox25left .classBox ul li dd a:hover,.proBox25left .classBox ul li h4 a:hover,.proBox25left .newPicList dd a:hover,.proBox25left .newProList .leftProName a:hover,.proBox25left .qyInfoList ul li a:hover,.hotBox1Con ul li dd.hotName a:hover,.hotBox2Con ul li dd.hotName a:hover,.hotBox3Con ul li dd.hotName a:hover,.proBox75Rig .classBox ul li h4 a:hover,.proBox75Rig .qyInfoList ul li a:hover,.proBox75Rig .newProList .leftProName a:hover:hover{color:#ee2e2c !important;}
+
+.hotBox3Con ul li .Box1Img:hover{border:1px solid #ee2e2c !important;}
+
+.hsaxBg{height: 40px;padding-left: 150px;font-size: 12px;width: 150px;line-height: 40px; text-align:center;}
+
+.proImgBox .nInfoPro2{margin-top:10px;}
+
+.proBox75Rig .cDynamics{border:1px solid #e5e5e5;border-top: none;}
+
+.zsBox p a:hover{color:#ee2e2c;}
+
+/*ʵ����֤*/
+
+.fieldBox{overflow:hidden;}
+
+.fieldCon{width:730px;height:520px;position:relative;}
+
+.fieldBot{max-height: 108px;position:absolute;left:0;bottom:0;right:0;padding:0 10px;min-height:60px;}
+
+.fieldBotBg{background:#000; position:absolute; height:100%; width:100%; left:0; right:0;opacity:0.4;filter: alpha(opacity="40"); z-index:49;}
+
+.fieldImgBox{position:relative;}
+
+.fieldImgBox ul{position:absolute; width:100%; left:0; z-index:48; height:520px; overflow:hidden;}
+
+.fieldImgBox ul li{width:740px; height:520px; float:left;}
+
+.fieldLink{padding:7px 10px; overflow:hidden; position:absolute; left:0; top:0; right:0; z-index:50;}
+
+.fieldLink a{display:block; float:left; height:32px; width:120px; text-align:center; font-size:12px; line-height:32px; background:#545452; border-radius:2px; margin:7px 10px;}
+
+.fieldLink a:link{color:#fff !important; text-decoration:none;}
+
+.fieldLink a:hover,.fieldLink a.fieldCir{background:#fff; color:#333 !important; text-decoration:none !important;}
+
+.fieldImgBox a{display:block; width:50px; height:82px; position:absolute; top:219px; background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/field/sdIco.png) no-repeat; z-index:49;}
+
+.fieldImgBox a.fLeftArrow{background-position:0px -62px; left:30px;}
+
+.fieldImgBox a.fRigArrow{background-position:-60px -62px; right:30px;}
+
+.txtbTop{overflow:hidden;}
+
+.txtbTop dl{padding-bottom:10px;}
+
+.txtbTop dt{overflow:hidden; padding-bottom:5px;}
+
+.txtbTop dt h3{float:left; color:#333; font-size:14px;}
+
+.txtbTop dt span{float:left; color:#ff4949; font-size:12px;line-height:22px;}
+
+.txtbTop dd{overflow:hidden;}
+
+.txtbTop dd span{display:block; float:left; margin:5px 10px 5px 0; height:24px; border:1px solid #ff7300;}
+
+.txtbTop dd span b{display:block; font-weight:normal; font-size:12px; color:#ff7300; padding:0 15px; height:22px; border:1px solid #ffcea5; line-height:22px;}
+
+a.sdBtn{display:block;float:right;width:72px;color: #ff7c00 !important;text-align:center;font-size:12px;text-decoration:none;height:24px;line-height:24px;padding-left:24px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/field/sdBtn.png) no-repeat #f7f7f7;border: 1px solid #ff7c00;}
+
+.fieldBoxNew{border: 1px solid #e6e6e6;background: #fff;}
+
+.fieldTit{padding: 15px 0;text-align:center;margin: 0 15px;overflow: hidden;}
+
+.fieldBoxNew .txtbTop{padding: 10px 15px;}
+
+.fieldBoxNew .ctable{border-top: 1px solid #e5e5e5;border-left: 1px solid #e5e5e5;background:#fff;}
+
+.fieldBoxNew th{border-bottom: 1px solid #e5e5e5;border-right: 1px solid #e5e5e5;padding: 6px 0px;text-align:right;font-weight:normal;width: 142px;word-wrap:break-word;word-break:break-all;text-align: center;background: #f3f4f3;}
+
+.fieldBoxNew th b{color:#ff7300; font-weight:normal;}
+
+.fieldBoxNew td{border-bottom: 1px solid #e5e5e5;border-right: 1px solid #e5e5e5;padding: 10px 18px;text-align:left;word-wrap:break-word;word-break:break-all;width:170px;}
+
+.fieldBoxNew .cNameBgcolor a:link{text-decoration:underline;color:#333;}
+
+.fieldBoxNew .cNameBgcolor a:visited{text-decoration:underline;color:#333;}
+
+.fieldBoxNew .cNameBgcolor a:hover{text-decoration:underline;color:#ff0000;}
+
+.fieldBoxNew .cLink a:link{text-decoration:underline;color:#333;}
+
+.fieldBoxNew .cLink a:visited{text-decoration:underline;color:#333;}
+
+.fieldBoxNew .cLink a:hover{text-decoration:none;color:#ff0000;}
+
+.fieldTabBox{padding: 20px 15px 10px 15px;font-size: 14px;}
+
+.evaluateBox{padding: 0 15px;}
+
+.evaluateBot{height:38px;background:#f0f0f0;margin: -4px 15px 24px;padding:0 10px;text-align:right;border:1px solid #e0e0e0;border-top:none;line-height:38px;width: 678px;}
+
+.fieldIco{width:110px;height:27px;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/field/fieldIco.png) no-repeat bottom center;clear: both;margin-left: 38px;padding-top: 5px;margin-bottom: 5px; display:block;}
+
+.evaluateBox{overflow:hidden; clear:both;}
+
+.evaluateBox h3{font-size: 14px;color:#ff7300;line-height: 40px;margin-top:5px;font-weight: normal;}
+
+.evaluateBox .evaluateCon{padding:5px 10px;height:78px;overflow:auto;line-height:20px;margin-bottom:4px;font-size:12px;color:#333;border:1px solid #e0e0e0;/* width: 688px; */}
+
+.fieldImgBox ul li span{width:730px;height:520px;display:table-cell;overflow:hidden;vertical-align:middle;text-align:center;}
+
+.fieldImgBox ul li span img{width:730px !important;height:520px;vertical-align:middle;}
+
+a:hover{text-decoration:none;}
+
+.evaluateBox{border: none !important;}
+
+.strengthIco{width:175px;height:32px;margin:5px auto 10px;background:url("http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/strengthIco.png");}
+
+.sdIcoNew{display:block; height:18px; width:80px; margin-left:12px; border-left:1px solid #ddd; padding-left:12px;background:url("http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/sdIco301.png") right no-repeat; float:left;margin-top:2px;}
+
+/*20170425 ֤�� wxd*/
+
+.certificateBox{overflow:hidden;height:250px; margin-bottom:10px; position:relative;}
+
+.certificateBox ul li{float:left;width: 346px;border:1px solid #ccc;height:248px;position:absolute;}
+
+.certificateBox ul li:hover{z-index:50; border:1px solid #ff7300;}
+
+.certificateBox ul li.cerLeft{left:0;}
+
+.certificateBox ul li.cerRig{right:0;width: 351px;}
+
+.certificateBox ul li dl{margin:0 auto; width:150px; text-align:center;}
+
+.certificateBox ul li dt{line-height:40px; padding-top:5px; font-family:"Microsoft YaHei"; color:#ff7300; font-size:14px;}
+
+.certificateBox ul li dd{width:150px; height:180px;-webkit-box-shadow:0 0 15px #999;-moz-box-shadow:0 0 15px #999;box-shadow:0 0 15px #999;}
+
+.preview{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/certificate/cerTitBg.png) repeat-x; overflow:hidden; font-family:"Microsoft YaHei";}
+
+.previewBox{width:900px; margin:0 auto; position:relative; overflow:hidden;}
+
+.previewTit{font-size:18px; font-weight:bold; text-align:center; line-height:66px; height:66px; margin-bottom:10px;}
+
+.previewImg{width:680px; margin:0 auto; height:500px; vertical-align:middle; text-align:center;}
+
+.previewImg img{max-height:680px; max-height:500px;}
+
+.previewBox .previewLeft,.previewBox .previewRig{height:54px; width:54px; position:absolute; top:50%; margin-top:27px; z-index:500;}
+
+.previewBox .previewLeft a,.previewBox .previewRig a{display:block; height:54px; width:54px;}
+
+.previewBox .previewLeft a:hover,.previewBox .previewRig a:hover{filter:alpha(opacity=75);-moz-opacity:.75;opacity:.75;}
+
+.previewBox .previewLeft{left:0;}
+
+.previewBox .previewRig{right:0;}
+
+.previewBox .previewLeft a{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/certificate/button_previouspage.png);}
+
+.previewBox .previewRig a{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/certificate/button_nextpage.png);}
+
+.previewBox ul{overflow:hidden; width:100%; height:500px;}
+
+.certificateBox ul li a{display:block; text-decoration:none !important;}
+
+.certificateBox ul li a dt{text-decoration:none !important;}
+
+.serv a.SYT_ico{float: left;margin-right:8px; margin-top:3px;vertical-align:middle;background:url("http://style.org.hc360.com/images/detail/mysite/siteconfig/sytLogo.gif") no-repeat 0 0;height:16px;width:61px;display: block;}
+
+.proTopBox2 .proTopBoxCon{height:48px; padding:21px 0; margin:0 auto; width:1190px;}
+
+.proTopBox2 .proTopBoxCon .logoBox{height:48px;width: 160px !important;float: left;}
+
+.proTopBox2 .proTopBoxCon .logoBox a{display:block;height:48px;width:160px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -148px no-repeat;}
+
+.proTopBox2{height:80px;background: #fff;}
+
+.proTopBox2 .proTopBoxCon{height:48px; padding:16px 0; margin:0 auto; width:952px;}
+
+.proTopBox2 .button-box{float:right;}
+
+.proTopBox2 .btn:hover{background:#018BF6;color:#fff}
+
+.proTopBox2 .btn{width:134px;height:32px;border:1px solid #018BF6;text-align: center;line-height:32px;color:#018BF6;font-size:14px;margin-left:8px;cursor:pointer;}
+
+.proTopBox2 .search{float:right;width:686px;padding-left: 40px;padding-top: 6px;height:40px;}
+
+.proTopBox2 .search-box{width: 700px;height:40px;}
+
+.proTopBox2 .search input{width:480px;height: 30px;border: 2px solid #e5e5e5;border-right:none;line-height:32px;color:#A8A8A8;padding-left:10px;float:left;display: inline-block;}
+
+.proTopBox2 .search label{float:left}+
+
+.proTopBox2 .search label button{width:86px;height:36px;text-align: center;line-height:34px;color:#fff;font-size:14px;display: inline-block;border:none;cursor:pointer;}
+
+.proTopBox2 button.thisShop{background: #fff;color: #ee2e2c;border: 1px solid #ee2e2c;height: 34px;}
+
+.proTopBox2 .defaultSearch2 .seaInputBox{width:500px !important;}
+
+.proTopBox2 .defaultSearch2 .searchBox{width:589px !important;}
+
+.proTopBox2 .defaultSearch2 .form_list_tip{width:500px !important}
+
+.defaultSearch2 input{width:312px !important;}
+
+.defaultSearch2 .seaInputBox{width:322px !important;}
+
+.defaultSearch2 .searchBox{width:410px !important;}
+
+.defaultSearch2 .RecordBox, .defaultSearch2 .form_list_tip{width: 501px !important;}
+
+.strengthAlert{width:420px; border:1px solid #dfdfdf; position:absolute; top:48px; left:180px; background:#fff;}
+
+.slTit{height:40px; line-height:40px; border-bottom:1px solid #dfdfdf; background:#fafafa; padding:0 12px;}
+
+a.logo{float:left;}
+
+.proTopBox .strengthBox{float:left; height:44px;line-height:44px; border-left:1px solid #ccc; margin-left:20px; margin-top:2px; width:240px;}
+
+.proTopBox .strengthBox *{float:left;}
+
+.proTopBox .strengthBox h3{font-size:18px; color:#ee2e2c;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/strengthIco2.png) 19px 5px no-repeat;padding-left:56px;}
+
+.proTopBox .strengthBox span{color:#999;font-size:14px;padding-left:5px;width: 50px;white-space: nowrap;}
+
+.proTopBox .strengthBox dl{padding:0 20px;}
+
+.proTopBox .strengthBox dt a{color:#333; font-size:14px; line-height:20px; text-decoration:none; padding:0px 0 4px;}
+
+.proTopBox .strengthBox dd a{display:block; height:22px; width:22px;text-decoration:none;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/contactIco.png) 0 0 no-repeat;background-position: -1px -89px;}
+
+.slTit h3{float:left; font-size:14px;}
+
+.slTit h3 a{color:#333; text-decoration:none;}
+
+.slTit a.presenBtn{display:block; float:left; width:55px; height:18px; border:1px solid #ee2e2c; color:#ee2e2c; line-height:18px; padding-left:23px;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/strengthIco2.png) 6px -51px no-repeat; text-decoration:none; margin:10px 0 0 10px;font-size:12px;}
+
+.strengthRig{width:120px; float:right; border-left:1px dashed #dfdfdf; height:230px; padding:0 8px;}
+
+.strengthRig dl{text-align:center; margin-top:48px;}
+
+.strengthRig dl img{width:120px; height:120px;}
+
+.strengthRig dl dd{line-height:20px; color:#666; font-size:12px;}
+
+.logoBox{width:440px !important; position:relative; z-index:50;}
+
+.gradeBox{overflow:hidden; font-size:14px; padding:10px 0; height:22px; line-height:22px;}
+
+.gradeBox em{display:block;height:23px;width:23px;float:left;margin-right:3px;}
+
+.gradeBox em.vipIco{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -100px 3px no-repeat;}
+
+.gradeBox em.mmtIco{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) -129px -1px no-repeat;}
+
+.gradeBox em.jpIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1699px no-repeat;}
+
+.gradeBox em.ypIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1664px no-repeat;}
+
+.gradeBox em.bjIco{background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/item02/newProIco.png) 0px -1736px no-repeat;}
+
+.gradeBox span{float:left;}
+
+.gradeBox span b{color:#ee2e2c;}
+
+.strengthLeft{padding:0 12px; float:left; width:255px;}
+
+.strengthList li{overflow:hidden;}
+
+.strengthList li *{float:left;display:block; line-height:28px; font-size:12px; color:#666;}
+
+.strengthList li a.rbwIco{margin-top:6px;}
+
+.strengthList li a.rjbIco{margin-top:7px;}
+
+a.gradeImg{margin-top:6px;}
+
+.strengthBot{height:16px; padding:12px 0;border-top:1px dashed #dfdfdf; position:absolute; bottom:0; left:12px; width:250px; overflow:hidden;}
+
+.strengthBot li{height:16px; border-left:1px solid #dfdfdf; float:left; margin-left:-1px; width:33.333%; font-size:12px;}
+
+.strengthBot li a{color:#333; text-decoration:none; padding-left:25px; display:block;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/strengthIco2.png) 0 0 no-repeat;}
+
+.strengthBot li a.goShop{background-position:7px -83px;}
+
+.strengthBot li a.messBtn{background-position:8px -115px;}
+
+.strengthBot li a.collecBtn{background-position:8px -149px;}
+
+.proTopBox .strengthBox a:hover,.strengthBot li a:hover{color:#ee2e2c;}
+
+.strengthAlert.freeBox .strengthList{padding-top:8px;}
+
+.strengthAlert.freeBox .strengthRig{height:200px;}
+
+.strengthAlert.freeBox .strengthRig dl{margin-top:32px;}
+
+a.strengthQQ,a.strengthWX{background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/contactIco.png) 0 0 no-repeat;height:22px;width:22px; display:block; margin:3px 0 0 5px;}
+
+a.strengthQQ{background-position:-1px -89px;}
+
+a.strengthWX{background-position:0 -40px;}
+
+.contact3Btn a.messageBtn:hover{border:1px solid #ee2e2c;color:#ee2e2c !important; background-position:53px -331px;}
+
+.contact3Btn a.fasphoneBtn:hover{border:1px solid #ee2e2c;color:#ee2e2c !important; background-position:35px -279px;}
+
+.contact3Btn a.noldbtncsBtn2:hover{color:#ee2e2c !important; background-position:9px -376px;}
+
+.con3Rig a:hover{color:#ee2e2c !important;}
+
+/*2017-0607 ��Ʒ�Ƽ� wxd*/
+
+.proTopRecom{border:1px solid #ccc;/* height:320px; */margin:10px auto;padding-bottom:15px;background:#fff;width: 950px;overflow: hidden;}
+
+.rRecomTit{height: 34px;background: -webkit-gradient(linear,0 0,0 100%,from(#f7f7f7),to(#f2f2f2));filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f7f7f7", endColorstr="#f2f2f2");-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=" #f7f7f7 ", endColorstr=" #f2f2f2 ")";border-bottom: 1px solid #ddd;line-height: 34px;padding-left: 15px;font-size: 14px;color: #333;}
+
+.rRecomTit h2{float:left; font-size:14px;}
+
+.rRecomTit a{float:right; margin-right:10px; font-size:12px;}
+
+.proTopRecom ul li{width:162px;float:left;margin: 0 12px 0 15px;_margin: 0 13px 0 12px;}
+
+.proTopRecomCon{overflow:hidden;height:auto;padding: 15px 0 0px 2px;WIDTH: 100%;}
+
+.proTopRecomCon ul li p{line-height:20px; overflow:hidden; font-size:12px; color:#333; padding-top:6px;}
+
+.proTopRecomCon ul li p span,.proTopRecomCon ul li p.pay{color:#ff7b04;font-family:microsoft yahei; font-size:16px;}
+
+.recomImgBox,.proTopRecomCon .picbox{border:1px solid #ddd; width:160px; height:160px; overflow:hidden;}
+
+.proTopRecomCon ul li p a.topProBtn{width:80px; height:26px; display:block; text-align:center; line-height:26px; background: -webkit-gradient(linear,0 0,0 100%,from(#f7f7f7),to(#f2f2f2));filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f7f7f7", endColorstr="#f2f2f2");
+
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=" #f7f7f7 ", endColorstr=" #f2f2f2 ")"; border-radius:3px; color:#333; border:1px solid #ccc; text-align:center; line-height:26px; font-size:12px; cursor:pointer;}
+
+.proTopRecomCon ul li p a.topProBtn:hover{color:#fff;border:1px solid #ee2e2c; background:#ee2e2c;}
+
+.proTopRecomCon ul li p a{color:#333;}
+
+.recomName,.txtoverf{display:block; height: 38px; line-height: 18px !important; /* padding-bottom:6px; */ overflow:hidden;}
+
+.recomName a:hover,.txtoverf a:hover{color:#ee2e2c; text-decoration:underline;}
+
+.rRecomTit em.changeSp{padding:0 10px 0 0;display: block;border: 1px solid #ddd;height: 21px;line-height: 20px;padding: 0 10px;background: #fff;border-radius: 2px;margin-top:6px;margin-right:7px;float:right;cursor:pointer;}
+
+.rRecomTit em.changeSp:hover{color:#ee2e2c; border:1px solid #ee2e2c;}
+
+.recomName a{text-decoration:none;}
+
+.recomName a:hover{color:#ee2e2c;}
+
+.proBox75Rig .cDynamicsList ul li span.txtc03{float:left;}
+
+/* 2017-06-13 ��ѻ�ԱP4P��Ʒ��Ϣ YLQ */
+
+.contentbox{padding:10px 0 !important;}
+
+.p4pListBox{clear:both;background:#fff;border:1px solid #e6e6e6;margin-bottom:10px;overflow:hidden;}
+
+.p4pListBox ul{padding:5px 0 5px 6px;overflow:hidden;}
+
+.p4pListBox li{float:left;width: 162px !important;padding:10px 9px;}
+
+.p4pListBox li .p4pImg{width:160px;height:160px;display:table-cell;vertical-align: middle;text-align: center;margin: 0 auto;background: none repeat scroll 0 0 #fff;border: 1px solid #e0e0e0;}
+
+.p4pListBox li .p4pImg img{max-width:160px;max-height:160px;}
+
+.p4pListBox li p{position: static;overflow: hidden;margin-bottom: 2px;}
+
+.p4pListBox li p.pro_price{width: 162px !important;height:20px;line-height:20px;color:#ee2e2c;margin-top:4px;padding-bottom: 2px;font-size: 16px;padding: 10px 0px 5px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+.p4pListBox li p.pro_price strong{font-weight: normal;}
+
+.p4pListBox li .wReproinfo{height:36px;font-size: 14px;}
+
+.p4pListBox li .wReproinfo a{display: block;width: 158px;height:36px;line-height: 18px;overflow: hidden;color: #666;word-wrap: break-word;word-break: break-all;}
+
+/*20170519-��ϵ�����Ż�-wxd*/
+
+.ContacCon3 ul{width: 670px;float: left;}
+
+.contact3Btn{height:30px;padding-top:25px;float: left;width: 670px;position: relative;}
+
+.contact3Btn a{}
+
+.contact3Btn a.fasphoneBtn{display:block; float:left; margin-right:30px;line-height:28px;border:1px solid #fff;height:28px; font-size:14px; color:#666; border-radius:2px; overflow:hidden; text-decoration:none; background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/contactIco.png) 0 0 no-repeat;border:1px solid #666;padding-left:52px;width:133px; background-position:35px -135px;}
+
+.contact3Btn a.messageBtn{display:block; float:left; margin-right:30px;line-height:28px;border:1px solid #fff;height:28px; font-size:14px; color:#666; border-radius:2px; overflow:hidden; text-decoration:none; background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/contactIco.png) 0 0 no-repeat;padding-left:75px;border:1px solid #666;width:110px; background-position:53px -187px;}
+
+.contact3Btn a.noldbtncsBtn2{padding-left:35px;background-position:9px -232px}
+
+.con3Rig span{display:block; float:left;}
+
+.con3Rig a.contactChat,.con3Rig a.contactWX,.con3Rig a.contactQQ{display:block; float:left; margin:0 10px 0 20px; font-size:12px; color:#666 !important;background:url(http://style.org.hc360.com/images/detail/mysite/siteconfig/newPro/contactIco.png) 0 0 no-repeat;}
+
+.con3Rig a.contactChat{padding-left:26px; background-position:0 1px; display:block; height:20px;}
+
+.con3Rig a.contactWX{padding-left:22px; background-position:0 -40px;}
+
+.con3Rig a.contactQQ{background-position:-1px -89px; height:21px; width:21px;}
+
+.ContacCon3{padding: 15px 5px;font-size: 14px;color: #333;float: left;width: 670px;}
+
+.ContacCon3 ul li{float: left;min-width:640px;padding-right: 20px;padding: 5px 20px 5px 0;line-height:20px;width: 670px;}
+
+.con3Left{float:left;width: 72px;}
+
+.con3Rig{float:left;max-width: 580px;}
+
+.con3Rig a{color:#666; text-decoration:none;}
+
+.con3Rig a:hover{color:#ee2e2c;}
+
+.letSpac05{letter-spacing:0.5em; letter-spacing:0.3\9;display: block;float: left;width: 56px;white-space: nowrap;}
+
+.letSpac1{letter-spacing: 2em;letter-spacing: 1\9;display: block;width: 56px;white-space: nowrap;float: left;}
+
+.hxImgBox{height:22px;}
+
+.ContacCon3 a:hover{text-decoration:none !important;}
+
+.con3Rig a{color:#1e50a2;}
+
+.placing input.inptaa{width:230px;margin-top: 6px;}
+
+.placing input.placbtn2{border: 1px solid #bbb;color:#333;background: #fff;width: 55px;margin-top: 7px; cursor:pointer;}
+
+.placing input.placbtn{float: left;margin-right:10px;margin-top:7px;}
+
+.contact3Btn a.messageBtn:hover{border:1px solid #ee2e2c;color:#ee2e2c !important; background-position:53px -331px;}
+
+.contact3Btn a.fasphoneBtn:hover{border:1px solid #ee2e2c;color:#ee2e2c !important; background-position:35px -279px;}
+
+.contact3Btn a.noldbtncsBtn2:hover{color:#ee2e2c !important; background-position:9px -376px;}
+
+.con3Rig a:hover{color:#ee2e2c !important;}
+
+.proSearchRig button{margin-left:10px !important;}
+
+#poster{float:left;}
+
+.proBox75Rig .ContactPage{float:left}
+
+.con3Rig a.contactWX2{display:block;float:left;margin:0 10px 0 20px;font-size:12px;color:#666 !important;background: url(http://style.org.hc360.com/images/detail/mysite/siteconfig/new_product/newImg/wxIco1.png) 0 2px no-repeat;padding-left:26px;display:block;height:20px;}
+
+.con3Rig span a:hover{color:#1e50a2 !important;}
+
+.proBox25left .aRight .acName a:hover{color:#1e50a2;}
+

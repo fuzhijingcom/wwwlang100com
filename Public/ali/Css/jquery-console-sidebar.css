@@ -1,0 +1,223 @@
+.ds-console-container,.ds-console-mainbar,body,html {
+	overflow: hidden;
+	height: 100%
+}
+
+.ds-console-container::after,.ds-console-container::before,.ds-console-mainbar::after,.ds-console-mainbar::before,.ds-container::after,.ds-container::before {
+	display: table;
+	content: ' '
+}
+
+.ds-console-container::after,.ds-console-mainbar::after,.ds-container::after {
+	clear: both
+}
+
+body,html {
+	width: 100%;
+	border: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+.ds-console-mainbar {
+	min-width: 1000px;
+	overflow: auto;
+	background-color: #FFF
+}
+
+.ds {
+	font-size: 12px
+}
+
+.ds ul,.ds ul>li {
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+
+.ds-fl {
+	float: left!important
+}
+
+.ds-fr {
+	float: right!important
+}
+
+.ds-container {
+	width: 1003px!important;
+	margin: 0 auto
+}
+
+.ds-console-sidebar {
+	float: left;
+	height: 100%
+}
+
+.ds-console-sidebar-fold {
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	color: #a0aab3;
+	cursor: pointer;
+	background-color: #3b4555;
+	text-align: center;
+	font-size: 9px;
+	font-family: monospace;
+	font-weight: 700;
+	letter-spacing: -2px
+}
+
+.ds-console-sidebar-main {
+	float: left;
+	width: 42px;
+	height: 100%;
+	background-color: #232d3b;
+	overflow: auto;
+	transition: all .3s
+}
+
+.ds-console-sidebar-nav {
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	font-smoothing: antialiased
+}
+
+.ds-console-sidebar-nav .sidebar-text {
+	display: none;
+	margin-left: 10px
+}
+
+.ds-console-sidebar-main.unfold {
+	width: 180px
+}
+
+.ds-console-sidebar-main.unfold .sidebar-text {
+	display: inline-block
+}
+
+.ds-console-sidebar-title {
+	color: #FFF;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: 400;
+	background-color: #22282e;
+	padding: 9px 15px;
+	overflow: hidden;
+	-webkit-user-select: none;
+	-moz-user-select: none
+}
+
+.ds-console-sidebar-title:hover {
+	background-color: #485568
+}
+
+.ds-console-sidebar-title .ds-icon-arrow {
+	display: inline-block;
+	vertical-align: top;
+	width: 14px;
+	height: 14px;
+	overflow: hidden;
+	transition: transform .12s;
+	-o-transition: -o-transform .12s;
+	-ms-transition: -ms-transform .12s;
+	-moz-transition: -moz-transform .12s;
+	-webkit-transition: -webkit-transform .12s
+}
+
+.ds-console-sidebar-title .ds-icon-arrow::before {
+	display: block;
+	content: ' ';
+	border: 4px solid;
+	border-color: transparent transparent transparent #FFF;
+	margin: 3px 0 0 5px
+}
+
+.ds-console-sidebar-title.open .ds-icon-arrow {
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg)
+}
+
+.ds-console-sidebar-nav-content {
+	display: none;
+	list-style: none
+}
+
+.ds-console-sidebar-nav-content.unfold {
+	display: block
+}
+
+.ds-console-sidebar-nav-content .sidebar-text {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 15px;
+	padding-top: 3px
+}
+
+.ds-console-sidebar-nav-content .dsiconfont {
+	color: #485568;
+	display: inline-block;
+	vertical-align: top;
+	width: 18px;
+	height: 15px;
+	font-size: 14px;
+	transition: all .3s
+}
+
+.ds-console-sidebar-nav-content .dsiconfont:before {
+	text-align: center
+}
+
+.ds-console-sidebar-nav-content>li>a {
+	color: #FFF;
+	display: block!important;
+	font-size: 12px;
+	font-weight: 400;
+	padding: 7px 15px!important;
+	text-decoration: none;
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	font-smoothing: antialiased
+}
+
+.ds-console-sidebar-nav-content>li>a.action,.ds-console-sidebar-nav-content>li>a:hover {
+	background-color: #485568;
+	/* border-right: 3px solid #5dc6f5; */
+	text-decoration: none
+}
+
+.ds-console-sidebar-nav-content>li>a.action .dsiconfont,.ds-console-sidebar-nav-content>li>a:hover .dsiconfont {
+	color: #FFF
+}
+
+.ds-console-sidebar-tips {
+	color: #FFF;
+	background: #485568;
+	line-height: normal;
+	font-size: 12px;
+	padding: 9px 10px;
+	position: absolute;
+	top: -999em;
+	left: -999em
+}
+
+.ds-console-sidebar-tips::before {
+	display: block;
+	content: ' ';
+	border: 7px solid;
+	border-color: transparent #485568 transparent transparent;
+	position: absolute;
+	top: 8px;
+	left: -13px
+}

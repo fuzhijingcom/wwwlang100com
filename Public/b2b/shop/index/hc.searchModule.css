@@ -1,0 +1,163 @@
+ul, ol{list-style:none; margin:0; padding:0;}
+
+.defaultSearch1,.defaultSearch2,.defaultSearch3,.defaultSearch4,.defaultSearch5{font-family:microsoft yahei;}
+.defaultSearch1 button,.defaultSearch2 button,.defaultSearch3 button,.defaultSearch4 button,.defaultSearch5 button{ font-size:14px;}
+.defaultSearch1 .searchBox{width:580px;height:40px;position: relative;}
+.defaultSearch1 input{width:410px;height: 30px;border: none;border-right:none;line-height: 32px;color: #999;outline: none;padding: 0;}
+.defaultSearch1 label{float:left;position: absolute;left: 492px;}
+.defaultSearch1 label button{width:86px;height:36px;background:#d11120;text-align: center;line-height:34px;color:#fff;font-size:14px;display: inline-block;border:none;cursor:pointer}
+.defaultSearch1 label button:hover{background:#d11120}
+.defaultSearch1 .form_list_tip ul{width:501px; padding-top:0;}
+.defaultSearch1 .RecordBox, .defaultSearch1 .form_list_tip{width: 426px;border: 1px solid #ddd;max-height:470px;background:#FFF;position:absolute;top: 36px;left: 64px;z-index:98;border-top:0;z-index:1001;}
+.defaultSearch1 .form_list_tip  li,.defaultSearch1 .RecordBox ul li{line-height:28px;height:28px;*margin:0;position:relative;width: 426px;}
+.defaultSearch1 .cur{background:#f0f0f0;}
+.defaultSearch1 .form_list_tip ul li span{color:#999;padding-right:10px;position:absolute;z-index:333;right:0;white-space:nowrap;font-size: 12px;}
+.defaultSearch1 .form_list_tip ul li a{width: 60%;display:block;font-size:14px;color:#333;text-indent:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration: none;}
+.defaultSearch1 .form_list_tip ul li.hiskey a{color:#1e50a2}
+.defaultSearch1 .form_list_tip ul li a.delist{float:right;padding-right:10px;width:40px!important;font-size:12px;color:#999}
+.defaultSearch1 .form_list_tip ul li a.txt{color:#1e50a2}
+.defaultSearch1 .form_list_tip ul li a.delist:hover{background:0}
+.defaultSearch1 .form_list_tip ul li a:hover{text-decoration:none;color:#0b509b;}
+.defaultSearch1 .form_advice{border-top: 1px solid #ddd;clear:both;text-align:center;line-height:26px;width: 100%;font-size: 12px;color: #333;}
+.defaultSearch1 .form_search{ position:relative;}
+.defaultSearch1 .form_list_tip{display:none; }
+.defaultSearch1 .RecordBox ul li a{ display:block; font-size:14px; color:#333; line-height:28px; text-decoration:none;text-indent:17px;}
+.defaultSearch1 .RecordBox ul li a:hover{color:#333;background:#f0f0f0;}
+.defaultSearch1 .s_trigger{z-index:999;width:50px;color: #666;position:absolute;float: left;line-height: 32px;height: 32px;border-right:1px solid #ddd;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/new/newIco.png) 45px -72px;background-color:#f5f5f5;left: 0px;top: 0px;padding-left: 12px;font-size: 12px;cursor: pointer;border: 2px solid #DDDDDD;border-right: none;}
+.defaultSearch1 .s_options{background: #f5f5f5;width: 62px;height:auto;position: absolute;top: 34px;display: block;z-index: 5000;left: 0px;font-size: 12px;text-align: left;border: 2px solid #ddd;}
+.defaultSearch1 .s_options a{display: block;width: 50px;text-align: left;color: #666;text-decoration: none;line-height:34px;padding-left: 12px;}
+.defaultSearch1 .seaTbtn{ float:left; display:none;}
+.default-search1{float: left;width: 580px;}
+
+
+.defaultSearch2 .searchBox{width: 589px;height:40px;position: relative;float: left;}
+.defaultSearch2 input{width: 490px;height: 32px;border-right: none;line-height: 32px;color: #A8A8A8;padding: 0 0 0 10px;float: left;display: inline-block;border: none !important;outline: none;}
+
+.defaultSearch2 label{float:left}
+.defaultSearch2 label button{width:86px;height: 36px;background: #d11120;text-align: center;line-height: 36px;color:#fff;font-size:14px;display: inline-block;border:none;cursor:pointer;margin: 0;}
+.defaultSearch2 label button:hover{background:#d11120}
+.defaultSearch2 .form_list_tip ul{width: 100%;padding-top:0;}
+.defaultSearch2 .RecordBox,.defaultSearch2 .form_list_tip{width: 500px;border: 1px solid #ddd;max-height:470px;background:#FFF;position:absolute;top: 36px;left: 0;border-top:0;z-index: 1002;overflow: hidden;}
+.defaultSearch2 .form_list_tip  li,.defaultSearch2 .RecordBox ul li{line-height:28px;height:28px;*margin:0;position:relative;width: 100%;}
+.defaultSearch2 .cur{background:#f0f0f0;}
+.defaultSearch2 .form_list_tip ul li span{color:#999;padding-right:10px;position:absolute;z-index:333;right:0;white-space:nowrap;font-size: 12px;}
+.defaultSearch2 .form_list_tip ul li a{width: 60%;display:block;font-size:14px;color:#333;text-indent:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration: none;}
+.defaultSearch2 .form_list_tip ul li.hiskey a{color:#1e50a2}
+.defaultSearch2 .form_list_tip ul li a.delist{float:right;padding-right:10px;width:40px!important;font-size:12px;color:#999}
+.defaultSearch2 .form_list_tip ul li a.txt{color:#1e50a2}
+.defaultSearch2 .form_list_tip ul li a.delist:hover{background:0}
+.defaultSearch2 .form_list_tip ul li a:hover{text-decoration:none;color:#0b509b;}
+.defaultSearch2 .form_advice{border-top: 1px solid #ddd;clear:both;text-align:center;line-height:26px;width: 100%;font-size: 12px;color: #333;}
+.defaultSearch2 .form_search{ position:relative;}
+.defaultSearch2 .form_list_tip{display:none; }
+.defaultSearch2 .RecordBox ul li{width:500px;}
+.defaultSearch2 .RecordBox ul li a{display:block;font-size:14px;color:#333;line-height:28px;text-decoration:none;padding-left: 10px;}
+.defaultSearch2 .RecordBox ul li a:hover{color:#333;background:#f0f0f0;}
+.defaultSearch2 .s_trigger{width:50px;color: #666;position:absolute;float: left;line-height: 34px;height: 34px;border-right:1px solid #ddd;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/new/newIco.png) 45px -72px;background-color:#f5f5f5;left: 2px;top: 2px;padding-left: 12px;font-size: 12px;display: none;}
+.defaultSearch2 .s_options{background: #f5f5f5; width:62px; height:auto; position: absolute; top:36px; display: block; z-index: 5000; left:2px;}
+.defaultSearch2 .s_options a{display: block; width: 100%; text-align: center; color: #666; text-decoration: none; line-height:34px;}
+.defaultSearch2 .seaTbtn{ padding-left:10px; width: 86px;height: 34px; float:left;}
+.defaultSearch2 .seaTbtn button{width: 86px;height: 36px;border: 1px solid #d11120;color: #d11120;background: none;line-height: 32px;cursor: pointer;}
+
+
+
+.defaultSearch3 .searchBox{width:580px;height:40px;position: relative; float:left; z-index:10;}
+.defaultSearch3 input{width:480px;height:32px;border-right:none;line-height:32px;color:#A8A8A8;padding: 0 0 0 10px;float:left;display: inline-block;border: none !important;outline: none;}
+.defaultSearch3 label{float:left}
+.defaultSearch3 label button{width:86px;height:36px;background:#018BF6;text-align: center;line-height:34px;color:#fff;font-size:14px;display: inline-block;border:none;cursor:pointer}
+.defaultSearch3 label button:hover{background:#0a84e2}
+.defaultSearch3 .form_list_tip ul{width: 100%;padding-top:0;}
+.defaultSearch3 .RecordBox,.defaultSearch3 .form_list_tip{width: 501px;border: 1px solid #ddd;max-height:470px;background:#FFF;position:absolute;top: 36px;left: 0;z-index:98;border-top:0;z-index: 1002;}
+.defaultSearch3 .form_list_tip  li,.defaultSearch3 .RecordBox ul li{line-height:28px;height:28px;*margin:0;position:relative;width: 100%;}
+.defaultSearch3 .cur{background:#f0f0f0;}
+.defaultSearch3 .form_list_tip ul li span{color:#999;padding-right:10px;position:absolute;z-index:333;right:0;white-space:nowrap;font-size: 12px;}
+.defaultSearch3 .form_list_tip ul li a{width: 60%;display:block;font-size:14px;color:#333;text-indent: 10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration: none;}
+.defaultSearch3 .form_list_tip ul li.hiskey a{color:#1e50a2}
+.defaultSearch3 .form_list_tip ul li a.delist{float:right;padding-right:10px;width:40px!important;font-size:12px;color:#999}
+.defaultSearch3 .form_list_tip ul li a.txt{color:#1e50a2}
+.defaultSearch3 .form_list_tip ul li a.delist:hover{background:0}
+.defaultSearch3 .form_list_tip ul li a:hover{text-decoration:none;color:#0b509b;}
+.defaultSearch3 .form_advice{border-top: 1px solid #ddd;clear:both;text-align:center;line-height:26px;width: 100%;font-size: 12px;color: #333;}
+.defaultSearch3 .form_search{ position:relative;}
+.defaultSearch3 .form_list_tip{display:none; }
+.defaultSearch3 .RecordBox ul li a{display:block;font-size:14px;color:#333;line-height:28px;text-decoration:none;text-indent: 11px;}
+.defaultSearch3 .RecordBox ul li a:hover{color:#333;background:#f0f0f0;}
+.defaultSearch3 .s_trigger{width:50px;color: #666;position:absolute;float: left;line-height: 34px;height: 34px;border-right:1px solid #ddd;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/new/newIco.png) 45px -72px;background-color:#f5f5f5;left: 2px;top: 2px;padding-left: 12px;font-size: 12px;display: none;}
+.defaultSearch3 .s_options{background: #f5f5f5; width:62px; height:auto; position: absolute; top:36px; display: block; z-index: 5000; left:2px;}
+.defaultSearch3 .s_options a{display: block; width: 100%; text-align: center; color: #666; text-decoration: none; line-height:34px;}
+.defaultSearch3 .seaTbtn{ padding-left:10px; width: 86px;height: 34px; float:left;}
+.defaultSearch3 .seaTbtn button{width: 86px;height: 34px;border: 1px solid #018BF6;color: #018BF6;background: none;line-height: 32px;cursor: pointer;}
+
+
+.defaultSearch4 .searchBox{width: 450px;height:40px;position: relative;float:left; z-index:10;}
+.defaultSearch4 input{width: 356px;height: 30px;line-height: 30px;color: #A8A8A8;padding: 0 0 0 10px;float: left;display: inline-block;border: none;outline: none; background:none;}
+.defaultSearch4 label{float:left}
+.defaultSearch4 label button{width: 72px;height: 34px;background: #d11120;text-align: center;line-height: 32px;color: #fff;font-size: 14px;display: inline-block;border: none;cursor: pointer;}
+.defaultSearch4 label button:hover{background:#d11120}
+.defaultSearch4 .form_list_tip ul{width: 100%;padding-top:0;}
+.defaultSearch4 .RecordBox, .defaultSearch4 .form_list_tip{width: 366px;border: 1px solid #ddd;max-height:470px;background:#FFF;position:absolute;top: 34px;left: 0;z-index:98;border-top:0;z-index: 1002;}
+.defaultSearch4 .form_list_tip  li, .defaultSearch4 .RecordBox ul li{line-height:28px;height:28px;*margin:0;position:relative;width: 100%;}
+.searchBox4 .cur{background:#f0f0f0;}
+.defaultSearch4 .form_list_tip ul li span{color:#999;padding-right:10px;position:absolute;z-index:333;right:0;white-space:nowrap;font-size: 12px;}
+.defaultSearch4 .form_list_tip ul li a{width: 70%;display:block;font-size:14px;color:#333;text-indent: 10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration: none;}
+.defaultSearch4 .form_list_tip ul li.hiskey a{color:#1e50a2}
+.defaultSearch4 .form_list_tip ul li a.delist{float:right;padding-right:10px;width:40px!important;font-size:12px;color:#999}
+.defaultSearch4 .form_list_tip ul li a.txt{color:#1e50a2}
+.defaultSearch4 .form_list_tip ul li a.delist:hover{background:0}
+.defaultSearch4 .form_list_tip ul li a:hover{text-decoration:none;color:#0b509b;}
+.defaultSearch4 .form_advice{border-top: 1px solid #ddd;clear:both;text-align:center;line-height:26px;width: 100%;font-size: 12px;color: #333;}
+.defaultSearch4 .form_search{ position:relative;}
+.defaultSearch4 .form_list_tip{display:none; }
+.defaultSearch4 .RecordBox ul li a{display:block;font-size:14px;color:#333;line-height:28px;text-decoration:none;text-indent: 10px;}
+.defaultSearch4 .RecordBox ul li a:hover{color:#333;background:#f0f0f0;}
+.defaultSearch4 .s_trigger{width:50px;color: #666;position:absolute;float: left;line-height: 34px;height: 34px;border-right:1px solid #ddd;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/new/newIco.png) 45px -72px;background-color:#f5f5f5;left: 2px;top: 2px;padding-left: 12px;font-size: 12px;display: none;}
+.defaultSearch4 .s_options{background: #f5f5f5; width:62px; height:auto; position: absolute; top:36px; display: block; z-index: 5000; left:2px;}
+.defaultSearch4 .s_options a{display: block; width: 100%; text-align: center; color: #666; text-decoration: none; line-height:34px;}
+.defaultSearch4 .seaTbtn{width: 74px;height: 34px;float:left;}
+.defaultSearch4 .seaTbtn button{width: 70px;height: 34px;border: 1px solid #d11120;color: #d11120;background: none;line-height: 32px;cursor: pointer;}
+
+
+.defaultSearch1 .seaInputBox{display: inline-block;left: 64px;padding-left: 16px;height: 32px;width: 410px;border: 2px solid #DDDDDD;position: relative;border-right: none;position: absolute;}
+.defaultSearch1 .seaInputBox p{position:absolute;line-height: 32px;font-size: 12px;color: #999;background: #fff;top: 0;margin: 0;left: 19px;}
+.defaultSearch2 .seaInputBox{float: left;padding-left: 0;height: 32px;width: 500px;border: 2px solid #DDDDDD;position: relative;border-right: none;}
+.defaultSearch2 .seaInputBox p{position:absolute;line-height: 32px;font-size: 12px;color: #999;background: #fff;top: 0;margin: 0;left: 10px;height: 32px;}
+.defaultSearch3 .seaInputBox{float: left;display: inline-block;padding-left: 0;height: 32px;width: 490px;position: relative;border: 2px solid #DDDDDD;border-right: none;}
+.defaultSearch3 .seaInputBox p{position:absolute;line-height: 32px;font-size: 12px;color: #999;background: #fff;top: 0px;margin: 0;left: 13px;}
+.defaultSearch4 .seaInputBox{float: left;display: inline-block;height: 30px;width: 366px;border: 2px solid #DDDDDD;position: relative;border-right: none; background:#fff;}
+.defaultSearch4 .seaInputBox p{position:absolute;line-height: 30px;font-size: 12px;color: #999;background: #fff;top: 0;margin: 0;left: 10px;}
+.RecordBox ul{padding-top:0 !important;}
+.part-search .search-box {z-index:12 !important;}
+.defaultSearch4 .RecordBox ul li.cur,.defaultSearch4 .form_list_tip li.cur{ background:#f0f0f0;}
+.RecordBox ul li a{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+
+
+.defaultSearch5 .searchBox{width: 329px;height:40px;position: relative;float: left;}
+.defaultSearch5 input{width: 228px;height: 32px;border-right: none;line-height: 32px;color: #A8A8A8;padding: 0 0 0 10px;float: left;display: inline-block;border: none !important;outline: none;}
+.defaultSearch5 label{float:left}
+.defaultSearch5 label button{width:86px;height: 36px;background: #d11120;text-align: center;line-height: 36px;color:#fff;font-size:14px;display: inline-block;border:none;cursor:pointer;margin: 0;}
+.defaultSearch5 label button:hover{background:#d11120}
+.defaultSearch5 .form_list_tip ul{width: 100%;padding-top:0;}
+.defaultSearch5 .RecordBox,.defaultSearch5 .form_list_tip{width: 327px;border: 1px solid #ddd;max-height:470px;background:#FFF;position:absolute;top: 36px;left: 0;border-top:0;z-index: 1002;overflow: hidden;}
+.defaultSearch5 .form_list_tip  li,.defaultSearch5 .RecordBox ul li{line-height:28px;height:28px;*margin:0;position:relative;width: 100%;}
+.defaultSearch5 .cur{background:#f0f0f0;}
+.defaultSearch5 .form_list_tip ul li span{color:#999;padding-right:10px;position:absolute;z-index:333;right:0;white-space:nowrap;font-size: 12px;}
+.defaultSearch5 .form_list_tip ul li a{width: 60%;display:block;font-size:14px;color:#333;text-indent:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration: none;}
+.defaultSearch5 .form_list_tip ul li.hiskey a{color:#1e50a2}
+.defaultSearch5 .form_list_tip ul li a.delist{float:right;padding-right:10px;width:40px!important;font-size:12px;color:#999}
+.defaultSearch5 .form_list_tip ul li a.txt{color:#1e50a2}
+.defaultSearch5 .form_list_tip ul li a.delist:hover{background:0}
+.defaultSearch5 .form_list_tip ul li a:hover{text-decoration:none;color:#0b509b;}
+.defaultSearch5 .form_advice{border-top: 1px solid #ddd;clear:both;text-align:center;line-height:26px;width: 100%;font-size: 12px;color: #333;}
+.defaultSearch5 .form_search{ position:relative;}
+.defaultSearch5 .form_list_tip{display:none; }
+.defaultSearch5 .RecordBox ul li{width: 327px;}
+.defaultSearch5 .RecordBox ul li a{display:block;font-size:14px;color:#333;line-height:28px;text-decoration:none;padding-left: 10px;}
+.defaultSearch5 .RecordBox ul li a:hover{color:#333;background:#f0f0f0;}
+.defaultSearch5 .s_trigger{width:50px;color: #666;position:absolute;float: left;line-height: 34px;height: 34px;border-right:1px solid #ddd;background: url(http://style.org.hc360.com/images/my/images/corcenter/mmt4/new/newIco.png) 45px -72px;background-color:#f5f5f5;left: 2px;top: 2px;padding-left: 12px;font-size: 12px;display: none;}
+.defaultSearch5 .s_options{background: #f5f5f5; width:62px; height:auto; position: absolute; top:36px; display: block; z-index: 5000; left:2px;}
+.defaultSearch5 .s_options a{display: block; width: 100%; text-align: center; color: #666; text-decoration: none; line-height:34px;}
+.defaultSearch5 .seaTbtn{ padding-left:10px; width: 86px;height: 34px; float:left;}
+.defaultSearch5 .seaTbtn button{width: 86px;height: 36px;border: 1px solid #d11120;color: #d11120;background: none;line-height: 32px;cursor: pointer;}
+.defaultSearch5 .seaInputBox{float: left;padding-left: 0;height: 32px;width: 500px;border: 2px solid #DDDDDD;position: relative;border-right: none;}
+.defaultSearch5 .seaInputBox p{position:absolute;line-height: 32px;font-size: 12px;color: #999;background: #fff;top: 0;margin: 0;left: 10px;height: 32px;}
