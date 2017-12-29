@@ -51,7 +51,13 @@ class RedController extends Controller {
      	$this->assign('code',$code);
  
      	$this->assign('token',$newtoken);
-    	$this->display();
+     	
+     	$url = "http://wx.huipu.org/share/redpacket/index/event/".$code."/money/".$money."/token/".$newtoken;
+     	
+     	
+     	header("Location:".$url);
+     	
+    	//$this->display();
       
     }
     
