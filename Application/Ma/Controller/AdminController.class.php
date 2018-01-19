@@ -18,7 +18,10 @@ class AdminController extends Controller {
     
    
     public function all_code(){
-        $code = M('code')->where('status',1)->select();
+
+        $condition['id'] = array('lt',50);
+
+        $code = M('code')->where('status',1)->where($condition)->select();
        // dump($all);
        $this->assign('code',$code);
         $this->display();
